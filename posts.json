@@ -1,5 +1,39 @@
 [
   {
+    "id": "344",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日泛科技汇总：字节跳动发布中国首个AI IDE Trae、Stripe拟00亿收购OpenRouter、腾讯混元组织架构合并",
+      "summary": "⚡ 7月24日泛科技汇总：字节跳动正式发布中国首个AI原生IDE Trae国内版，配置豆包1.5pro并支持DeepSeek R1/V3切换；Stripe拟以约100亿美元收购大模型中转站OpenRouter，估值不到三月翻8倍；腾讯混元多模态与语言模型部门合并成立基础模型部，由首席AI科学家姚顺雨统一管理；ChatGPT原生图像生成功能向所有免费用户开放，每天3次生成机会。",
+      "tags": [
+        "科技新闻",
+        "字节跳动",
+        "Trae",
+        "Stripe",
+        "OpenRouter",
+        "腾讯混元",
+        "ChatGPT",
+        "图像生成"
+      ],
+      "file": "posts/344-bytedance-trae-ai-ide-stripe-openrouter-tencent-hunyuan-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: ByteDance Launches China's First AI IDE Trae, Stripe to Acquire OpenRouter for ~$10B, Tencent Restructures AI Division",
+      "summary": "⚡ July 24 tech roundup: ByteDance launches China's first native AI IDE Trae domestic edition; Stripe in talks to acquire OpenRouter for ~$10 billion; Tencent merges multimodal and LLM teams into new Foundation Model Department; ChatGPT native image generation rolls out to free users with 3 generations per day.",
+      "tags": [
+        "Tech News",
+        "ByteDance",
+        "Trae",
+        "Stripe",
+        "OpenRouter",
+        "Tencent",
+        "ChatGPT",
+        "Image Generation"
+      ],
+      "file": "posts/344-bytedance-trae-ai-ide-stripe-openrouter-tencent-hunyuan-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "343",
     "date": "2026-07-24",
     "zh": {
