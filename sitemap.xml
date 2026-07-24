@@ -3507,4 +3507,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/350-july-25-financial-roundup-friday-recovery-oil-95-tariffs-pmi.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/350-july-25-financial-roundup-friday-recovery-oil-95-tariffs-pmi.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
