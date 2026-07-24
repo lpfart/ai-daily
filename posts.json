@@ -1,5 +1,45 @@
 [
   {
+    "id": "345",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日泛科技综述：DeepSeek V4旧API正式停服、Foundation Robotics联手AMD打造人形机器人、谷歌发布AI经济ATLAS报告",
+      "summary": "⚡ 7月24日泛科技综述：DeepSeek于15:59 UTC正式停用旧API名称deepseek-chat和deepseek-reasoner，全球开发者需迁移至V4-Flash/V4-Pro显式模型名；Eric Trump旗下Foundation Robotics在AMD Advancing AI大会上宣布采用Ryzen AI Embedded X100芯片打造Phantom MK-2人形机器人，用于工业和国防领域；谷歌发布AI与经济ATLAS报告，基于1460万次Gemini交互分析显示AI覆盖68%职业但仅触及21%任务；Polymarket预测市场显示Anthropic 7月底前发布新Claude Opus模型概率达91%。",
+      "tags": [
+        "泛科技",
+        "DeepSeek",
+        "API停服",
+        "Foundation Robotics",
+        "AMD",
+        "人形机器人",
+        "谷歌",
+        "ATLAS",
+        "AI经济",
+        "Anthropic",
+        "Claude Opus"
+      ],
+      "file": "posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: DeepSeek V4 Legacy API Retires, Foundation Robotics Partners with AMD, Google Publishes AI Economy ATLAS",
+      "summary": "⚡ July 24 tech roundup: DeepSeek retires deepseek-chat and deepseek-reasoner API names at 15:59 UTC forcing global developer migration; Foundation Robotics partners with AMD using Ryzen AI Embedded X100 for Phantom MK-2 humanoid robots; Google publishes AI Economy ATLAS based on 14.6M Gemini interactions showing AI reaches 68% of occupations but only 21% of tasks; Polymarket signals 91% probability of new Claude Opus model in July.",
+      "tags": [
+        "Tech",
+        "DeepSeek",
+        "API Retirement",
+        "Foundation Robotics",
+        "AMD",
+        "Humanoid Robots",
+        "Google",
+        "ATLAS",
+        "AI Economy",
+        "Anthropic",
+        "Claude Opus"
+      ],
+      "file": "posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "344",
     "date": "2026-07-24",
     "zh": {
