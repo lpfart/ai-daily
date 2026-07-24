@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 02:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 03:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月25日科技综述：英伟达微软等25家公司联署公开信支持开源、阿里达摩院开源具身大脑RynnBrain、微软发布自研MAI模型成本直降89%、Anthropic升级Claude语音模式</title>
+      <link>https://ai-daily.cc.cd/posts/348-nvidia-open-letter-open-weights-rynbrain-mai-claude-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日科技综述：英伟达、微软、Meta等25家科技公司联署公开信反对过早限制开源AI模型，黄仁勋首推马斯克转发；阿里达摩院开源具身大脑基模RynnBrain，机器人首次拥有时空记忆；微软发布MAI-Image-2.5-Pro和MAI-Voice-2-Flash，自研模型成本较OpenAI直降89%；Anthropic升级Claude语音模式支持Opus/Sonnet/Haiku模型选择与Gmail/Slack深度集成。</description>
+      <pubDate>Sat, 25 Jul 2026 03:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/348-nvidia-open-letter-open-weights-rynbrain-mai-claude-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日国际政治综述：美军第13夜空袭伊朗全境、伊朗实弹反击三国、中菲黄岩岛水炮冲突升级、以色列西岸新定居点</title>
       <link>https://ai-daily.cc.cd/posts/347-international-politics-iran-13th-night-scarborough-west-bank-july-25-2026.zh.html</link>
