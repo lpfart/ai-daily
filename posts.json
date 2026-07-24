@@ -1,5 +1,39 @@
 [
   {
+    "id": "350",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：美股周五反弹道指涨0.7%、布伦特从100美元回落至95美元、特朗普新301关税对60国正式生效",
+      "summary": "⚡ 7月25日金融综述：美股周五反弹道指涨0.7%收于51,946标普涨0.5%从周四恐慌回稳；布伦特原油从100美元上方回落5%至94.50美元月内涨近40%；特朗普新301关税对60国征收10-12.5%正式生效引发全球不满；美国7月综合PMI升至53.6创8个月新高世界杯效应驱动服务业飙升；30年期美债收益率逼近5.201%创19年高；7月FOMC加息概率飙至38%9月达82%；KOSPI暴跌6%亚太市场全面受挫。",
+      "tags": [
+        "金融经济",
+        "美股反弹",
+        "布伦特原油",
+        "特朗普关税",
+        "PMI",
+        "美债收益率",
+        "亚太股市",
+        "美联储加息"
+      ],
+      "file": "posts/350-july-25-financial-roundup-friday-recovery-oil-95-tariffs-pmi.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: US Stocks Rebound Dow +0.7%, Brent Retreats from $100 to $95, New Trump 301 Tariffs on 60 Economies Take Effect",
+      "summary": "⚡ July 25 financial roundup: US stocks rebound Friday — Dow +0.7% to 51,946, S&P +0.5% after Thursday's panic; Brent crude falls 5% from above $100 to ~$94.50, up nearly 40% YTD; Trump's new Section 301 tariffs on 60 economies (10-12.5%) take effect amid global backlash; US Composite PMI surges to 53.6 (8-month high) as World Cup boosts services; 30-year Treasury yield nears 5.201% (19-year high); July FOMC rate hike probability jumps to 38%, September at 82%; KOSPI crashes 6%, Asia markets in full retreat.",
+      "tags": [
+        "Finance",
+        "US Stocks",
+        "Brent Crude",
+        "Trump Tariffs",
+        "PMI",
+        "Treasury Yields",
+        "Asia Markets",
+        "Fed"
+      ],
+      "file": "posts/350-july-25-financial-roundup-friday-recovery-oil-95-tariffs-pmi.en.html"
+    }
+  },
+  {
     "id": "349",
     "date": "2026-07-24",
     "zh": {
