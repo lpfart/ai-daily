@@ -1,5 +1,21 @@
 [
   {
+    "id": "352",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：Anthropic发布Claude Opus 5接近Fable性能价格减半、Midjourney收购占星App Co-Star、Prentis AI Lab融资1亿美元",
+      "summary": "⚡ 7月25日科技综述：Anthropic发布Claude Opus 5，接近Fable 5性能但价格减半，定位日常AI使用标杆；Midjourney完成首笔收购，拿下拥有超3000万用户的占星App Co-Star并任命创始人Banu Guler为首席设计官；LinkedIn联合创始人Reid Hoffman与Zynga创始人Marc Pincus联合创立Prentis AI Lab，以10亿美元估值融资1亿美元专注桌面自动化。",
+      "tags": ["泛科技", "Anthropic", "Claude Opus 5", "Midjourney", "Co-Star", "Prentis", "Reid Hoffman", "AI投资"],
+      "file": "posts/352-anthropic-opus5-midjourney-costar-prentis-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: Anthropic Launches Claude Opus 5 at Half the Price of Fable, Midjourney Acquires Co-Star Astrology App, Reid Hoffman and Marc Pincus Co-Found Prentis AI Lab",
+      "summary": "⚡ July 25 tech roundup: Anthropic launches Claude Opus 5 with near-Fable 5 performance at half the price; Midjourney makes first acquisition buying astrology app Co-Star, appoints founder Banu Guler as CDO; Reid Hoffman and Marc Pincus co-found Prentis AI Lab, raising $100M at $1B valuation for computer-use automation.",
+      "tags": ["Tech News", "Anthropic", "Claude Opus 5", "Midjourney", "Co-Star", "Prentis", "AI Investment"],
+      "file": "posts/352-anthropic-opus5-midjourney-costar-prentis-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "351",
     "date": "2026-07-25",
     "zh": {
