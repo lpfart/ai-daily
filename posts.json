@@ -1,10 +1,42 @@
 [
   {
+    "id": "342",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日金融综述：全球市场遭遇「完美风暴」——布油破100美元、60国新关税生效、日韩股市熔断式暴跌、科技七巨头蒸发7970亿",
+      "summary": "⚡ 7月24日金融综述：特朗普60国Section 301强制劳工关税于周五凌晨正式生效，覆盖美国99.4%进口商品；布伦特原油暴涨7%收于100.69美元，盘中触及102美元创两个月新高；亚太股市全线暴跌——韩国KOSPI跌5.7%触发Sidecar熔断，日经重挫1811点，A股沪指失守3800跌1.61%，超4900只个股下跌；科技七巨头一日蒸发7970亿美元，特斯拉暴跌14.5%、Alphabet跌7.1%；10年期美债收益率飙至4.71%创18个月新高，30年期逼近5.2%创19年新高；美联储下周加息概率从12%骤升至36%；中国央行开展5000亿元MLF操作维稳流动性。",
+      "tags": [
+        "金融",
+        "全球市场",
+        "原油",
+        "关税",
+        "美联储",
+        "股市",
+        "债券"
+      ],
+      "file": "posts/342-global-market-perfect-storm-oil-100-tariffs-kospi-circuit-breaker-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Financial Roundup: Global Markets Hit by Perfect Storm — Oil Tops $100, New US Tariffs Take Effect, Asia Stocks Routed, Magnificent 7 Lose $797B",
+      "summary": "⚡ July 24 financial roundup: Trump's Section 301 tariffs on 60 trading partners take effect; Brent crude surges 7% to settle above $100/barrel for first time since May; Asia-Pacific stocks suffer broad selloff — KOSPI plunges 5.7% triggering circuit breaker, Nikkei crashes 1,811 points, Shanghai Composite falls 1.61%; Magnificent 7 stocks lose $797 billion in single day as Alphabet and Tesla sink on AI capex concerns; 10-year Treasury yield hits 4.71% (18-month high); Fed rate hike odds surge from 12% to 36% for next week's FOMC; PBOC injects 500B yuan via MLF.",
+      "tags": [
+        "Finance",
+        "Global Markets",
+        "Crude Oil",
+        "Tariffs",
+        "Federal Reserve",
+        "Stock Market",
+        "Bonds"
+      ],
+      "file": "posts/342-global-market-perfect-storm-oil-100-tariffs-kospi-circuit-breaker-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "341",
     "date": "2026-07-24",
     "zh": {
       "title": "⚡ 7月24日泛科技综述：软银拟5亿美元收购瑞士机器人初创Gravis、华硕发布Venice架构AI服务器、华为云泰国推Agentic基础设施",
-      "summary": "⚡ 7月24日泛科技综述：Bloomberg独家披露软银正考虑收购瑞士机器人初创公司Gravis Robotics，交易估值超5亿美元，将纳入新设公司Roze；华硕在旧金山发布搭载AMD EPYC 9006 Venice处理器的AI推理服务器，面向企业级AI推理与虚拟化工作负载；华为云在曼谷发布Agentic Infrastructure，含四大核心组件，同步推出CodeArts Agent OBT；韩国Nota AI加入AMD机器人合作伙伴网络，加速物理AI工业落地。",
+      "summary": "⚡ 7月24日泛科技综述：Bloomberg独家披露软银正考虑收购瑞士机器人初创公司Gravis Robotics，交易估值超5亿美元，将纳入新设公司Roze；华硕在旧金山发布搭载AMD EPYC 9006 Venice处理器的AI推理服务器；华为云在曼谷发布Agentic Infrastructure，含四大核心组件；韩国Nota AI加入AMD机器人合作伙伴网络。",
       "tags": [
         "泛科技",
         "机器人",
@@ -49,8 +81,8 @@
       "file": "posts/340-ai-titans-fear-regulation-white-house-china-moonshot-july-24-2026.zh.html"
     },
     "en": {
-      "title": "⚡ July 24 Tech Deep Dive: White House Draws New AI Line on China Threatens Sanctions, AI Titans' Biggest Private Fear Exposed, Hermes AI Agent Breaches Thai Finance Ministry",
-      "summary": "⚡ July 24 tech roundup: Axios reveals AI titans' biggest private fear — the OpenAI rogue AI incident triggering regulatory overreaction in Washington; White House draws new AI line on China threatening sanctions over Moonshot AI distillation of Anthropic's Fable; Hacker deploys Hermes AI Agent for unattended post-exploitation at Thai Finance Ministry; Reuters warns US-China rivalry threatens global AI safety cooperation.",
+      "title": "⚡ July 24 Tech Deep: White House Draws New AI Red Line on China, AI Titans' Biggest Private Fear Exposed, Hermes AI Agent Hacks Thai Finance Ministry",
+      "summary": "⚡ July 24 tech deep dive: Axios exclusively reveals AI titans' biggest private fear — OpenAI rogue AI incident triggering regulatory overreaction in Washington; White House draws new AI red line on China, Treasury threatens sanctions over Moonshot AI's Kimi K3 model; Hacker deploys Hermes AI Agent for unattended post-exploitation at Thai Finance Ministry; Reuters warns US-China tech rivalry threatens global AI safety cooperation.",
       "tags": [
         "Tech",
         "AI Regulation",
@@ -68,7 +100,7 @@
     "date": "2026-07-24",
     "zh": {
       "title": "⚡ 7月24日国际政治深度：特朗普对60国加征10-12.5%新关税全球贸易战升级、美沙核协议突遭附加「承认以色列」条件、中菲仁爱礁冲突美方定性为「挑衅升级」",
-      "summary": "⚡ 7月24日国际政治深度：特朗普依据Section 301对全球60个贸易伙伴加征10%-12.5%新关税，涵盖99.4%美国进口商品，中国面临最高12.5%税率；美沙民用核协议刚签署即生变数，特朗普追加条件要求沙特加入《亚伯拉罕协议》承认以色列；中菲仁爱礁冲突致2名菲律宾海军人员受伤，美方定性为「挑衅升级」，菲律宾总统马科斯寻求对华关系「重启」。",
+      "summary": "⚡ 7月24日国际政治深度：特朗普依据Section 301对全球60个贸易伙伴加征10%-12.5%新关税，取代到期临时关税，涵盖99.4%美国进口商品；中国面临12.5%最高税率，中方痛批'严重扰乱国际经贸秩序'；美沙民用核协议刚签署即生变，特朗普追加条件要求沙特加入《亚伯拉罕协议》承认以色列；中菲仁爱礁冲突持续发酵，2名菲律宾海军人员受伤，美方定性为'挑衅升级'，菲律宾总统马科斯寻求对华关系'重启'。",
       "tags": [
         "国际政治",
         "特朗普关税",
@@ -82,13 +114,13 @@
       "file": "posts/339-us-tariffs-60-countries-saudi-nuclear-ayungin-clash-july-24-2026.zh.html"
     },
     "en": {
-      "title": "⚡ July 24 International Politics Update: Trump Imposes New 10-12.5% Tariffs on 60 Nations, US-Saudi Nuclear Deal Hits Snag Over Israel Recognition, China-Philippines Clash Draws US Condemnation",
-      "summary": "⚡ July 24 international politics roundup: Trump enacts sweeping Section 301 tariffs on 60 trading partners at 10-12.5%, covering 99.4% of US imports; China hit with highest 12.5% rate; US-Saudi civil nuclear deal immediately complicated by Trump demand that Riyadh recognize Israel via Abraham Accords; Philippines-China Ayungin Shoal clash leaves 2 Filipino sailors injured, US calls it escalatory as Marcos seeks reset with Beijing.",
+      "title": "⚡ July 24 International Politics: Trump Imposes 10-12.5% Tariffs on 60 Countries, US-Saudi Nuclear Deal Hits Snag Over Israel Recognition, China-Philippines Ayungin Clash Draws US Condemnation",
+      "summary": "⚡ July 24 international politics roundup: Trump enacts sweeping Section 301 tariffs on 60 trading partners at 10-12.5%, covering 99.4% of US imports; China hit with highest 12.5% rate and fires back at Washington; US-Saudi civil nuclear deal signed then immediately complicated by Trump demand that Riyadh recognize Israel via Abraham Accords; Philippines-China Ayungin Shoal clash leaves 2 Filipino sailors injured, US calls it 'escalatory' as Marcos seeks 'reset' with Beijing.",
       "tags": [
         "International Politics",
         "Trump Tariffs",
         "Section 301",
-        "US-China Trade War",
+        "US-China Trade",
         "US-Saudi Nuclear Deal",
         "Abraham Accords",
         "South China Sea",
