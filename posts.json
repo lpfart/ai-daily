@@ -1,5 +1,39 @@
 [
   {
+    "id": "349",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日科技综述：AMD发布全球首颗2nm GPU MI455X与Helios机架、OpenAI推出ChatGPT Health与桌面版语音功能",
+      "summary": "⚡ AMD在Advancing AI 2026大会上发布全球首颗2nm GPU MI455X和Helios机架，Anthropic、OpenAI、Meta、微软宣布大规模部署；AMD Venice CPU性能达英伟达Vera的2.2倍；OpenAI面向全美用户推出ChatGPT Health整合Apple Health与病历；ChatGPT Voice登陆桌面版支持语音操控Codex多代理工作流。",
+      "tags": [
+        "泛科技",
+        "AMD",
+        "2nm GPU",
+        "Helios",
+        "OpenAI",
+        "ChatGPT Health",
+        "ChatGPT Voice",
+        "AI芯片"
+      ],
+      "file": "posts/349-amd-helios-2nm-gpu-chatgpt-health-voice-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: AMD Launches World's First 2nm GPU MI455X and Helios Rack, OpenAI Rolls Out ChatGPT Health and Desktop Voice Mode",
+      "summary": "⚡ AMD's Advancing AI 2026 launches the world's first 2nm GPU MI455X, Helios rack, and Venice CPU — Anthropic, OpenAI, Meta, Microsoft commit to mass deployment; Venice outperforms NVIDIA Vera by 2.2x; OpenAI rolls out ChatGPT Health with Apple Health and medical records to all US users; ChatGPT Voice arrives on desktop with multi-agent voice control for Codex.",
+      "tags": [
+        "Tech News",
+        "AMD",
+        "2nm GPU",
+        "Helios",
+        "OpenAI",
+        "ChatGPT Health",
+        "ChatGPT Voice",
+        "AI Chips"
+      ],
+      "file": "posts/349-amd-helios-2nm-gpu-chatgpt-health-voice-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "348",
     "date": "2026-07-25",
     "zh": {
