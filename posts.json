@@ -1,5 +1,47 @@
 [
   {
+    "id": "343",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日国际政治综述：参议院49-47否决限制战争权力、伊朗周五实弹反击三国、以色列大规模西岸行动、欧盟第21轮对俄制裁落地",
+      "summary": "⚡ 7月24日国际政治综述：美国参议院以49-47否决限制总统对伊战争权力决议案，众议院214-208通过象征性战争权力决议；伊朗周五对巴林、约旦、科威特三国美军基地发动实弹无人机反击——Arash自杀式无人机攻击巴林Isa空军基地、约旦Al-Azraq基地、科威特多座军营；约旦拦截7枚导弹6架无人机；特朗普称\"接近决定\"发动空前大规模打击并宣布冻结伊朗资金赔偿船只损失；布伦特原油冲破100美元后回落至97美元；联合国敦促撤离6000名被困霍尔木兹海峡海员；德国撤回红海两艘军舰；以色列宣布大规模西岸军事行动——内塔尼亚胡下令拆屋、增兵、建立新定居点；欧盟第21轮对俄制裁涉218个实体，为四年来最大规模；乌克兰大规模无人机夜袭圣彼得堡Wildberries仓库（第五次）和基洛夫导弹工厂；俄军白天弹道导弹袭击基辅武器展览会致10死逾百伤；NATO秘书长警告俄中伊朝四国结盟为最大威胁；罗马尼亚F-16击落侵犯领空无人机。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "参议院战争权力",
+        "伊朗反击巴林",
+        "伊朗反击约旦",
+        "伊朗反击科威特",
+        "以色列西岸",
+        "欧盟对俄制裁",
+        "俄乌战争",
+        "NATO",
+        "霍尔木兹海峡",
+        "布伦特原油"
+      ],
+      "file": "posts/343-international-politics-senate-war-powers-iran-retaliates-bahrain-jordan-west-bank-eu-sanctions-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 International Politics: Senate 49-47 Blocks War Powers, Iran Strikes US Bases in 3 Countries, Israel West Bank Operation, EU 21st Russia Sanctions",
+      "summary": "⚡ July 24 international politics roundup: US Senate votes 49-47 to block Iran war powers resolution; Iran launches drone/missile strikes on US bases in Bahrain, Jordan, and Kuwait on Friday; Jordan intercepts 7 missiles, 6 drones; Trump 'close to decision' on massive attack, announces frozen Iranian funds to pay for ship damages; Brent crude retreats from $100 to $97; UN urges evacuation of 6,000 seafarers in Hormuz; Germany withdraws 2 naval vessels from Red Sea; Israel announces major West Bank operation — Netanyahu orders home demolition, troop buildup, new settlements; EU agrees 21st Russia sanctions package targeting 218 entities; Ukraine launches massive drone attack on Wildberries warehouses (5th time) and Kirov missile plant; Russia strikes Kyiv arms exhibition killing 10+, wounding 100+; NATO chief warns of Russia-China-Iran-North Korea axis; Romanian F-16 shoots down drone breaching airspace.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Senate War Powers",
+        "Iran Bahrain",
+        "Iran Jordan",
+        "Iran Kuwait",
+        "Israel West Bank",
+        "EU Russia Sanctions",
+        "Ukraine War",
+        "NATO",
+        "Strait of Hormuz",
+        "Brent Crude"
+      ],
+      "file": "posts/343-international-politics-senate-war-powers-iran-retaliates-bahrain-jordan-west-bank-eu-sanctions-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "342",
     "date": "2026-07-24",
     "zh": {
