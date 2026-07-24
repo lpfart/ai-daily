@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 03:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:05:29 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月24日科技综述：AMD发布全球首颗2nm GPU MI455X与Helios机架、OpenAI推出ChatGPT Health与桌面版语音功能</title>
+      <link>https://ai-daily.cc.cd/posts/349-amd-helios-2nm-gpu-chatgpt-health-voice-july-24-2026.zh.html</link>
+      <description>⚡ AMD在Advancing AI 2026大会上发布全球首颗2nm GPU MI455X和Helios机架，Anthropic、OpenAI、Meta、微软宣布大规模部署；AMD Venice CPU性能达英伟达Vera的2.2倍；OpenAI面向全美用户推出ChatGPT Health整合Apple Health与病历；ChatGPT Voice登陆桌面版支持语音操控Codex多代理工作流。</description>
+      <pubDate>Fri, 24 Jul 2026 20:05:29 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/349-amd-helios-2nm-gpu-chatgpt-health-voice-july-24-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日科技综述：英伟达微软等25家公司联署公开信支持开源、阿里达摩院开源具身大脑RynnBrain、微软发布自研MAI模型成本直降89%、Anthropic升级Claude语音模式</title>
       <link>https://ai-daily.cc.cd/posts/348-nvidia-open-letter-open-weights-rynbrain-mai-claude-july-25-2026.zh.html</link>
