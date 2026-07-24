@@ -1,5 +1,33 @@
 [
   {
+    "id": "351",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：美军完成第13夜对伊打击、伊朗向三国美军基地发动无人机反击、特朗普威胁发动“空前大规模”打击",
+      "summary": "⚡ 7月25日国际政治综述：美军完成连续第13夜空袭伊朗，Ahvaz爆炸4死5伤；伊朗革命卫队对科威特、巴林、约旦三国美军基地发动Arash无人机实弹反击；特朗普接受Axios采访称正考虑发动“规模空前”的大规模打击已接近决定；特朗普宣布用冻结伊朗资金赔偿船只损失；Kuwait防空系统拦截伊朗无人机；IRGC警告海湾国家平民远离美军基地500米范围；沙特空袭胡塞武装荷台达；巴基斯坦在中国推动下探索重启美伊谈判。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "伊朗",
+        "霍尔木兹海峡"
+      ],
+      "file": "posts/351-international-politics-iran-13th-night-massive-attack-hormuz-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Politics Roundup: US Completes 13th Night of Strikes on Iran, IRGC Drone Strikes on Three Gulf State Bases, Trump Threatens ‘Massive’ Attack",
+      "summary": "⚡ July 25 international politics roundup: US completes 13th consecutive night of strikes on Iran — Ahvaz hit with 35+ strikes, 4 killed 5 injured; IRGC launches Arash drone retaliation against US bases in Kuwait, Bahrain, and Jordan; Trump tells Axios he is considering a ‘massive attack’ close to a decision; frozen Iranian assets to pay for ship damage; Kuwait air defenses intercept Iranian drones; IRGC warns civilians away from US bases; Saudi strikes Houthi-held Hodeidah; Pakistan explores US-Iran talks.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Trump",
+        "Iran",
+        "Strait of Hormuz"
+      ],
+      "file": "posts/351-international-politics-iran-13th-night-massive-attack-hormuz-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "350",
     "date": "2026-07-25",
     "zh": {
