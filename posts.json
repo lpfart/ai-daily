@@ -1,5 +1,45 @@
 [
   {
+    "id": "347",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：美军第13夜空袭伊朗全境、伊朗实弹反击三国、中菲黄岩岛水炮冲突升级、以色列西岸新定居点",
+      "summary": "⚡ 7月25日国际政治综述：美军完成连续第13夜空袭伊朗，打击范围扩至里海沿岸；伊朗革命卫队对巴林、约旦、科威特三国发动Arash自杀式无人机实弹反击；胡塞武装红海攻击两艘沙特油轮致布伦特原油短暂突破100美元；中国海警在黄岩岛水炮驱离菲律宾船只——本周第三次对峙；内塔尼亚胡下令在西岸建立新定居点；特朗普宣布用冻结伊朗资金赔偿船只损失；加沙停火谈判破裂。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "第13夜空袭",
+        "伊朗反击",
+        "胡塞武装",
+        "红海",
+        "黄岩岛",
+        "中菲冲突",
+        "以色列西岸",
+        "特朗普",
+        "布伦特原油"
+      ],
+      "file": "posts/347-international-politics-iran-13th-night-scarborough-west-bank-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Politics Roundup: US 13th Night of Iran Strikes, Iran Retaliates Against 3 Nations, China-Philippines Scarborough Shoal Clash, Israel West Bank Expansion",
+      "summary": "⚡ July 25 international politics roundup: US completes 13th consecutive night of airstrikes across Iran reaching the Caspian coast; Iran's IRGC retaliates with Arash suicide drones against US bases in Bahrain, Jordan, and Kuwait; Houthi Red Sea attacks push Brent crude briefly above $100/barrel; China Coast Guard water cannon blasts Philippine vessels at Scarborough Shoal for third time this week; Netanyahu orders new West Bank outposts after deadly clash; Trump threatens 'massive attack' and announces frozen Iranian assets will pay for ship damages.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "13th Night Strikes",
+        "Iran Retaliation",
+        "Houthi",
+        "Red Sea",
+        "Scarborough Shoal",
+        "China-Philippines",
+        "Israel West Bank",
+        "Trump",
+        "Brent Crude"
+      ],
+      "file": "posts/347-international-politics-iran-13th-night-scarborough-west-bank-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "346",
     "date": "2026-07-25",
     "zh": {
