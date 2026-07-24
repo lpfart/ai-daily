@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 24 Jul 2026 15:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月24日泛科技综述：DeepSeek V4旧API正式停服、Foundation Robotics联手AMD打造人形机器人、谷歌发布AI经济ATLAS报告</title>
+      <link>https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.zh.html</link>
+      <description>⚡ 7月24日泛科技综述：DeepSeek于15:59 UTC正式停用旧API名称deepseek-chat和deepseek-reasoner；Eric Trump旗下Foundation Robotics宣布采用AMD Ryzen AI Embedded X100芯片打造Phantom MK-2人形机器人；谷歌发布AI与经济ATLAS报告，基于1460万次交互显示AI覆盖68%职业但仅触及21%任务；Polymarket显示Anthropic 7月底前发布新Claude Opus概率达91%。</description>
+      <pubDate>Fri, 24 Jul 2026 16:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月24日泛科技汇总：字节跳动发布中国首个AI IDE Trae、Stripe拟$100亿收购OpenRouter、腾讯混元组织架构合并</title>
       <link>https://ai-daily.cc.cd/posts/344-bytedance-trae-ai-ide-stripe-openrouter-tencent-hunyuan-july-24-2026.zh.html</link>
