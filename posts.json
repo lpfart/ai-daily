@@ -1,5 +1,41 @@
 [
   {
+    "id": "346",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：布伦特原油回落至97美元但周涨13%、特朗普亲赴美联储施压降息、Intel Q2财报大超预期AI业务飙升59%",
+      "summary": "⚡ 7月25日金融综述：布伦特原油周五回落3.57%至97.10美元但本周累计涨超10%，周二一度突破102美元创两个月新高；特朗普周四亲赴美联储总部施压鲍威尔降息，但7月加息概率反飙至35%；Intel Q2营收161亿美元大超预期同比增25%创15年最快增速，数据中心与AI业务飙升59%；10年期美债收益率4.71%创18个月新高；Citi上调Dell目标价至515美元和HPE至74美元；美股科技七巨头一日蒸发7970亿美元；A股半导体逆势拉升科创50涨超2%受WAIC下周开幕提振。",
+      "tags": [
+        "金融经济",
+        "布伦特原油",
+        "美联储",
+        "特朗普",
+        "Intel",
+        "美债收益率",
+        "美股",
+        "AI资本开支",
+        "A股"
+      ],
+      "file": "posts/346-july-25-financial-roundup-oil-97-trump-fed-intel-earnings.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: Brent Retreats to $97 But Posts 13% Weekly Gain, Trump Visits Fed to Push Rate Cuts, Intel Q2 Earnings Beat with AI Revenue Surging 59%",
+      "summary": "⚡ July 25 financial roundup: Brent crude falls 3.57% to $97.10 but still up 10%+ for the week after Thursday's 7% surge above $100; Trump visits Fed HQ to pressure Powell for rate cuts yet July rate hike probability triples to 35%; Intel Q2 revenue hits $16.1B (+25% YoY, fastest in 15 years), Data Center & AI revenue surges 59%; 10-year Treasury yield at 4.71% (18-month high); Citi upgrades Dell target to $515 and HPE to $74; Magnificent 7 loses $797B in single session; China's STAR 50 rallies 2%+ ahead of WAIC 2026.",
+      "tags": [
+        "Finance",
+        "Brent Crude",
+        "Federal Reserve",
+        "Trump",
+        "Intel",
+        "Treasury Yields",
+        "Stock Market",
+        "AI Capex",
+        "China A-Shares"
+      ],
+      "file": "posts/346-july-25-financial-roundup-oil-97-trump-fed-intel-earnings.en.html"
+    }
+  },
+  {
     "id": "345",
     "date": "2026-07-24",
     "zh": {
