@@ -1,5 +1,37 @@
 [
   {
+    "id": "341",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日泛科技综述：软银拟5亿美元收购瑞士机器人初创Gravis、华硕发布Venice架构AI服务器、华为云泰国推Agentic基础设施",
+      "summary": "⚡ 7月24日泛科技综述：Bloomberg独家披露软银正考虑收购瑞士机器人初创公司Gravis Robotics，交易估值超5亿美元，将纳入新设公司Roze；华硕在旧金山发布搭载AMD EPYC 9006 Venice处理器的AI推理服务器，面向企业级AI推理与虚拟化工作负载；华为云在曼谷发布Agentic Infrastructure，含四大核心组件，同步推出CodeArts Agent OBT；韩国Nota AI加入AMD机器人合作伙伴网络，加速物理AI工业落地。",
+      "tags": [
+        "泛科技",
+        "机器人",
+        "软银",
+        "AI芯片",
+        "华硕",
+        "华为云",
+        "AMD"
+      ],
+      "file": "posts/341-softbank-gravis-robotics-asus-epyc-venice-huawei-agentic-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: SoftBank Eyes $500M+ Gravis Robotics Deal, ASUS Launches EPYC Venice AI Servers, Huawei Cloud Debuts Agentic Infrastructure",
+      "summary": "⚡ July 24 tech roundup: Bloomberg exclusively reports SoftBank Group is considering acquiring Swiss robotics startup Gravis Robotics AG at over $500M valuation; ASUS unveils new server lineup powered by AMD 6th-gen EPYC 9006 Venice processors for enterprise AI inference; Huawei Cloud launches Agentic Infrastructure in Thailand with CodeArts Agent OBT; South Korea's Nota AI joins AMD Robotics Partner Network.",
+      "tags": [
+        "Tech",
+        "Robotics",
+        "SoftBank",
+        "AI Server",
+        "ASUS",
+        "Huawei Cloud",
+        "AMD"
+      ],
+      "file": "posts/341-softbank-gravis-robotics-asus-epyc-venice-huawei-agentic-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "340",
     "date": "2026-07-24",
     "zh": {
