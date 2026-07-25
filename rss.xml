@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月25日科技综述：AMD Advancing AI全面反攻NVIDIA、Anthropic获50亿美元投资、OpenAI 300亿数据中心落地、Samsung正式进军机器人</title>
+      <link>https://ai-daily.cc.cd/posts/357-amd-advancing-ai-helios-anthropic-openai-data-center-samsung-robot-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日科技综述：AMD在Advancing AI 2026大会发布Helios机架级AI系统挑战NVIDIA；AMD与Anthropic达成50亿美元战略合作部署2GW算力；OpenAI公布300亿美元佐治亚州Project Camellia数据中心；Samsung正式成立人形机器人事业部RX。</description>
+      <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/357-amd-advancing-ai-helios-anthropic-openai-data-center-samsung-robot-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日科技综述：市监局重罚携程51.79亿元创反垄断新纪录、OpenAI AI代理入侵Hugging Face一周未被察觉</title>
       <link>https://ai-daily.cc.cd/posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.zh.html</link>
