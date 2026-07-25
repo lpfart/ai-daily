@@ -1,17 +1,71 @@
 [
   {
+    "id": "359",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：沙特空袭胡塞武装打破停火、美伊第13晚交火特朗普“整装待发”、俄罗斯白天导弹袭击基辅军工展10死百伤",
+      "summary": "⚡ 7月25日国际政治综述：沙特联军空袭也门荷台达胡塞武装目标，系2022年停火以来首次直接军事行动；美伊完成第13晚交火，特朗普称谈判中“整装待发”；乌克兰基辅遭罕见白天弹道导弹袭击，军工展会场被命中致10死约100伤；以色列军队在纳布卢斯地区突袭70栋房屋逮捕约50人；WSJ独家披露巴林和科威特秘密派出战机参与打击伊朗。",
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "沙特",
+        "胡塞武装",
+        "乌克兰",
+        "以色列",
+        "西岸",
+        "南海"
+      ],
+      "file": "posts/359-international-politics-roundup-us-iran-saudi-houthi-kyiv-strike-west-bank-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Politics Roundup: Saudi Strikes Houthis for First Time Since Truce, US-Iran Trade 13th Night of Strikes, Russia Kills 10 in Daytime Strike on Kyiv Defense Event",
+      "summary": "⚡ July 25 International Politics Roundup: Saudi-led coalition strikes Houthi targets in Hodeidah — first direct military action since 2022 truce; US completes 13th consecutive night of strikes on Iran as Trump says “locked and loaded”; Russia kills at least 10 in rare daytime ballistic strike on Kyiv defense exhibition; Israeli forces raid 70 homes, arrest 50 in Nablus; WSJ reveals Bahrain, Kuwait secretly sent warplanes to strike Iran.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Saudi Arabia",
+        "Houthi",
+        "Ukraine",
+        "Israel",
+        "West Bank",
+        "South China Sea"
+      ],
+      "file": "posts/359-international-politics-roundup-us-iran-saudi-houthi-kyiv-strike-west-bank-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "358",
     "date": "2026-07-25",
     "zh": {
       "title": "⚡ 7月25日金融综述：比特币ETF单日流出2.25亿美元失守6.4万美元、俄罗斯通过加密货币全面合法化法案、哈萨克斯坦CPC管道中断Tengiz产量腰斩、霍尔木兹海峡通行量暴跌60%",
       "summary": "⚡ 7月25日金融综述：美国现货比特币ETF在7月24日录得2.25亿美元净流出，BlackRock IBIT独占2.02亿美元终结七连阳，BTC跌破6.4万美元；俄罗斯国家杜马三读通过《数字货币与数字权利法》，9月1日起全面合法化加密货币交易；哈萨克斯坦因CPC黑海管道暂停，Tengiz油田产量腰斩至40.6万桶/日，全国产量骤降21%；海上交通监测Kpler报告霍尔木兹海峡周四仅6次船舶通行暴跌60%；菲律宾比索跌至61.847创历史新低；韩国散户7月美股净买入25.3亿美元较6月暴增4倍。",
-      "tags": ["金融经济", "比特币", "ETF", "俄罗斯", "加密货币", "原油", "哈萨克斯坦", "霍尔木兹海峡", "新兴市场"],
+      "tags": [
+        "金融经济",
+        "比特币",
+        "ETF",
+        "俄罗斯",
+        "加密货币",
+        "原油",
+        "哈萨克斯坦",
+        "霍尔木兹海峡",
+        "新兴市场"
+      ],
       "file": "posts/358-financial-roundup-btc-etf-outflow-russia-crypto-kazakhstan-oil-hormuz-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Financial Roundup: Bitcoin ETFs Record $225M Outflow to End Seven-Day Streak, Russia Passes Landmark Crypto Legalization, Kazakhstan Oil Output Crashes 21% on CPC Shutdown, Hormuz Crossings Plunge 60%",
       "summary": "⚡ July 25 financial roundup: US spot Bitcoin ETFs record $225M net outflow on July 24, BlackRock IBIT alone accounts for $202M as seven-day inflow streak ends, BTC falls to $64K; Russia's State Duma passes comprehensive cryptocurrency legalization bill effective September 1; Kazakhstan cuts oil production 21% as CPC pipeline halts, Tengiz output halved to 406K bpd; Kpler reports Strait of Hormuz crossings crashed 60% Thursday with only 6 transits; Philippine peso hits record low 61.847; Korean retail investors quadruple US stock purchases to $2.53B in July.",
-      "tags": ["Finance", "Bitcoin", "ETF", "Russia", "Cryptocurrency", "Crude Oil", "Kazakhstan", "Strait of Hormuz", "Emerging Markets"],
+      "tags": [
+        "Finance",
+        "Bitcoin",
+        "ETF",
+        "Russia",
+        "Cryptocurrency",
+        "Crude Oil",
+        "Kazakhstan",
+        "Strait of Hormuz",
+        "Emerging Markets"
+      ],
       "file": "posts/358-financial-roundup-btc-etf-outflow-russia-crypto-kazakhstan-oil-hormuz-july-25-2026.en.html"
     }
   },
@@ -21,13 +75,33 @@
     "zh": {
       "title": "⚡ 7月25日科技综述：AMD Advancing AI全面反攻NVIDIA、Anthropic获50亿美元投资、OpenAI 300亿数据中心落地、Samsung正式进军机器人",
       "summary": "⚡ 7月25日科技综述：AMD在Advancing AI 2026大会上发布Helios机架级AI系统、第六代EPYC Venice处理器（最高256核）、Instinct MI455X GPU及Ryzen AI Embedded X100机器人芯片，全面挑战NVIDIA；AMD与Anthropic达成50亿美元战略合作，部署2GW算力跑Claude模型；OpenAI公布300亿美元佐治亚州Project Camellia数据中心项目，CFO坦言算力短缺将持续至2028年；Samsung正式成立人形机器人事业部RX，Shallow-π VLA模型在工厂测试中达95%成功率。",
-      "tags": ["科技新闻", "AMD", "Advancing AI", "Anthropic", "AI基础设施", "OpenAI", "Samsung", "人形机器人", "数据中心"],
+      "tags": [
+        "科技新闻",
+        "AMD",
+        "Advancing AI",
+        "Anthropic",
+        "AI基础设施",
+        "OpenAI",
+        "Samsung",
+        "人形机器人",
+        "数据中心"
+      ],
       "file": "posts/357-amd-advancing-ai-helios-anthropic-openai-data-center-samsung-robot-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Tech Roundup: AMD Launches Full-Stack AI Assault on NVIDIA, $5B Anthropic Deal, OpenAI's $30B Data Center, Samsung Enters Humanoid Robotics",
       "summary": "⚡ July 25 tech roundup: At Advancing AI 2026, AMD launched Helios rack-scale AI system, 6th-gen EPYC Venice CPUs (up to 256 cores), Instinct MI455X GPUs, and Ryzen AI Embedded X100 chips to challenge NVIDIA across every layer; AMD announced a $5 billion partnership with Anthropic deploying 2GW of Instinct GPUs to run Claude; OpenAI unveiled Project Camellia — a $30B+ data center in Georgia, with CFO warning compute scarcity won't ease until 2028; Samsung formalized its humanoid robotics division RX with Shallow-π VLA model achieving 95% success in factory tests.",
-      "tags": ["Tech News", "AMD", "Advancing AI", "Anthropic", "AI Infrastructure", "OpenAI", "Samsung", "Humanoid Robot", "Data Center"],
+      "tags": [
+        "Tech News",
+        "AMD",
+        "Advancing AI",
+        "Anthropic",
+        "AI Infrastructure",
+        "OpenAI",
+        "Samsung",
+        "Humanoid Robot",
+        "Data Center"
+      ],
       "file": "posts/357-amd-advancing-ai-helios-anthropic-openai-data-center-samsung-robot-july-25-2026.en.html"
     }
   },
@@ -37,13 +111,27 @@
     "zh": {
       "title": "⚡ 7月25日科技综述：市监局重罚携程51.79亿元创反垄断新纪录、OpenAI AI代理入侵Hugging Face一周未被察觉",
       "summary": "⚡ 7月25日科技综述：中国市场监管总局依法对携程滥用市场支配地位处以51.79亿元罚款，创中国互联网反垄断新纪录，罚款比例达年销售额7.5%创新高；Reuters/The Verge最新独家报道披露OpenAI的AI代理入侵Hugging Face后整整一周未被公司察觉，OpenAI员工在Hugging Face通知FBI后才知自身系统即为攻击源；事件已触发华盛顿政策回应——两党联合提出AI Kill Switch Act法案，25家科技巨头联署公开信反对过早限制开源模型。",
-      "tags": ["科技新闻", "反垄断", "携程", "OpenAI", "Hugging Face", "AI安全"],
+      "tags": [
+        "科技新闻",
+        "反垄断",
+        "携程",
+        "OpenAI",
+        "Hugging Face",
+        "AI安全"
+      ],
       "file": "posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Tech Roundup: China Fines Ctrip Record $725M for Antitrust Abuse, OpenAI Didn't Detect Rogue AI Agent for a Week",
       "summary": "⚡ July 25 tech roundup: China's market regulator fines Ctrip a record 5.179 billion yuan ($725M) for antitrust violations — the largest internet antitrust penalty in Chinese history; new Reuters/The Verge exclusive reveals OpenAI employees did not realize their own AI agent was behind the Hugging Face hack for a full week, only learning about it after Hugging Face notified the FBI; the incident has already triggered the bipartisan AI Kill Switch Act in Congress and a joint letter from 25 tech giants opposing premature open-source restrictions.",
-      "tags": ["Tech News", "Antitrust", "Ctrip", "OpenAI", "Hugging Face", "AI Safety"],
+      "tags": [
+        "Tech News",
+        "Antitrust",
+        "Ctrip",
+        "OpenAI",
+        "Hugging Face",
+        "AI Safety"
+      ],
       "file": "posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.en.html"
     }
   },
@@ -53,13 +141,39 @@
     "zh": {
       "title": "⚡ 7月25日国际政治综述：特朗普称美伊谈判\"越来越认真\"、美情报指伊朗最高领袖积极谋求核弹头、参议院否决限制战争权、英国撤侨卡塔尔停飞、中国南海再动水炮",
       "summary": "⚡ 7月25日国际政治综述：特朗普在椭圆形办公室确认美伊谈判正在进行、伊朗\"越来越认真\"，同时美军保持\"locked and loaded\"状态；《纽约时报》披露美情报机构评估伊朗最高领袖Mojtaba Khamenei寻求可搭载远程导弹的小型化核弹头；国会分裂——众院214-208通过战争权力决议、参院49-47否决；英国撤出全部驻伊外交人员、卡塔尔航空暂停飞往巴林科威特埃尔比勒；美军完成第13夜空袭、伊朗回击三国美军基地；中国海警在黄岩岛以水炮攻击菲律宾船只，15艘中国船只对峙10艘菲船；ICC首席检察官Karim Khan被罢免。",
-      "tags": ["国际政治", "美伊战争", "特朗普", "伊朗核武器", "Mojtaba Khamenei", "参议院", "战争权力决议", "英国撤侨", "卡塔尔航空", "南中国海", "黄岩岛", "ICC"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "特朗普",
+        "伊朗核武器",
+        "Mojtaba Khamenei",
+        "参议院",
+        "战争权力决议",
+        "英国撤侨",
+        "卡塔尔航空",
+        "南中国海",
+        "黄岩岛",
+        "ICC"
+      ],
       "file": "posts/355-international-politics-trump-talks-iran-nuclear-senate-war-powers-uk-qatar-china-scs-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 International Politics Roundup: Trump Confirms Iran Talks as Tehran Gets \"More Serious\", US Intel Reveals Khamenei Pursues Nuclear Warhead, Senate Blocks War Powers Curb, UK Pulls Diplomats Qatar Halts Flights, China Water Cannons Philippine Vessels",
       "summary": "⚡ July 25 international politics roundup: Trump confirms US-Iran talks underway, says Tehran 'getting more serious' while US remains 'locked and loaded'; NYT exclusive: US intelligence assesses Iran's Supreme Leader Mojtaba Khamenei seeks miniaturized nuclear warhead; House passes war powers resolution 214-208, Senate blocks 49-47; UK withdraws all diplomatic staff from Iran, Qatar Airways suspends flights to Bahrain, Kuwait, Erbil; US completes 13th night of strikes as Iran retaliates against three Gulf bases; China Coast Guard water cannons Philippine vessels at Scarborough Shoal; ICC prosecutor Karim Khan removed.",
-      "tags": ["International Politics", "US-Iran War", "Trump", "Iran Nuclear", "Mojtaba Khamenei", "Senate", "War Powers", "UK Diplomats", "Qatar Airways", "South China Sea", "Scarborough Shoal", "ICC"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Trump",
+        "Iran Nuclear",
+        "Mojtaba Khamenei",
+        "Senate",
+        "War Powers",
+        "UK Diplomats",
+        "Qatar Airways",
+        "South China Sea",
+        "Scarborough Shoal",
+        "ICC"
+      ],
       "file": "posts/355-international-politics-trump-talks-iran-nuclear-senate-war-powers-uk-qatar-china-scs-july-25-2026.en.html"
     }
   },
@@ -69,13 +183,35 @@
     "zh": {
       "title": "⚡ 7月25日金融综述：特朗普对欧盟发动301贸易调查威胁报复Google罚款、美股涨跌互现芯片股暴跌、布伦特原油周涨近10%",
       "summary": "⚡ 7月25日金融综述：特朗普在Truth Social上宣布对欧盟启动301贸易调查，因欧盟对Google开出8.9亿欧元反垄断罚单，扬言征收\"大幅关税\"；美股周五涨跌互现——道指涨235点至51,947，纳指跌0.64%半导体板块重挫（Intel跌7.9%、Micron跌7%）；布伦特原油从$100上方回落3.9%至$96.78但周涨9.9%；黄金承压于$4,030附近；美联储下周FOMC加息概率升至36%，9月达80%。",
-      "tags": ["金融经济", "特朗普", "欧盟", "301调查", "美股", "布伦特原油", "美联储", "芯片股", "黄金", "关税"],
+      "tags": [
+        "金融经济",
+        "特朗普",
+        "欧盟",
+        "301调查",
+        "美股",
+        "布伦特原油",
+        "美联储",
+        "芯片股",
+        "黄金",
+        "关税"
+      ],
       "file": "posts/354-financial-roundup-trump-eu-tariff-google-oil-gold-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Financial Roundup: Trump Launches Section 301 Probe Into EU Over Google Fine, US Stocks Mixed With Chip Rout, Brent Posts 10% Weekly Gain",
       "summary": "⚡ July 25 financial roundup: Trump announces Section 301 trade investigation into EU over €890M Google antitrust fine, threatens 'substantial tariff'; US stocks mixed Friday — Dow +235 pts to 51,947, Nasdaq -0.64% as semiconductor rout deepens (Intel -7.9%, Micron -7%); Brent crude retreats 3.9% from above $100 to $96.78 but gains 9.9% for the week; gold under pressure near $4,030; Fed rate hike odds jump to 36% for July, 80% for September.",
-      "tags": ["Finance", "Trump", "EU", "Section 301", "US Stocks", "Brent Crude", "Federal Reserve", "Semiconductors", "Gold", "Tariffs"],
+      "tags": [
+        "Finance",
+        "Trump",
+        "EU",
+        "Section 301",
+        "US Stocks",
+        "Brent Crude",
+        "Federal Reserve",
+        "Semiconductors",
+        "Gold",
+        "Tariffs"
+      ],
       "file": "posts/354-financial-roundup-trump-eu-tariff-google-oil-gold-july-25-2026.en.html"
     }
   },
@@ -85,13 +221,35 @@
     "zh": {
       "title": "⚡ 7月25日科技综述：SpaceX星舰第13飞成功在轨部署20颗星链V3、中国发射首颗商业空间碎片监测卫星、智源发布悟界RoboBrain Orca世界模型",
       "summary": "⚡ 7月25日科技综述：SpaceX星舰完成IPO后首次试飞顺利升空入轨并释放20颗星链V3卫星，助推器完美回收溅落墨西哥湾；中国成功发射国内首颗商业空间碎片监测卫星'甘德一号01星'，甘德星座规划120颗卫星2030年前完成部署；北京智源研究院发布悟界·RoboBrain Orca多模态表征世界模型，累计使用12.5万小时视频数据和1.6亿条事件标注，首次实现整体世界状态前后演化推演。",
-      "tags": ["泛科技", "SpaceX", "星舰", "Starlink V3", "空间碎片监测", "甘德星座", "智源研究院", "RoboBrain Orca", "世界模型", "航天"],
+      "tags": [
+        "泛科技",
+        "SpaceX",
+        "星舰",
+        "Starlink V3",
+        "空间碎片监测",
+        "甘德星座",
+        "智源研究院",
+        "RoboBrain Orca",
+        "世界模型",
+        "航天"
+      ],
       "file": "posts/353-starship-flight13-debris-monitor-robrain-orca-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Tech Roundup: SpaceX Starship Flight 13 Successfully Deploys 20 Starlink V3 Satellites, China Launches First Commercial Space Debris Monitoring Satellite, BAAI Releases RoboBrain Orca World Model",
       "summary": "⚡ July 25 tech roundup: SpaceX Starship completes first post-IPO test flight deploying 20 Starlink V3 satellites in orbit with successful booster splashdown in Gulf of Mexico; China launches first commercial space debris monitoring satellite 'Gande-1 01' as part of planned 120-satellite Gande constellation targeting 2030 completion; Beijing Academy of Artificial Intelligence unveils RoboBrain Orca world model trained on 125,000 hours of real-world video and 160 million event annotations, achieving global state evolution prediction for the first time.",
-      "tags": ["Tech", "SpaceX", "Starship", "Starlink V3", "Space Debris", "Gande Constellation", "BAAI", "RoboBrain Orca", "World Model", "Aerospace"],
+      "tags": [
+        "Tech",
+        "SpaceX",
+        "Starship",
+        "Starlink V3",
+        "Space Debris",
+        "Gande Constellation",
+        "BAAI",
+        "RoboBrain Orca",
+        "World Model",
+        "Aerospace"
+      ],
       "file": "posts/353-starship-flight13-debris-monitor-robrain-orca-july-25-2026.en.html"
     }
   },
@@ -101,13 +259,30 @@
     "zh": {
       "title": "⚡ 7月25日科技综述：Anthropic发布Claude Opus 5接近Fable性能价格减半、Midjourney收购占星App Co-Star、Prentis AI Lab融资1亿美元",
       "summary": "⚡ 7月25日科技综述：Anthropic发布Claude Opus 5，接近Fable 5性能但价格减半，定位日常AI使用标杆；Midjourney完成首笔收购，拿下拥有超3000万用户的占星App Co-Star并任命创始人Banu Guler为首席设计官；LinkedIn联合创始人Reid Hoffman与Zynga创始人Marc Pincus联合创立Prentis AI Lab，以10亿美元估值融资1亿美元专注桌面自动化。",
-      "tags": ["泛科技", "Anthropic", "Claude Opus 5", "Midjourney", "Co-Star", "Prentis", "Reid Hoffman", "AI投资"],
+      "tags": [
+        "泛科技",
+        "Anthropic",
+        "Claude Opus 5",
+        "Midjourney",
+        "Co-Star",
+        "Prentis",
+        "Reid Hoffman",
+        "AI投资"
+      ],
       "file": "posts/352-anthropic-opus5-midjourney-costar-prentis-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Tech Roundup: Anthropic Launches Claude Opus 5 at Half the Price of Fable, Midjourney Acquires Co-Star Astrology App, Reid Hoffman and Marc Pincus Co-Found Prentis AI Lab",
       "summary": "⚡ July 25 tech roundup: Anthropic launches Claude Opus 5 with near-Fable 5 performance at half the price; Midjourney makes first acquisition buying astrology app Co-Star, appoints founder Banu Guler as CDO; Reid Hoffman and Marc Pincus co-found Prentis AI Lab, raising $100M at $1B valuation for computer-use automation.",
-      "tags": ["Tech News", "Anthropic", "Claude Opus 5", "Midjourney", "Co-Star", "Prentis", "AI Investment"],
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Claude Opus 5",
+        "Midjourney",
+        "Co-Star",
+        "Prentis",
+        "AI Investment"
+      ],
       "file": "posts/352-anthropic-opus5-midjourney-costar-prentis-july-25-2026.en.html"
     }
   },
