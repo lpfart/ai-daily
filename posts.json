@@ -1,5 +1,21 @@
 [
   {
+    "id": "354",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：特朗普对欧盟发动301贸易调查威胁报复Google罚款、美股涨跌互现芯片股暴跌、布伦特原油周涨近10%",
+      "summary": "⚡ 7月25日金融综述：特朗普在Truth Social上宣布对欧盟启动301贸易调查，因欧盟对Google开出8.9亿欧元反垄断罚单，扬言征收\"大幅关税\"；美股周五涨跌互现——道指涨235点至51,947，纳指跌0.64%半导体板块重挫（Intel跌7.9%、Micron跌7%）；布伦特原油从$100上方回落3.9%至$96.78但周涨9.9%；黄金承压于$4,030附近；美联储下周FOMC加息概率升至36%，9月达80%。",
+      "tags": ["金融经济", "特朗普", "欧盟", "301调查", "美股", "布伦特原油", "美联储", "芯片股", "黄金", "关税"],
+      "file": "posts/354-financial-roundup-trump-eu-tariff-google-oil-gold-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: Trump Launches Section 301 Probe Into EU Over Google Fine, US Stocks Mixed With Chip Rout, Brent Posts 10% Weekly Gain",
+      "summary": "⚡ July 25 financial roundup: Trump announces Section 301 trade investigation into EU over €890M Google antitrust fine, threatens 'substantial tariff'; US stocks mixed Friday — Dow +235 pts to 51,947, Nasdaq -0.64% as semiconductor rout deepens (Intel -7.9%, Micron -7%); Brent crude retreats 3.9% from above $100 to $96.78 but gains 9.9% for the week; gold under pressure near $4,030; Fed rate hike odds jump to 36% for July, 80% for September.",
+      "tags": ["Finance", "Trump", "EU", "Section 301", "US Stocks", "Brent Crude", "Federal Reserve", "Semiconductors", "Gold", "Tariffs"],
+      "file": "posts/354-financial-roundup-trump-eu-tariff-google-oil-gold-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "353",
     "date": "2026-07-25",
     "zh": {
