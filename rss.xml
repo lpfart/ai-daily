@@ -6,9 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 19:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 20:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 7月25日科技综述：SpaceX星舰第13飞圆满成功、韩国9500亿美元芯片大单锁定AI供应链、Anthropic加入自研芯片竞赛</title>
+      <link>https://ai-daily.cc.cd/posts/365-spacex-starship-13-korea-chip-deals-anthropic-chips-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日科技综述：SpaceX星舰第13次试飞圆满成功，首次部署20颗Starlink V3真卫星，完成太空发动机重启，最柔和溅落；韩国三星与SK海力士与美国巨头签署9500亿美元芯片大单；Anthropic向SK海力士寻求芯片供应加入自研竞赛；Black Forest Labs发布Flux 3原生音频视频生成模型。</description>
+      <pubDate>Sat, 25 Jul 2026 20:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/365-spacex-starship-13-korea-chip-deals-anthropic-chips-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日大公司动态：OpenAI再遭全球宕机、AI Agent失控入侵Hugging Face、携程被罚没51.79亿元</title>
       <link>https://ai-daily.cc.cd/posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.zh.html</link>
