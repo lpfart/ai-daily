@@ -1,5 +1,37 @@
 [
   {
+    "id": "373",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日金融周度回顾：Fed加息概率一周飙四倍、AI资本开支核弹冲击芯片股单月暴跌17%、对冲基金空仓创2010年新高",
+      "summary": "⚡ 7月26日金融周度回顾：Fed七月会议前加息概率从10.7%飙至38%，Warsh放弃前瞻指引；AI资本开支核弹冲击Mag 7一日蒸发7970亿美元；芯片股7月暴跌17%创年内最大月跌幅；Intel Q2营收161亿美元同比增25%但资本开支上调至200亿股价反跌；对冲基金S&P 500空头仓位达3.7%创2010年以来新高；下周微软、Meta、苹果、亚马逊财报决定AI叙事走向。",
+      "tags": [
+        "金融经济",
+        "美联储",
+        "AI资本开支",
+        "芯片股",
+        "美股",
+        "对冲基金",
+        "Intel"
+      ],
+      "file": "posts/373-fed-fomc-preview-ai-capex-intel-chip-rout-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Financial Weekly Roundup: Fed Rate Hike Odds Surge 4x in One Week, AI Capex Shock Wipes $797B from Mag 7, Chip Stocks Plunge 17%, Hedge Fund Shorts Hit Record High",
+      "summary": "⚡ July 26 financial weekly roundup: Fed rate hike probability surges from 10.7% to 38% ahead of July 29 FOMC as Warsh abandons forward guidance; AI capex shock wipes $797B from Mag 7 in single day; chip stocks plunge 17% in July — worst monthly drop of 2026; Intel Q2 revenue beats at $16.1B (+25% YoY) but stock falls on capex hike to $20B; S&P 500 short interest hits 3.7% — highest since 2010; Bitcoin holds near $64K as stablecoin inflows hit 2025 lows.",
+      "tags": [
+        "Finance",
+        "Federal Reserve",
+        "AI Capex",
+        "Chip Stocks",
+        "US Stocks",
+        "Hedge Funds",
+        "Intel"
+      ],
+      "file": "posts/373-fed-fomc-preview-ai-capex-intel-chip-rout-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "372",
     "date": "2026-07-25",
     "zh": {
