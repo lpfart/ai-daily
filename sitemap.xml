@@ -3597,4 +3597,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/359-international-politics-roundup-us-iran-saudi-houthi-kyiv-strike-west-bank-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/359-international-politics-roundup-us-iran-saudi-houthi-kyiv-strike-west-bank-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
