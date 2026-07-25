@@ -11,6 +11,46 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://ai-daily.cc.cd/posts/371-international-roundup-ukraine-siberia-iran-pause-houthi-saudi-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/371-international-roundup-ukraine-siberia-iran-pause-houthi-saudi-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/370-financial-roundup-oil-100-wall-street-tariffs-july-26-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/370-financial-roundup-oil-100-wall-street-tariffs-july-26-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/365-spacex-starship-13-korea-chip-deals-anthropic-chips-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/365-spacex-starship-13-korea-chip-deals-anthropic-chips-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ai-daily.cc.cd/posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -3604,6 +3644,86 @@
   </url>
   <url>
     <loc>https://ai-daily.cc.cd/posts/359-international-politics-roundup-us-iran-saudi-houthi-kyiv-strike-west-bank-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/360-nvidia-naver-sk-group-ai-infrastructure-korea-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/360-nvidia-naver-sk-group-ai-infrastructure-korea-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/363-international-politics-roundup-iran-lull-houthi-red-sea-syria-scs-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/363-international-politics-roundup-iran-lull-houthi-red-sea-syria-scs-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

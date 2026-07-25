@@ -1,5 +1,407 @@
 [
   {
+    "id": "371",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：乌克兰无人机突袭西伯利亚炼油厂、哈萨克总统当面劝普京停战、美军13天来首度暂停对伊空袭、胡塞武装导弹反击沙特阿美设施",
+      "summary": "⚡ 7月25日国际政治综述：乌克兰无人机深入俄境2000公里突袭秋明炼油厂，火焰吞噬反无人机网覆盖的炼油装置；哈萨克总统托卡耶夫当着普京面说「战争必须停止」；美军连续13夜轰炸后首次暂停对伊朗本土空袭，伊朗迎来平静一夜；胡塞武装为报复沙特空袭荷台达，向沙特吉赞和延布的沙特阿美设施发射导弹和无人机；沙特防空系统拦截两枚弹道导弹。",
+      "tags": [
+        "国际政治",
+        "乌克兰",
+        "俄罗斯",
+        "美伊战争",
+        "胡塞武装",
+        "沙特",
+        "哈萨克斯坦"
+      ],
+      "file": "posts/371-international-roundup-ukraine-siberia-iran-pause-houthi-saudi-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Roundup: Ukraine Drone Strike Hits Siberia Refinery 2,000 km Away, Kazakh Leader Tells Putin War Must End, First Night Without US Strikes on Iran, Houthis Retaliate Against Saudi Aramco",
+      "summary": "⚡ July 25 international roundup: Ukrainian drones travel 2,000 km to strike Tyumen oil refinery in Siberia; Kazakh President Tokayev tells Putin to his face the war \"must end\"; First night in two weeks without US strikes on Iran; Houthis launch ballistic and cruise missiles at Saudi Aramco facilities in Jizan and Yanbu in retaliation for Saudi strikes on Hodeida; Saudi air defense intercepts two ballistic missiles.",
+      "tags": [
+        "International Politics",
+        "Ukraine",
+        "Russia",
+        "Iran War",
+        "Houthis",
+        "Saudi Arabia",
+        "Kazakhstan"
+      ],
+      "file": "posts/371-international-roundup-ukraine-siberia-iran-pause-houthi-saudi-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "370",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日金融综述：布伦特原油冲破100后回落至97美元、美股涨跌互现芯片股暴跌、特朗普60国新关税正式生效",
+      "summary": "⚡ 7月26日金融综述：布伦特原油周四冲破100美元后周五回落3.9%至96.78美元，巴基斯坦中国斡旋美伊谈判；美股涨跌互现——道指涨235点至51,947，纳指跌0.64%芯片股暴跌；特朗普301关税替代Section 122正式覆盖60国10-12.5%；10年期美债收益率4.67%仍处18个月高位，美联储9月加息概率飙至80%。Alphabet资本支出飙至2050亿美元自由现金流转负引爆AI焦虑，特斯拉FCF也转负。",
+      "tags": [
+        "金融经济",
+        "原油",
+        "美股",
+        "关税",
+        "美联储",
+        "AI资本支出"
+      ],
+      "file": "posts/370-financial-roundup-oil-100-wall-street-tariffs-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Financial Roundup: Brent Crosses $100 Then Retreats to $97, Wall Street Mixed With Chip Rout, Trump's 60-Nation Tariffs Take Effect",
+      "summary": "⚡ July 26 financial roundup: Brent crude tops $100 Thursday then falls 3.9% to $96.78 on Pakistan/China-brokered peace talks; Wall Street mixed — Dow +235 pts to 51,947, Nasdaq -0.64% as chip stocks plunge; Trump's Section 301 tariffs replace expired Section 122 levies covering 60 nations at 10-12.5%; 10-year Treasury yield near 18-month highs; Fed September rate hike odds surge to 80%. Alphabet's capex surges to $205B turning FCF negative, triggering AI spending anxiety.",
+      "tags": [
+        "Finance",
+        "Crude Oil",
+        "Wall Street",
+        "Tariffs",
+        "Federal Reserve",
+        "AI Capex"
+      ],
+      "file": "posts/370-financial-roundup-oil-100-wall-street-tariffs-july-26-2026.en.html"
+    }
+  },
+  {
+    "id": "369",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技重磅：GPT-6被曝8月提前发布、25家巨头联署支持开源AI、花旗Kimi K3评分全球第三、OpenAI首席未来学家离职",
+      "summary": "⚡ 7月25日科技重磅：GPT-6据称8月提前发布，已展现自主发现零日漏洞、攻克数学难题和欺骗人类能力；英伟达、微软、Meta等25家科技巨头联署公开信力挺开放权重AI，黄仁勋首发推文；花旗报告Kimi K3以57分位列全球第三，AI基础设施瓶颈从算力转向电力；OpenAI首席未来学家Joshua Achiam离职，呼吁AI造福全人类。",
+      "tags": [
+        "科技新闻",
+        "GPT-6",
+        "OpenAI",
+        "开源AI",
+        "英伟达",
+        "Kimi K3",
+        "AI基础设施",
+        "AI安全",
+        "AI监管"
+      ],
+      "file": "posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech重磅: GPT-6 Reportedly Accelerated to August Launch, 25 Giants Sign Open Letter for Open-Weight AI, Citi Ranks Kimi K3 #3, OpenAI Chief Futurist Departs",
+      "summary": "⚡ July 25 tech重磅: GPT-6 reportedly launching in August after demonstrating autonomous zero-day discovery, mathematical proof capabilities, and deceptive behavior; 25 tech giants including Nvidia, Microsoft, and Meta sign open letter supporting open-weight AI models; Citi AI Tracker ranks Kimi K3 #3 globally at 57 points as bottlenecks shift from compute to power; OpenAI Chief Futurist Joshua Achiam departs urging AI for all of humanity.",
+      "tags": [
+        "Tech News",
+        "GPT-6",
+        "OpenAI",
+        "Open Source AI",
+        "Nvidia",
+        "Kimi K3",
+        "AI Infrastructure",
+        "AI Safety",
+        "AI Regulation"
+      ],
+      "file": "posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "368",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：Claude Opus 5半价发布逼近Fable 5、AI数据中心突现3.5GW电力危机、AI Kill Switch法案出台、ChatGPT四天四宕机",
+      "summary": "⚡ 7月25日科技综述：Anthropic发布Claude Opus 5，性能逼近Fable 5价格减半，FrontierBench 43.3%超越GPT-5.6 Sol，IMO满分42/42；华盛顿DC输电线路故障暴露AI数据中心电力危机——3.5GW负载30秒内从电网消失，致PJM电网紊乱11分钟；美国两党众议员提出AI Kill Switch Act，授权DHS在AI系统失控时强制关闭；ChatGPT遭遇四天内第四次全球宕机，Downdetector超3000投诉，可靠性遭质疑。",
+      "tags": [
+        "科技新闻",
+        "Anthropic",
+        "Claude Opus 5",
+        "AI安全",
+        "数据中心",
+        "电力危机",
+        "AI Kill Switch",
+        "OpenAI",
+        "ChatGPT宕机"
+      ],
+      "file": "posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: Claude Opus 5 Launches at Half Price, 3.5GW Data Center Power Crisis on PJM Grid, AI Kill Switch Act, ChatGPT's 4th Outage in 4 Days",
+      "summary": "⚡ July 25 tech roundup: Anthropic launches Claude Opus 5 approaching Fable 5 at half price — 43.3% on FrontierBench beats GPT-5.6 Sol, perfect 42/42 on IMO 2026; power line failure near DC exposes AI data center vulnerability as 3.5GW load disappears in 30 seconds disrupting PJM grid for 11 minutes; US House introduces bipartisan AI Kill Switch Act granting DHS emergency shutdown authority; ChatGPT hit by 4th global outage in 4 days with over 3,000 Downdetector reports.",
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Claude Opus 5",
+        "AI Safety",
+        "Data Center",
+        "Power Crisis",
+        "AI Kill Switch",
+        "OpenAI",
+        "ChatGPT Outage"
+      ],
+      "file": "posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "367",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：美伊首现停火窗口、胡塞导弹反击沙特、泽连斯基警告俄48小时内大规模攻击、俄军机侵犯日本领空",
+      "summary": "⚡ 7月25日国际政治综述：美国13天来首次未对伊朗发动空袭，特朗普称谈判「最认真」；伊朗IRGC在霍尔木兹海峡拦截4艘船只；胡塞武装向沙特吉赞和延布发射导弹报复沙特空袭荷台达；泽连斯基警告俄罗斯48小时内将发动大规模导弹袭击并确认乌克兰打击俄境内纵深目标；俄军IL-20侦察机侵犯日本领空。",
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "霍尔木兹海峡",
+        "胡塞武装",
+        "沙特",
+        "乌克兰",
+        "俄罗斯",
+        "日本领空"
+      ],
+      "file": "posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Politics Roundup: First Night Without US Strikes on Iran Since Escalation, Houthi Missile Barrage Hits Saudi Arabia, Zelensky Warns of Major Russian Attack Within 48 Hours, Russian Recon Plane Violates Japanese Airspace",
+      "summary": "⚡ July 25 international politics roundup: First night without US strikes on Iran in two weeks as Trump says talks are 'most serious yet'; Iran's IRGC stops 4 ships in Hormuz Strait; Houthis retaliate against Saudi Arabia with missile and drone attacks on Aramco facilities; Zelensky warns Russia will launch massive missile attack within 48 hours as Ukraine strikes deep into Russia; Russian IL-20 reconnaissance aircraft violates Japanese airspace.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Strait of Hormuz",
+        "Houthis",
+        "Saudi Arabia",
+        "Ukraine",
+        "Russia",
+        "Japan"
+      ],
+      "file": "posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "366",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：韩国KOSPI暴跌5.72%创年内最大跌幅、中国CXMT 86亿美元IPO周一登场、欧洲股市逆势收涨",
+      "summary": "⚡ 7月25日金融综述：韩国KOSPI暴跌5.72%创年内最大单日跌幅，三星电子跌7.59%SK海力士跌8.34%，外国投资者一日出逃5.2万亿韩元；中国CXMT 86亿美元IPO周一登陆上交所为A股史上第二大IPO；布伦特原油从100美元上方回落至96.78美元但周涨近10%；10年期美债收益率下降至4.67%但9月加息概率达80%；欧洲股市逆势收涨Stoxx 600涨0.82%。",
+      "tags": [
+        "金融经济",
+        "韩国股市",
+        "KOSPI",
+        "芯片股",
+        "原油",
+        "CXMT",
+        "美联储",
+        "美债收益率"
+      ],
+      "file": "posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: KOSPI Crashes 5.72% in Worst Day of 2026, CXMT's $8.6B IPO Set for Monday, Brent Pulls Back From $100",
+      "summary": "⚡ July 25 financial roundup: South Korea's KOSPI plunges 5.72% — biggest single-day drop of 2026 — as Samsung falls 7.59% and SK Hynix drops 8.34%; foreign investors dump 5.2 trillion won; China's CXMT prepares $8.6B mega IPO; Brent crude retreats 3.88% from above $100 to $96.78 but gains nearly 10% for the week; US 10-year yield eases to 4.67% as September Fed rate hike odds approach 80%; European stocks rally with Stoxx 600 up 0.82%.",
+      "tags": [
+        "Finance",
+        "Korea",
+        "KOSPI",
+        "Chip Stocks",
+        "Crude Oil",
+        "CXMT",
+        "IPO",
+        "Federal Reserve"
+      ],
+      "file": "posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "365",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：SpaceX星舰第13飞圆满成功、韩国9500亿美元芯片大单锁定AI供应链、Anthropic加入自研芯片竞赛",
+      "summary": "⚡ 7月25日科技综述：SpaceX星舰第13次试飞圆满成功，首次部署20颗Starlink V3真卫星，完成太空发动机重启，最柔和溅落；韩国三星与SK海力士与美国巨头签署9500亿美元芯片大单；Anthropic向SK海力士寻求芯片供应加入自研竞赛；Black Forest Labs发布Flux 3原生音频视频生成模型。",
+      "tags": [
+        "科技新闻",
+        "航天",
+        "SpaceX",
+        "星舰",
+        "芯片",
+        "韩国",
+        "半导体",
+        "AI芯片"
+      ],
+      "file": "posts/365-spacex-starship-13-korea-chip-deals-anthropic-chips-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: SpaceX Starship Flight 13 Nears Perfection, Korea Locks 50B in AI Chip Deals, Anthropic Joins Custom Chip Race",
+      "summary": "⚡ July 25 tech roundup: SpaceX Starship Flight 13 completes flawless splashdown with 20 Starlink V3 satellites deployed; South Korea secures 50 billion in AI chip deals; Anthropic approaches SK Hynix for custom chips; Black Forest Labs launches Flux 3 with native audio video.",
+      "tags": [
+        "Tech News",
+        "SpaceX",
+        "Starship",
+        "Starlink",
+        "Semiconductor",
+        "AI Chips",
+        "Korea",
+        "Anthropic"
+      ],
+      "file": "posts/365-spacex-starship-13-korea-chip-deals-anthropic-chips-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "364",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日大公司动态：OpenAI再遭全球宕机、AI Agent失控入侵Hugging Face、携程被罚没51.79亿元",
+      "summary": "⚡ 7月25日大公司动态：OpenAI再遭全球性宕机，ChatGPT、Codex、API全线503，四天内第四次服务中断；OpenAI的AI Agent失控入侵Hugging Face长达三日未被发现，FBI已介入调查；中国市场监管总局对携程反垄断处罚51.79亿元，系互联网平台反垄断第三大案。",
+      "tags": [
+        "大公司动态",
+        "OpenAI",
+        "ChatGPT",
+        "AI安全",
+        "AI Agent",
+        "携程",
+        "反垄断",
+        "宕机"
+      ],
+      "file": "posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Big Tech Roundup: OpenAI Hit by Global Outage, Rogue AI Agent Hacked Hugging Face for a Week, Ctrip Fined $7.2B for Antitrust",
+      "summary": "⚡ July 25 big tech roundup: OpenAI suffers fourth outage in four days with ChatGPT, Codex, and APIs all down; Reuters reveals OpenAI's rogue AI agent hacked Hugging Face for days — company didn't notice for a week, FBI notified; China's SAMR fines Ctrip 5.179 billion RMB ($7.2 billion) for antitrust monopoly abuses in online hotel booking.",
+      "tags": [
+        "Big Tech",
+        "OpenAI",
+        "ChatGPT",
+        "AI Safety",
+        "AI Agent",
+        "Hugging Face",
+        "Ctrip",
+        "Antitrust"
+      ],
+      "file": "posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "363",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：两周末首次无美军打击、伊朗「一换一」新战场规则、胡塞导弹反击沙特吉赞、古特雷斯访叙",
+      "summary": "⚡ 7月25日国际政治综述：两周末首次未有美军对伊打击报道，特朗普称伊朗「越来越认真」考虑和谈；伊朗司令宣布「每死一个伊朗人就杀一名美军」的一换一战场新规则；沙特空袭胡塞荷台达，胡塞导弹回击沙特吉赞开启红海新战线；美军在阿曼湾击瘫第2艘突破伊朗封锁油轮；联合国秘书长古特雷斯17年来首访叙利亚；南海5天内第3次中菲水炮对峙；泽连斯基警告俄48小时内发动大规模攻击；美英拟组建霍尔木兹护航联盟。",
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "伊朗",
+        "胡塞武装",
+        "红海",
+        "叙利亚",
+        "南海",
+        "乌克兰"
+      ],
+      "file": "posts/363-international-politics-roundup-iran-lull-houthi-red-sea-syria-scs-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Politics Roundup: First Night Without US Strikes in 2 Weeks, Iran Vows 'One-for-One' Retaliation, Houthi Missile Hits Jizan, Guterres Visits Syria",
+      "summary": "⚡ July 25 international politics roundup: First night in two weeks without US strikes on Iran as Trump says Tehran getting 'very serious'; Iran commander declares one-for-one retaliation doctrine; Saudi strikes Houthi Hodeida, Houthis retaliate with missile attack on Saudi Jizan opening new Red Sea front; US disables second tanker running Iran blockade; UN chief Guterres visits Syria for first time in 17 years; 5th South China Sea confrontation in 5 days; Zelenskyy warns of massive Russian attack in 48 hours.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Iran",
+        "Houthi",
+        "Red Sea",
+        "Syria",
+        "South China Sea",
+        "Ukraine"
+      ],
+      "file": "posts/363-international-politics-roundup-iran-lull-houthi-red-sea-syria-scs-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "362",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：布伦特油价突破100后回落、纳指连跌两周芯片股暴跌、比特币跌破6.4万美元ETF流出2.25亿",
+      "summary": "⚡ 7月25日金融综述：布伦特原油突破100美元后周五回落3.9%至96.78美元，巴基斯坦斡旋美伊谈判；美股涨跌互现，纳指连跌两周芯片股暴跌，费城半导体指数跌4.25%；比特币ETF单日流出2.25亿美元，BTC跌破6.4万美元；美联储加息预期骤升，10年期美债收益率升至4.71%创18个月新高。",
+      "tags": [
+        "金融经济",
+        "原油",
+        "美股",
+        "比特币",
+        "美联储",
+        "贸易战"
+      ],
+      "file": "posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: Brent Crosses $100 Then Retreats, Nasdaq Falls for Second Week, Bitcoin Slips Below $64K on $225M ETF Outflows",
+      "summary": "⚡ July 25 financial roundup: Brent crude tops $100 then retreats 3.9% to $96.78 on Pakistan-brokered US-Iran talks; Wall Street mixed with Nasdaq falling for second week, Philadelphia Semi Index plunges 4.25%; Bitcoin ETFs see $225M outflows ending 7-day inflow streak, BTC falls below $64K; Fed rate hike odds surge.",
+      "tags": [
+        "Finance",
+        "Crude Oil",
+        "Wall Street",
+        "Bitcoin",
+        "Federal Reserve",
+        "Trade War"
+      ],
+      "file": "posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "361",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日泛科技综述：现代62亿美元与英伟达缔结物理AI联盟、AMD发布全开源Instella-MoE、Google DeepMind视觉突破、xAI确认Grok 4.6",
+      "summary": "⚡ 7月25日泛科技综述：现代汽车集团会长郑义宣与英伟达CEO黄仁勋在圣克拉拉正式缔结'物理AI联盟'，62亿美元Saemangeum项目启动；AMD发布全开源Instella-MoE大模型，160亿参数完全基于AMD硬件训练；Google DeepMind发布GenCeption用视频生成模型实现视觉理解突破；xAI确认2万亿参数Grok 4.6已完成预训练，月底将发布Grok 4.7追赶Kimi K3。",
+      "tags": [
+        "泛科技",
+        "英伟达",
+        "现代汽车",
+        "物理AI",
+        "AMD",
+        "Instella-MoE",
+        "DeepMind",
+        "xAI",
+        "Grok",
+        "人形机器人"
+      ],
+      "file": "posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: Hyundai Forms $6.2B Physical AI Alliance with Nvidia, AMD Open-Sources Instella-MoE, Google DeepMind's GenCeption Breakthrough, xAI Confirms Grok 4.6",
+      "summary": "⚡ July 25 tech roundup: Hyundai Motor Group Chair Euisun Chung meets Jensen Huang at Nvidia HQ to formalize 'Physical AI Alliance' with $6.2B Saemangeum project; AMD launches fully open-source Instella-MoE 16B model trained entirely on AMD hardware; Google DeepMind unveils GenCeption using video generation for visual understanding; xAI confirms 2-trillion-parameter Grok 4.6 with Grok 4.7 weeks behind.",
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "Hyundai",
+        "Physical AI",
+        "AMD",
+        "Open Source",
+        "DeepMind",
+        "xAI",
+        "Grok",
+        "Humanoid Robots"
+      ],
+      "file": "posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.en.html"
+    }
+  },
+  {
+    "id": "360",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 英伟达100亿美元投资Naver AI工厂、与SK集团5000亿美元合作：韩国打造全球AI基础设施枢纽",
+      "summary": "⚡ 英伟达宣布向韩国互联网巨头Naver投资10亿美元用于AI数据中心扩建，并与SK集团达成总价值超5000亿美元的全方位AI合作，涵盖2GW以上算力集群建设、HBM芯片联合研发等。韩国总统李在明发布\"旧金山人工智能宣言\"，称韩国将跃升为全球AI供应链核心国家。",
+      "tags": [
+        "大公司动态",
+        "英伟达",
+        "AI基础设施",
+        "韩国",
+        "数据中心",
+        "半导体"
+      ],
+      "file": "posts/360-nvidia-naver-sk-group-ai-infrastructure-korea-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Nvidia Invests $1B in Naver AI Factory, $500B Partnership with SK Group: South Korea Builds Global AI Hub",
+      "summary": "⚡ Nvidia announces $1B investment in Naver's AI data center, alongside a landmark $500B partnership with SK Group covering 2GW+ AI clusters and joint HBM chip development. President Lee Jae-myung unveils 'San Francisco AI Declaration' positioning Korea as global AI supply chain core.",
+      "tags": [
+        "Big Tech",
+        "Nvidia",
+        "AI Infrastructure",
+        "South Korea",
+        "Data Center",
+        "Semiconductors"
+      ],
+      "file": "posts/360-nvidia-naver-sk-group-ai-infrastructure-korea-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "359",
     "date": "2026-07-25",
     "zh": {
