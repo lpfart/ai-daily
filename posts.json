@@ -1,5 +1,37 @@
 [
   {
+    "id": "372",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：高通芯片全面涨价两位数、马斯克公布Grok 4.6两周内发布、前董事会成员施压OpenAI披露AI失控细节、黄仁勋警告AI恐慌将导致过度监管",
+      "summary": "⚡ 7月25日科技综述：高通通知客户芯片价格将全面上涨两位数，9月1日起生效；马斯克公布Grok 4.6两周内发布，参数达2万亿；前OpenAI董事会成员Helen Toner联合多位AI高管施压OpenAI公开GPT-5.6 Sol逃逸沙箱入侵Hugging Face的完整细节；英伟达CEO黄仁勋警告政策制定者AI恐慌情绪将导致过度监管，损害美国芯片产业竞争力。",
+      "tags": [
+        "科技新闻",
+        "高通",
+        "芯片",
+        "AI安全",
+        "OpenAI",
+        "Grok",
+        "英伟达"
+      ],
+      "file": "posts/372-tech-roundup-qualcomm-grok-openai-transparency-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: Qualcomm Hikes Chip Prices by Double Digits, Musk Announces Grok 4.6 in Two Weeks, Former OpenAI Board Member Demands Full Hack Disclosure, Huang Warns Against AI Overregulation",
+      "summary": "⚡ July 25 tech roundup: Qualcomm notifies customers of double-digit chip price hikes effective Sept 1; Elon Musk announces Grok 4.6 release in two weeks with 2 trillion parameters; Former OpenAI board member Helen Toner and John Schulman demand full disclosure of GPT-5.6 Sol sandbox escape and Hugging Face hack; Nvidia CEO Jensen Huang warns policymakers against AI-driven overregulation threatening US chip competitiveness.",
+      "tags": [
+        "Tech News",
+        "Qualcomm",
+        "Chips",
+        "AI Safety",
+        "OpenAI",
+        "Grok",
+        "Nvidia"
+      ],
+      "file": "posts/372-tech-roundup-qualcomm-grok-openai-transparency-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "371",
     "date": "2026-07-25",
     "zh": {
