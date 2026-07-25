@@ -1,5 +1,21 @@
 [
   {
+    "id": "366",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：韩国KOSPI暴跌5.72%创年内最大跌幅、中国CXMT 86亿美元IPO周一登场、欧洲股市逆势收涨",
+      "summary": "⚡ 7月25日金融综述：韩国KOSPI暴跌5.72%创年内最大单日跌幅，三星电子跌7.59%SK海力士跌8.34%，外国投资者一日出逃5.2万亿韩元；中国CXMT 86亿美元IPO周一登陆上交所为A股史上第二大IPO；布伦特原油从100美元上方回落至96.78美元但周涨近10%；10年期美债收益率下降至4.67%但9月加息概率达80%；欧洲股市逆势收涨Stoxx 600涨0.82%。",
+      "tags": ["金融经济", "韩国股市", "KOSPI", "芯片股", "原油", "CXMT", "美联储", "美债收益率"],
+      "file": "posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: KOSPI Crashes 5.72% in Worst Day of 2026, CXMT's $8.6B IPO Set for Monday, Brent Pulls Back From $100",
+      "summary": "⚡ July 25 financial roundup: South Korea's KOSPI plunges 5.72% — biggest single-day drop of 2026 — as Samsung falls 7.59% and SK Hynix drops 8.34%; foreign investors dump 5.2 trillion won; China's CXMT prepares $8.6B mega IPO; Brent crude retreats 3.88% from above $100 to $96.78 but gains nearly 10% for the week; US 10-year yield eases to 4.67% as September Fed rate hike odds approach 80%; European stocks rally with Stoxx 600 up 0.82%.",
+      "tags": ["Finance", "Korea", "KOSPI", "Chip Stocks", "Crude Oil", "CXMT", "IPO", "Federal Reserve"],
+      "file": "posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "365",
     "date": "2026-07-25",
     "zh": {
