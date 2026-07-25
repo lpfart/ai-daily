@@ -1,5 +1,37 @@
 [
   {
+    "id": "375",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日科技综述：华纳兄弟起诉亚马逊非法挖角高管、马斯克Boring Company估值200亿美元融资、神秘黑客羞辱间谍软件厂商十年未被抓获",
+      "summary": "⚡ 7月26日科技综述：华纳兄弟Discovery起诉亚马逊非法挖角HBO高管Pia Barlow，指控其「无法无天的挖角狂潮」；马斯克隧道公司The Boring Company拟融资40亿美元，估值飙至200亿美元，较2022年翻三倍；网络安全界传奇黑客Phineas Fisher十年未被抓获，曾黑掉FinFisher和Hacking Team两家间谍软件厂商致其倒闭。",
+      "tags": [
+        "泛科技",
+        "华纳兄弟",
+        "亚马逊",
+        "Boring Company",
+        "马斯克",
+        "网络安全",
+        "黑客"
+      ],
+      "file": "posts/375-tech-news-warner-amazon-boring-spyware-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Tech Roundup: Warner Bros Sues Amazon for Poaching Executives, Musk's Boring Company Targets $20B Valuation, Legendary Spyware Hunter Phineas Fisher Still at Large",
+      "summary": "⚡ July 26 tech roundup: Warner Bros Discovery sues Amazon for illegally poaching HBO Max exec Pia Barlow, alleging a 'lawless employee shopping spree'; Elon Musk's Boring Company seeks $4B funding at $20B valuation, more than tripling its 2022 value; TechCrunch explores the legend of Phineas Fisher, the most prolific hacker never caught, who brought down spyware makers FinFisher and Hacking Team before vanishing.",
+      "tags": [
+        "Tech News",
+        "Warner Bros",
+        "Amazon",
+        "Boring Company",
+        "Elon Musk",
+        "Cybersecurity",
+        "Hacker"
+      ],
+      "file": "posts/375-tech-news-warner-amazon-boring-spyware-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "374",
     "date": "2026-07-26",
     "zh": {
