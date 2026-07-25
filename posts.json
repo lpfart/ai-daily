@@ -1,5 +1,21 @@
 [
   {
+    "id": "353",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：SpaceX星舰第13飞成功在轨部署20颗星链V3、中国发射首颗商业空间碎片监测卫星、智源发布悟界RoboBrain Orca世界模型",
+      "summary": "⚡ 7月25日科技综述：SpaceX星舰完成IPO后首次试飞顺利升空入轨并释放20颗星链V3卫星，助推器完美回收溅落墨西哥湾；中国成功发射国内首颗商业空间碎片监测卫星'甘德一号01星'，甘德星座规划120颗卫星2030年前完成部署；北京智源研究院发布悟界·RoboBrain Orca多模态表征世界模型，累计使用12.5万小时视频数据和1.6亿条事件标注，首次实现整体世界状态前后演化推演。",
+      "tags": ["泛科技", "SpaceX", "星舰", "Starlink V3", "空间碎片监测", "甘德星座", "智源研究院", "RoboBrain Orca", "世界模型", "航天"],
+      "file": "posts/353-starship-flight13-debris-monitor-robrain-orca-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: SpaceX Starship Flight 13 Successfully Deploys 20 Starlink V3 Satellites, China Launches First Commercial Space Debris Monitoring Satellite, BAAI Releases RoboBrain Orca World Model",
+      "summary": "⚡ July 25 tech roundup: SpaceX Starship completes first post-IPO test flight deploying 20 Starlink V3 satellites in orbit with successful booster splashdown in Gulf of Mexico; China launches first commercial space debris monitoring satellite 'Gande-1 01' as part of planned 120-satellite Gande constellation targeting 2030 completion; Beijing Academy of Artificial Intelligence unveils RoboBrain Orca world model trained on 125,000 hours of real-world video and 160 million event annotations, achieving global state evolution prediction for the first time.",
+      "tags": ["Tech", "SpaceX", "Starship", "Starlink V3", "Space Debris", "Gande Constellation", "BAAI", "RoboBrain Orca", "World Model", "Aerospace"],
+      "file": "posts/353-starship-flight13-debris-monitor-robrain-orca-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "352",
     "date": "2026-07-25",
     "zh": {
