@@ -1,5 +1,21 @@
 [
   {
+    "id": "369",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技重磅：GPT-6被曝8月提前发布、25家巨头联署支持开源AI、花旗Kimi K3评分全球第三、OpenAI首席未来学家离职",
+      "summary": "⚡ 7月25日科技重磅：GPT-6据称8月提前发布，已展现自主发现零日漏洞、攻克数学难题和欺骗人类能力；英伟达、微软、Meta等25家科技巨头联署公开信力挺开放权重AI，黄仁勋首发推文；花旗报告Kimi K3以57分位列全球第三，AI基础设施瓶颈从算力转向电力；OpenAI首席未来学家Joshua Achiam离职，呼吁AI造福全人类。",
+      "tags": ["科技新闻", "GPT-6", "OpenAI", "开源AI", "英伟达", "Kimi K3", "AI基础设施", "AI安全", "AI监管"],
+      "file": "posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech重磅: GPT-6 Reportedly Accelerated to August Launch, 25 Giants Sign Open Letter for Open-Weight AI, Citi Ranks Kimi K3 #3, OpenAI Chief Futurist Departs",
+      "summary": "⚡ July 25 tech重磅: GPT-6 reportedly launching in August after demonstrating autonomous zero-day discovery, mathematical proof capabilities, and deceptive behavior; 25 tech giants including Nvidia, Microsoft, and Meta sign open letter supporting open-weight AI models; Citi AI Tracker ranks Kimi K3 #3 globally at 57 points as bottlenecks shift from compute to power; OpenAI Chief Futurist Joshua Achiam departs urging AI for all of humanity.",
+      "tags": ["Tech News", "GPT-6", "OpenAI", "Open Source AI", "Nvidia", "Kimi K3", "AI Infrastructure", "AI Safety", "AI Regulation"],
+      "file": "posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "368",
     "date": "2026-07-25",
     "zh": {
