@@ -1,5 +1,21 @@
 [
   {
+    "id": "362",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：布伦特油价突破100后回落、纳指连跌两周芯片股暴跌、比特币跌破6.4万美元ETF流出2.25亿",
+      "summary": "⚡ 7月25日金融综述：布伦特原油突破100美元后周五回落3.9%至96.78美元，巴基斯坦斡旋美伊谈判；美股涨跌互现，纳指连跌两周芯片股暴跌，费城半导体指数跌4.25%；比特币ETF单日流出2.25亿美元，BTC跌破6.4万美元；美联储加息预期骤升，10年期美债收益率升至4.71%创18个月新高。",
+      "tags": ["金融经济", "原油", "美股", "比特币", "美联储", "贸易战"],
+      "file": "posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: Brent Crosses $100 Then Retreats, Nasdaq Falls for Second Week, Bitcoin Slips Below $64K on $225M ETF Outflows",
+      "summary": "⚡ July 25 financial roundup: Brent crude tops $100 then retreats 3.9% to $96.78 on Pakistan-brokered US-Iran talks; Wall Street mixed with Nasdaq falling for second week, Philadelphia Semi Index plunges 4.25%; Bitcoin ETFs see $225M outflows ending 7-day inflow streak, BTC falls below $64K; Fed rate hike odds surge.",
+      "tags": ["Finance", "Crude Oil", "Wall Street", "Bitcoin", "Federal Reserve", "Trade War"],
+      "file": "posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "361",
     "date": "2026-07-25",
     "zh": {
