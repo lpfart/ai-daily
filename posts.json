@@ -1,5 +1,21 @@
 [
   {
+    "id": "367",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：美伊首现停火窗口、胡塞导弹反击沙特、泽连斯基警告俄48小时内大规模攻击、俄军机侵犯日本领空",
+      "summary": "⚡ 7月25日国际政治综述：美国13天来首次未对伊朗发动空袭，特朗普称谈判「最认真」；伊朗IRGC在霍尔木兹海峡拦截4艘船只；胡塞武装向沙特吉赞和延布发射导弹报复沙特空袭荷台达；泽连斯基警告俄罗斯48小时内将发动大规模导弹袭击并确认乌克兰打击俄境内纵深目标；俄军IL-20侦察机侵犯日本领空。",
+      "tags": ["国际政治", "美伊战争", "霍尔木兹海峡", "胡塞武装", "沙特", "乌克兰", "俄罗斯", "日本领空"],
+      "file": "posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Politics Roundup: First Night Without US Strikes on Iran Since Escalation, Houthi Missile Barrage Hits Saudi Arabia, Zelensky Warns of Major Russian Attack Within 48 Hours, Russian Recon Plane Violates Japanese Airspace",
+      "summary": "⚡ July 25 international politics roundup: First night without US strikes on Iran in two weeks as Trump says talks are 'most serious yet'; Iran's IRGC stops 4 ships in Hormuz Strait; Houthis retaliate against Saudi Arabia with missile and drone attacks on Aramco facilities; Zelensky warns Russia will launch massive missile attack within 48 hours as Ukraine strikes deep into Russia; Russian IL-20 reconnaissance aircraft violates Japanese airspace.",
+      "tags": ["International Politics", "US-Iran War", "Strait of Hormuz", "Houthis", "Saudi Arabia", "Ukraine", "Russia", "Japan"],
+      "file": "posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "366",
     "date": "2026-07-25",
     "zh": {
