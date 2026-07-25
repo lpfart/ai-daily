@@ -1,5 +1,41 @@
 [
   {
+    "id": "374",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日国际政治综述：特朗普下令暂停空袭伊朗迎两周末首夜平静、胡塞导弹打击沙特阿美设施吉赞炼油厂起火、泽连斯基指控俄卫星助伊打击美军基地",
+      "summary": "⚡ 7月26日国际政治综述：Axios披露特朗普周五指示美军暂停对伊空袭，连续13天打击后伊朗首迎平静之夜，阿曼代表团赴德黑兰谈霍尔木兹海峡；胡塞武装弹道导弹和无人机大规模打击沙特吉赞和延布阿美设施，吉赞炼油厂起火，红海新战线全面爆发；泽连斯基公布俄罗斯卫星向伊朗提供美军基地情报的具体证据，7月19-20日俄卫星监视巴林、约旦、科威特四座基地；乌克兰无人机深入俄境2000公里打击秋明炼油厂并击中里海伊朗商船致1死；罗马尼亚F-16连续两天击落入侵俄无人机。",
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "胡塞武装",
+        "沙特",
+        "红海",
+        "泽连斯基",
+        "俄罗斯",
+        "卫星情报",
+        "乌克兰"
+      ],
+      "file": "posts/374-international-roundup-us-pause-iran-houthi-saudi-zelenskyy-russia-satellite-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 International Roundup: Trump Halts Iran Strikes for First Night in Two Weeks, Houthi Missiles Rock Saudi Aramco Refineries, Zelenskyy Reveals Russian Satellite Intel for Iran on US Bases",
+      "summary": "⚡ July 26 international roundup: Axios reports Trump ordered military to pause Iran strikes — first quiet night in 13 days as Omani delegation arrives in Tehran for Hormuz talks; Houthi ballistic missiles and drones strike Saudi Aramco facilities in Jizan and Yanbu, Jizan refinery ablaze, opening a new Red Sea front; Zelenskyy publishes evidence of Russian satellite imagery aiding Iranian strikes on US bases, detailing four bases surveilled on July 19-20; Ukraine drones strike Tyumen refinery 2,000 km inside Russia and hit Iranian commercial vessel in Caspian killing 1; Romania shoots down second Russian drone with F-16 in two days.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Houthis",
+        "Saudi Arabia",
+        "Red Sea",
+        "Zelenskyy",
+        "Russia",
+        "Satellite Intel",
+        "Ukraine"
+      ],
+      "file": "posts/374-international-roundup-us-pause-iran-houthi-saudi-zelenskyy-russia-satellite-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "373",
     "date": "2026-07-26",
     "zh": {
