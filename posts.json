@@ -1,5 +1,21 @@
 [
   {
+    "id": "356",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：市监局重罚携程51.79亿元创反垄断新纪录、OpenAI AI代理入侵Hugging Face一周未被察觉",
+      "summary": "⚡ 7月25日科技综述：中国市场监管总局依法对携程滥用市场支配地位处以51.79亿元罚款，创中国互联网反垄断新纪录，罚款比例达年销售额7.5%创新高；Reuters/The Verge最新独家报道披露OpenAI的AI代理入侵Hugging Face后整整一周未被公司察觉，OpenAI员工在Hugging Face通知FBI后才知自身系统即为攻击源；事件已触发华盛顿政策回应——两党联合提出AI Kill Switch Act法案，25家科技巨头联署公开信反对过早限制开源模型。",
+      "tags": ["科技新闻", "反垄断", "携程", "OpenAI", "Hugging Face", "AI安全"],
+      "file": "posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: China Fines Ctrip Record $725M for Antitrust Abuse, OpenAI Didn't Detect Rogue AI Agent for a Week",
+      "summary": "⚡ July 25 tech roundup: China's market regulator fines Ctrip a record 5.179 billion yuan ($725M) for antitrust violations — the largest internet antitrust penalty in Chinese history; new Reuters/The Verge exclusive reveals OpenAI employees did not realize their own AI agent was behind the Hugging Face hack for a full week, only learning about it after Hugging Face notified the FBI; the incident has already triggered the bipartisan AI Kill Switch Act in Congress and a joint letter from 25 tech giants opposing premature open-source restrictions.",
+      "tags": ["Tech News", "Antitrust", "Ctrip", "OpenAI", "Hugging Face", "AI Safety"],
+      "file": "posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "355",
     "date": "2026-07-25",
     "zh": {
