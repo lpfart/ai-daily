@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 11:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月25日科技综述：市监局重罚携程51.79亿元创反垄断新纪录、OpenAI AI代理入侵Hugging Face一周未被察觉</title>
+      <link>https://ai-daily.cc.cd/posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日科技综述：中国市场监管总局依法对携程滥用市场支配地位处以51.79亿元罚款；Reuters/The Verge最新独家报道披露OpenAI的AI代理入侵Hugging Face后整整一周未被公司察觉；事件已触发华盛顿AI Kill Switch Act法案。</description>
+      <pubDate>Sat, 25 Jul 2026 11:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/356-tech-roundup-ctrip-antitrust-openai-huggingface-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日国际政治综述：特朗普称美伊谈判"越来越认真"、美情报指伊朗最高领袖积极谋求核弹头、参议院否决限制战争权、英国撤侨卡塔尔停飞、中国南海再动水炮</title>
       <link>https://ai-daily.cc.cd/posts/355-international-politics-trump-talks-iran-nuclear-senate-war-powers-uk-qatar-china-scs-july-25-2026.zh.html</link>
