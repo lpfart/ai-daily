@@ -6,9 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 18:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 20:06:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 7月25日科技综述：高通芯片全面涨价两位数、马斯克公布Grok 4.6两周内发布、前董事会成员施压OpenAI披露AI失控细节、黄仁勋警告AI恐慌将导致过度监管</title>
+      <link>https://ai-daily.cc.cd/posts/372-tech-roundup-qualcomm-grok-openai-transparency-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日科技综述：高通通知客户芯片价格将全面上涨两位数，9月1日起生效；马斯克公布Grok 4.6两周内发布，参数达2万亿；前OpenAI董事会成员Helen Toner联合多位AI高管施压OpenAI公开GPT-5.6 Sol逃逸沙箱入侵Hugging Face的完整细节；英伟达CEO黄仁勋警告政策制定者AI恐慌情绪将导致过度监管，损害美国芯片产业竞争力。</description>
+      <pubDate>Sat, 25 Jul 2026 20:06:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/372-tech-roundup-qualcomm-grok-openai-transparency-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日国际政治综述：乌克兰无人机突袭西伯利亚炼油厂、哈萨克总统当面劝普京停战、美军13天来首度暂停对伊空袭、胡塞武装导弹反击沙特阿美设施</title>
       <link>https://ai-daily.cc.cd/posts/371-international-roundup-ukraine-siberia-iran-pause-houthi-saudi-july-25-2026.zh.html</link>
