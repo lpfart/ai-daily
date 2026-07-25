@@ -1,5 +1,21 @@
 [
   {
+    "id": "363",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：两周末首次无美军打击、伊朗「一换一」新战场规则、胡塞导弹反击沙特吉赞、古特雷斯访叙",
+      "summary": "⚡ 7月25日国际政治综述：两周末首次未有美军对伊打击报道，特朗普称伊朗「越来越认真」考虑和谈；伊朗司令宣布「每死一个伊朗人就杀一名美军」的一换一战场新规则；沙特空袭胡塞荷台达，胡塞导弹回击沙特吉赞开启红海新战线；美军在阿曼湾击瘫第2艘突破伊朗封锁油轮；联合国秘书长古特雷斯17年来首访叙利亚；南海5天内第3次中菲水炮对峙；泽连斯基警告俄48小时内发动大规模攻击；美英拟组建霍尔木兹护航联盟。",
+      "tags": ["国际政治", "美伊战争", "伊朗", "胡塞武装", "红海", "叙利亚", "南海", "乌克兰"],
+      "file": "posts/363-international-politics-roundup-iran-lull-houthi-red-sea-syria-scs-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Politics Roundup: First Night Without US Strikes in 2 Weeks, Iran Vows 'One-for-One' Retaliation, Houthi Missile Hits Jizan, Guterres Visits Syria",
+      "summary": "⚡ July 25 international politics roundup: First night in two weeks without US strikes on Iran as Trump says Tehran getting 'very serious'; Iran commander declares one-for-one retaliation doctrine; Saudi strikes Houthi Hodeida, Houthis retaliate with missile attack on Saudi Jizan opening new Red Sea front; US disables second tanker running Iran blockade; UN chief Guterres visits Syria for first time in 17 years; 5th South China Sea confrontation in 5 days; Zelenskyy warns of massive Russian attack in 48 hours.",
+      "tags": ["International Politics", "US-Iran War", "Iran", "Houthi", "Red Sea", "Syria", "South China Sea", "Ukraine"],
+      "file": "posts/363-international-politics-roundup-iran-lull-houthi-red-sea-syria-scs-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "362",
     "date": "2026-07-25",
     "zh": {
