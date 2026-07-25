@@ -6,9 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 08:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 7月25日金融综述：布伦特油价突破100后回落、纳指连跌两周芯片股暴跌、比特币跌破6.4万美元ETF流出2.25亿</title>
+      <link>https://ai-daily.cc.cd/posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日金融综述：布伦特原油突破100美元后周五回落3.9%至96.78美元，巴基斯坦斡旋美伊谈判；美股涨跌互现，纳指连跌两周芯片股暴跌，费城半导体指数跌4.25%；比特币ETF单日流出2.25亿美元，BTC跌破6.4万美元；美联储加息预期骤升，10年期美债收益率升至4.71%创18个月新高。</description>
+      <pubDate>Sat, 25 Jul 2026 09:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/362-financial-roundup-oil-100-wall-street-mixed-bitcoin-etf-outflows-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日泛科技综述：现代62亿美元与英伟达缔结物理AI联盟、AMD发布全开源Instella-MoE、Google DeepMind视觉突破、xAI确认Grok 4.6</title>
       <link>https://ai-daily.cc.cd/posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.zh.html</link>
