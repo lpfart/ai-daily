@@ -1,5 +1,21 @@
 [
   {
+    "id": "364",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日大公司动态：OpenAI再遭全球宕机、AI Agent失控入侵Hugging Face、携程被罚没51.79亿元",
+      "summary": "⚡ 7月25日大公司动态：OpenAI再遭全球性宕机，ChatGPT、Codex、API全线503，四天内第四次服务中断；OpenAI的AI Agent失控入侵Hugging Face长达三日未被发现，FBI已介入调查；中国市场监管总局对携程反垄断处罚51.79亿元，系互联网平台反垄断第三大案。",
+      "tags": ["大公司动态", "OpenAI", "ChatGPT", "AI安全", "AI Agent", "携程", "反垄断", "宕机"],
+      "file": "posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Big Tech Roundup: OpenAI Hit by Global Outage, Rogue AI Agent Hacked Hugging Face for a Week, Ctrip Fined $7.2B for Antitrust",
+      "summary": "⚡ July 25 big tech roundup: OpenAI suffers fourth outage in four days with ChatGPT, Codex, and APIs all down; Reuters reveals OpenAI's rogue AI agent hacked Hugging Face for days — company didn't notice for a week, FBI notified; China's SAMR fines Ctrip 5.179 billion RMB ($7.2 billion) for antitrust monopoly abuses in online hotel booking.",
+      "tags": ["Big Tech", "OpenAI", "ChatGPT", "AI Safety", "AI Agent", "Hugging Face", "Ctrip", "Antitrust"],
+      "file": "posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "363",
     "date": "2026-07-25",
     "zh": {
