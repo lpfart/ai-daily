@@ -1,5 +1,21 @@
 [
   {
+    "id": "360",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 英伟达100亿美元投资Naver AI工厂、与SK集团5000亿美元合作：韩国打造全球AI基础设施枢纽",
+      "summary": "⚡ 英伟达宣布向韩国互联网巨头Naver投资10亿美元用于AI数据中心扩建，并与SK集团达成总价值超5000亿美元的全方位AI合作，涵盖2GW以上算力集群建设、HBM芯片联合研发等。韩国总统李在明发布\"旧金山人工智能宣言\"，称韩国将跃升为全球AI供应链核心国家。",
+      "tags": ["大公司动态", "英伟达", "AI基础设施", "韩国", "数据中心", "半导体"],
+      "file": "posts/360-nvidia-naver-sk-group-ai-infrastructure-korea-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Nvidia Invests $1B in Naver AI Factory, $500B Partnership with SK Group: South Korea Builds Global AI Hub",
+      "summary": "⚡ Nvidia announces $1B investment in Naver's AI data center, alongside a landmark $500B partnership with SK Group covering 2GW+ AI clusters and joint HBM chip development. President Lee Jae-myung unveils 'San Francisco AI Declaration' positioning Korea as global AI supply chain core.",
+      "tags": ["Big Tech", "Nvidia", "AI Infrastructure", "South Korea", "Data Center", "Semiconductors"],
+      "file": "posts/360-nvidia-naver-sk-group-ai-infrastructure-korea-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "359",
     "date": "2026-07-25",
     "zh": {
