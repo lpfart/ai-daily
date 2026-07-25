@@ -1,5 +1,21 @@
 [
   {
+    "id": "358",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日金融综述：比特币ETF单日流出2.25亿美元失守6.4万美元、俄罗斯通过加密货币全面合法化法案、哈萨克斯坦CPC管道中断Tengiz产量腰斩、霍尔木兹海峡通行量暴跌60%",
+      "summary": "⚡ 7月25日金融综述：美国现货比特币ETF在7月24日录得2.25亿美元净流出，BlackRock IBIT独占2.02亿美元终结七连阳，BTC跌破6.4万美元；俄罗斯国家杜马三读通过《数字货币与数字权利法》，9月1日起全面合法化加密货币交易；哈萨克斯坦因CPC黑海管道暂停，Tengiz油田产量腰斩至40.6万桶/日，全国产量骤降21%；海上交通监测Kpler报告霍尔木兹海峡周四仅6次船舶通行暴跌60%；菲律宾比索跌至61.847创历史新低；韩国散户7月美股净买入25.3亿美元较6月暴增4倍。",
+      "tags": ["金融经济", "比特币", "ETF", "俄罗斯", "加密货币", "原油", "哈萨克斯坦", "霍尔木兹海峡", "新兴市场"],
+      "file": "posts/358-financial-roundup-btc-etf-outflow-russia-crypto-kazakhstan-oil-hormuz-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Financial Roundup: Bitcoin ETFs Record $225M Outflow to End Seven-Day Streak, Russia Passes Landmark Crypto Legalization, Kazakhstan Oil Output Crashes 21% on CPC Shutdown, Hormuz Crossings Plunge 60%",
+      "summary": "⚡ July 25 financial roundup: US spot Bitcoin ETFs record $225M net outflow on July 24, BlackRock IBIT alone accounts for $202M as seven-day inflow streak ends, BTC falls to $64K; Russia's State Duma passes comprehensive cryptocurrency legalization bill effective September 1; Kazakhstan cuts oil production 21% as CPC pipeline halts, Tengiz output halved to 406K bpd; Kpler reports Strait of Hormuz crossings crashed 60% Thursday with only 6 transits; Philippine peso hits record low 61.847; Korean retail investors quadruple US stock purchases to $2.53B in July.",
+      "tags": ["Finance", "Bitcoin", "ETF", "Russia", "Cryptocurrency", "Crude Oil", "Kazakhstan", "Strait of Hormuz", "Emerging Markets"],
+      "file": "posts/358-financial-roundup-btc-etf-outflow-russia-crypto-kazakhstan-oil-hormuz-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "357",
     "date": "2026-07-25",
     "zh": {
