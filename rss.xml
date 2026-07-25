@@ -6,9 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 14:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 23:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 7月25日科技综述：Claude Opus 5半价发布逼近Fable 5、AI数据中心突现3.5GW电力危机、AI Kill Switch法案出台、ChatGPT四天四宕机</title>
+      <link>https://ai-daily.cc.cd/posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日科技综述：Anthropic发布Claude Opus 5，性能逼近Fable 5价格减半，FrontierBench 43.3%超越GPT-5.6 Sol，IMO满分42/42；华盛顿DC输电线路故障暴露AI数据中心电力危机——3.5GW负载30秒内从电网消失；美国两党众议员提出AI Kill Switch Act，授权DHS在AI系统失控时强制关闭；ChatGPT遭遇四天内第四次全球宕机。</description>
+      <pubDate>Sat, 25 Jul 2026 23:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日国际政治综述：美伊首现停火窗口、胡塞导弹反击沙特、泽连斯基警告俄48小时内大规模攻击、俄军机侵犯日本领空</title>
       <link>https://ai-daily.cc.cd/posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.zh.html</link>
