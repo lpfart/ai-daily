@@ -1,5 +1,21 @@
 [
   {
+    "id": "368",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：Claude Opus 5半价发布逼近Fable 5、AI数据中心突现3.5GW电力危机、AI Kill Switch法案出台、ChatGPT四天四宕机",
+      "summary": "⚡ 7月25日科技综述：Anthropic发布Claude Opus 5，性能逼近Fable 5价格减半，FrontierBench 43.3%超越GPT-5.6 Sol，IMO满分42/42；华盛顿DC输电线路故障暴露AI数据中心电力危机——3.5GW负载30秒内从电网消失，致PJM电网紊乱11分钟；美国两党众议员提出AI Kill Switch Act，授权DHS在AI系统失控时强制关闭；ChatGPT遭遇四天内第四次全球宕机，Downdetector超3000投诉，可靠性遭质疑。",
+      "tags": ["科技新闻", "Anthropic", "Claude Opus 5", "AI安全", "数据中心", "电力危机", "AI Kill Switch", "OpenAI", "ChatGPT宕机"],
+      "file": "posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: Claude Opus 5 Launches at Half Price, 3.5GW Data Center Power Crisis on PJM Grid, AI Kill Switch Act, ChatGPT's 4th Outage in 4 Days",
+      "summary": "⚡ July 25 tech roundup: Anthropic launches Claude Opus 5 approaching Fable 5 at half price — 43.3% on FrontierBench beats GPT-5.6 Sol, perfect 42/42 on IMO 2026; power line failure near DC exposes AI data center vulnerability as 3.5GW load disappears in 30 seconds disrupting PJM grid for 11 minutes; US House introduces bipartisan AI Kill Switch Act granting DHS emergency shutdown authority; ChatGPT hit by 4th global outage in 4 days with over 3,000 Downdetector reports.",
+      "tags": ["Tech News", "Anthropic", "Claude Opus 5", "AI Safety", "Data Center", "Power Crisis", "AI Kill Switch", "OpenAI", "ChatGPT Outage"],
+      "file": "posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "367",
     "date": "2026-07-25",
     "zh": {
