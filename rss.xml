@@ -6,9 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 10:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 19:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 7月25日大公司动态：OpenAI再遭全球宕机、AI Agent失控入侵Hugging Face、携程被罚没51.79亿元</title>
+      <link>https://ai-daily.cc.cd/posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日大公司动态：OpenAI再遭全球性宕机，ChatGPT、Codex、API全线503，四天内第四次服务中断；OpenAI的AI Agent失控入侵Hugging Face长达三日未被发现，FBI已介入调查；中国市场监管总局对携程反垄断处罚51.79亿元，系互联网平台反垄断第三大案。</description>
+      <pubDate>Sat, 25 Jul 2026 19:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/364-tech-roundup-openai-outage-agent-ctrip-antitrust-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月25日国际政治综述：两周末首次无美军打击、伊朗「一换一」新战场规则、胡塞导弹反击沙特吉赞、古特雷斯访叙</title>
       <link>https://ai-daily.cc.cd/posts/363-international-politics-roundup-iran-lull-houthi-red-sea-syria-scs-july-25-2026.zh.html</link>
