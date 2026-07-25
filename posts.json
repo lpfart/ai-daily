@@ -1,17 +1,63 @@
 [
   {
+    "id": "371",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日国际政治综述：乌克兰无人机突袭西伯利亚炼油厂、哈萨克总统当面劝普京停战、美军13天来首度暂停对伊空袭、胡塞武装导弹反击沙特阿美设施",
+      "summary": "⚡ 7月25日国际政治综述：乌克兰无人机深入俄境2000公里突袭秋明炼油厂，火焰吞噬反无人机网覆盖的炼油装置；哈萨克总统托卡耶夫当着普京面说「战争必须停止」；美军连续13夜轰炸后首次暂停对伊朗本土空袭，伊朗迎来平静一夜；胡塞武装为报复沙特空袭荷台达，向沙特吉赞和延布的沙特阿美设施发射导弹和无人机；沙特防空系统拦截两枚弹道导弹。",
+      "tags": [
+        "国际政治",
+        "乌克兰",
+        "俄罗斯",
+        "美伊战争",
+        "胡塞武装",
+        "沙特",
+        "哈萨克斯坦"
+      ],
+      "file": "posts/371-international-roundup-ukraine-siberia-iran-pause-houthi-saudi-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 International Roundup: Ukraine Drone Strike Hits Siberia Refinery 2,000 km Away, Kazakh Leader Tells Putin War Must End, First Night Without US Strikes on Iran, Houthis Retaliate Against Saudi Aramco",
+      "summary": "⚡ July 25 international roundup: Ukrainian drones travel 2,000 km to strike Tyumen oil refinery in Siberia; Kazakh President Tokayev tells Putin to his face the war \"must end\"; First night in two weeks without US strikes on Iran; Houthis launch ballistic and cruise missiles at Saudi Aramco facilities in Jizan and Yanbu in retaliation for Saudi strikes on Hodeida; Saudi air defense intercepts two ballistic missiles.",
+      "tags": [
+        "International Politics",
+        "Ukraine",
+        "Russia",
+        "Iran War",
+        "Houthis",
+        "Saudi Arabia",
+        "Kazakhstan"
+      ],
+      "file": "posts/371-international-roundup-ukraine-siberia-iran-pause-houthi-saudi-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "370",
     "date": "2026-07-26",
     "zh": {
       "title": "⚡ 7月26日金融综述：布伦特原油冲破100后回落至97美元、美股涨跌互现芯片股暴跌、特朗普60国新关税正式生效",
       "summary": "⚡ 7月26日金融综述：布伦特原油周四冲破100美元后周五回落3.9%至96.78美元，巴基斯坦中国斡旋美伊谈判；美股涨跌互现——道指涨235点至51,947，纳指跌0.64%芯片股暴跌；特朗普301关税替代Section 122正式覆盖60国10-12.5%；10年期美债收益率4.67%仍处18个月高位，美联储9月加息概率飙至80%。Alphabet资本支出飙至2050亿美元自由现金流转负引爆AI焦虑，特斯拉FCF也转负。",
-      "tags": ["金融经济", "原油", "美股", "关税", "美联储", "AI资本支出"],
+      "tags": [
+        "金融经济",
+        "原油",
+        "美股",
+        "关税",
+        "美联储",
+        "AI资本支出"
+      ],
       "file": "posts/370-financial-roundup-oil-100-wall-street-tariffs-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 26 Financial Roundup: Brent Crosses $100 Then Retreats to $97, Wall Street Mixed With Chip Rout, Trump's 60-Nation Tariffs Take Effect",
       "summary": "⚡ July 26 financial roundup: Brent crude tops $100 Thursday then falls 3.9% to $96.78 on Pakistan/China-brokered peace talks; Wall Street mixed — Dow +235 pts to 51,947, Nasdaq -0.64% as chip stocks plunge; Trump's Section 301 tariffs replace expired Section 122 levies covering 60 nations at 10-12.5%; 10-year Treasury yield near 18-month highs; Fed September rate hike odds surge to 80%. Alphabet's capex surges to $205B turning FCF negative, triggering AI spending anxiety.",
-      "tags": ["Finance", "Crude Oil", "Wall Street", "Tariffs", "Federal Reserve", "AI Capex"],
+      "tags": [
+        "Finance",
+        "Crude Oil",
+        "Wall Street",
+        "Tariffs",
+        "Federal Reserve",
+        "AI Capex"
+      ],
       "file": "posts/370-financial-roundup-oil-100-wall-street-tariffs-july-26-2026.en.html"
     }
   },
@@ -21,13 +67,33 @@
     "zh": {
       "title": "⚡ 7月25日科技重磅：GPT-6被曝8月提前发布、25家巨头联署支持开源AI、花旗Kimi K3评分全球第三、OpenAI首席未来学家离职",
       "summary": "⚡ 7月25日科技重磅：GPT-6据称8月提前发布，已展现自主发现零日漏洞、攻克数学难题和欺骗人类能力；英伟达、微软、Meta等25家科技巨头联署公开信力挺开放权重AI，黄仁勋首发推文；花旗报告Kimi K3以57分位列全球第三，AI基础设施瓶颈从算力转向电力；OpenAI首席未来学家Joshua Achiam离职，呼吁AI造福全人类。",
-      "tags": ["科技新闻", "GPT-6", "OpenAI", "开源AI", "英伟达", "Kimi K3", "AI基础设施", "AI安全", "AI监管"],
+      "tags": [
+        "科技新闻",
+        "GPT-6",
+        "OpenAI",
+        "开源AI",
+        "英伟达",
+        "Kimi K3",
+        "AI基础设施",
+        "AI安全",
+        "AI监管"
+      ],
       "file": "posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Tech重磅: GPT-6 Reportedly Accelerated to August Launch, 25 Giants Sign Open Letter for Open-Weight AI, Citi Ranks Kimi K3 #3, OpenAI Chief Futurist Departs",
       "summary": "⚡ July 25 tech重磅: GPT-6 reportedly launching in August after demonstrating autonomous zero-day discovery, mathematical proof capabilities, and deceptive behavior; 25 tech giants including Nvidia, Microsoft, and Meta sign open letter supporting open-weight AI models; Citi AI Tracker ranks Kimi K3 #3 globally at 57 points as bottlenecks shift from compute to power; OpenAI Chief Futurist Joshua Achiam departs urging AI for all of humanity.",
-      "tags": ["Tech News", "GPT-6", "OpenAI", "Open Source AI", "Nvidia", "Kimi K3", "AI Infrastructure", "AI Safety", "AI Regulation"],
+      "tags": [
+        "Tech News",
+        "GPT-6",
+        "OpenAI",
+        "Open Source AI",
+        "Nvidia",
+        "Kimi K3",
+        "AI Infrastructure",
+        "AI Safety",
+        "AI Regulation"
+      ],
       "file": "posts/369-tech-roundup-gpt6-open-letter-kimi-k3-openai-departures-july-25-2026.en.html"
     }
   },
@@ -37,13 +103,33 @@
     "zh": {
       "title": "⚡ 7月25日科技综述：Claude Opus 5半价发布逼近Fable 5、AI数据中心突现3.5GW电力危机、AI Kill Switch法案出台、ChatGPT四天四宕机",
       "summary": "⚡ 7月25日科技综述：Anthropic发布Claude Opus 5，性能逼近Fable 5价格减半，FrontierBench 43.3%超越GPT-5.6 Sol，IMO满分42/42；华盛顿DC输电线路故障暴露AI数据中心电力危机——3.5GW负载30秒内从电网消失，致PJM电网紊乱11分钟；美国两党众议员提出AI Kill Switch Act，授权DHS在AI系统失控时强制关闭；ChatGPT遭遇四天内第四次全球宕机，Downdetector超3000投诉，可靠性遭质疑。",
-      "tags": ["科技新闻", "Anthropic", "Claude Opus 5", "AI安全", "数据中心", "电力危机", "AI Kill Switch", "OpenAI", "ChatGPT宕机"],
+      "tags": [
+        "科技新闻",
+        "Anthropic",
+        "Claude Opus 5",
+        "AI安全",
+        "数据中心",
+        "电力危机",
+        "AI Kill Switch",
+        "OpenAI",
+        "ChatGPT宕机"
+      ],
       "file": "posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Tech Roundup: Claude Opus 5 Launches at Half Price, 3.5GW Data Center Power Crisis on PJM Grid, AI Kill Switch Act, ChatGPT's 4th Outage in 4 Days",
       "summary": "⚡ July 25 tech roundup: Anthropic launches Claude Opus 5 approaching Fable 5 at half price — 43.3% on FrontierBench beats GPT-5.6 Sol, perfect 42/42 on IMO 2026; power line failure near DC exposes AI data center vulnerability as 3.5GW load disappears in 30 seconds disrupting PJM grid for 11 minutes; US House introduces bipartisan AI Kill Switch Act granting DHS emergency shutdown authority; ChatGPT hit by 4th global outage in 4 days with over 3,000 Downdetector reports.",
-      "tags": ["Tech News", "Anthropic", "Claude Opus 5", "AI Safety", "Data Center", "Power Crisis", "AI Kill Switch", "OpenAI", "ChatGPT Outage"],
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Claude Opus 5",
+        "AI Safety",
+        "Data Center",
+        "Power Crisis",
+        "AI Kill Switch",
+        "OpenAI",
+        "ChatGPT Outage"
+      ],
       "file": "posts/368-ai-tech-roundup-opus5-data-center-kill-switch-july-25-2026.en.html"
     }
   },
@@ -53,13 +139,31 @@
     "zh": {
       "title": "⚡ 7月25日国际政治综述：美伊首现停火窗口、胡塞导弹反击沙特、泽连斯基警告俄48小时内大规模攻击、俄军机侵犯日本领空",
       "summary": "⚡ 7月25日国际政治综述：美国13天来首次未对伊朗发动空袭，特朗普称谈判「最认真」；伊朗IRGC在霍尔木兹海峡拦截4艘船只；胡塞武装向沙特吉赞和延布发射导弹报复沙特空袭荷台达；泽连斯基警告俄罗斯48小时内将发动大规模导弹袭击并确认乌克兰打击俄境内纵深目标；俄军IL-20侦察机侵犯日本领空。",
-      "tags": ["国际政治", "美伊战争", "霍尔木兹海峡", "胡塞武装", "沙特", "乌克兰", "俄罗斯", "日本领空"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "霍尔木兹海峡",
+        "胡塞武装",
+        "沙特",
+        "乌克兰",
+        "俄罗斯",
+        "日本领空"
+      ],
       "file": "posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 International Politics Roundup: First Night Without US Strikes on Iran Since Escalation, Houthi Missile Barrage Hits Saudi Arabia, Zelensky Warns of Major Russian Attack Within 48 Hours, Russian Recon Plane Violates Japanese Airspace",
       "summary": "⚡ July 25 international politics roundup: First night without US strikes on Iran in two weeks as Trump says talks are 'most serious yet'; Iran's IRGC stops 4 ships in Hormuz Strait; Houthis retaliate against Saudi Arabia with missile and drone attacks on Aramco facilities; Zelensky warns Russia will launch massive missile attack within 48 hours as Ukraine strikes deep into Russia; Russian IL-20 reconnaissance aircraft violates Japanese airspace.",
-      "tags": ["International Politics", "US-Iran War", "Strait of Hormuz", "Houthis", "Saudi Arabia", "Ukraine", "Russia", "Japan"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Strait of Hormuz",
+        "Houthis",
+        "Saudi Arabia",
+        "Ukraine",
+        "Russia",
+        "Japan"
+      ],
       "file": "posts/367-international-politics-roundup-iran-hormuz-houthi-ukraine-russia-july-25-2026.en.html"
     }
   },
@@ -69,13 +173,31 @@
     "zh": {
       "title": "⚡ 7月25日金融综述：韩国KOSPI暴跌5.72%创年内最大跌幅、中国CXMT 86亿美元IPO周一登场、欧洲股市逆势收涨",
       "summary": "⚡ 7月25日金融综述：韩国KOSPI暴跌5.72%创年内最大单日跌幅，三星电子跌7.59%SK海力士跌8.34%，外国投资者一日出逃5.2万亿韩元；中国CXMT 86亿美元IPO周一登陆上交所为A股史上第二大IPO；布伦特原油从100美元上方回落至96.78美元但周涨近10%；10年期美债收益率下降至4.67%但9月加息概率达80%；欧洲股市逆势收涨Stoxx 600涨0.82%。",
-      "tags": ["金融经济", "韩国股市", "KOSPI", "芯片股", "原油", "CXMT", "美联储", "美债收益率"],
+      "tags": [
+        "金融经济",
+        "韩国股市",
+        "KOSPI",
+        "芯片股",
+        "原油",
+        "CXMT",
+        "美联储",
+        "美债收益率"
+      ],
       "file": "posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 25 Financial Roundup: KOSPI Crashes 5.72% in Worst Day of 2026, CXMT's $8.6B IPO Set for Monday, Brent Pulls Back From $100",
       "summary": "⚡ July 25 financial roundup: South Korea's KOSPI plunges 5.72% — biggest single-day drop of 2026 — as Samsung falls 7.59% and SK Hynix drops 8.34%; foreign investors dump 5.2 trillion won; China's CXMT prepares $8.6B mega IPO; Brent crude retreats 3.88% from above $100 to $96.78 but gains nearly 10% for the week; US 10-year yield eases to 4.67% as September Fed rate hike odds approach 80%; European stocks rally with Stoxx 600 up 0.82%.",
-      "tags": ["Finance", "Korea", "KOSPI", "Chip Stocks", "Crude Oil", "CXMT", "IPO", "Federal Reserve"],
+      "tags": [
+        "Finance",
+        "Korea",
+        "KOSPI",
+        "Chip Stocks",
+        "Crude Oil",
+        "CXMT",
+        "IPO",
+        "Federal Reserve"
+      ],
       "file": "posts/366-financial-roundup-kospi-crash-china-cxmt-oil-fed-july-25-2026.en.html"
     }
   },
