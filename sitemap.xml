@@ -3747,4 +3747,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/374-international-roundup-us-pause-iran-houthi-saudi-zelenskyy-russia-satellite-july-26-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/374-international-roundup-us-pause-iran-houthi-saudi-zelenskyy-russia-satellite-july-26-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
