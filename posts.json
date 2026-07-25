@@ -1,5 +1,21 @@
 [
   {
+    "id": "361",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日泛科技综述：现代62亿美元与英伟达缔结物理AI联盟、AMD发布全开源Instella-MoE、Google DeepMind视觉突破、xAI确认Grok 4.6",
+      "summary": "⚡ 7月25日泛科技综述：现代汽车集团会长郑义宣与英伟达CEO黄仁勋在圣克拉拉正式缔结'物理AI联盟'，62亿美元Saemangeum项目启动；AMD发布全开源Instella-MoE大模型，160亿参数完全基于AMD硬件训练；Google DeepMind发布GenCeption用视频生成模型实现视觉理解突破；xAI确认2万亿参数Grok 4.6已完成预训练，月底将发布Grok 4.7追赶Kimi K3。",
+      "tags": ["泛科技", "英伟达", "现代汽车", "物理AI", "AMD", "Instella-MoE", "DeepMind", "xAI", "Grok", "人形机器人"],
+      "file": "posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: Hyundai Forms $6.2B Physical AI Alliance with Nvidia, AMD Open-Sources Instella-MoE, Google DeepMind's GenCeption Breakthrough, xAI Confirms Grok 4.6",
+      "summary": "⚡ July 25 tech roundup: Hyundai Motor Group Chair Euisun Chung meets Jensen Huang at Nvidia HQ to formalize 'Physical AI Alliance' with $6.2B Saemangeum project; AMD launches fully open-source Instella-MoE 16B model trained entirely on AMD hardware; Google DeepMind unveils GenCeption using video generation for visual understanding; xAI confirms 2-trillion-parameter Grok 4.6 with Grok 4.7 weeks behind.",
+      "tags": ["Tech News", "Nvidia", "Hyundai", "Physical AI", "AMD", "Open Source", "DeepMind", "xAI", "Grok", "Humanoid Robots"],
+      "file": "posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "360",
     "date": "2026-07-25",
     "zh": {
