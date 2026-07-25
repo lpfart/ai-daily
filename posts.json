@@ -1,5 +1,21 @@
 [
   {
+    "id": "357",
+    "date": "2026-07-25",
+    "zh": {
+      "title": "⚡ 7月25日科技综述：AMD Advancing AI全面反攻NVIDIA、Anthropic获50亿美元投资、OpenAI 300亿数据中心落地、Samsung正式进军机器人",
+      "summary": "⚡ 7月25日科技综述：AMD在Advancing AI 2026大会上发布Helios机架级AI系统、第六代EPYC Venice处理器（最高256核）、Instinct MI455X GPU及Ryzen AI Embedded X100机器人芯片，全面挑战NVIDIA；AMD与Anthropic达成50亿美元战略合作，部署2GW算力跑Claude模型；OpenAI公布300亿美元佐治亚州Project Camellia数据中心项目，CFO坦言算力短缺将持续至2028年；Samsung正式成立人形机器人事业部RX，Shallow-π VLA模型在工厂测试中达95%成功率。",
+      "tags": ["科技新闻", "AMD", "Advancing AI", "Anthropic", "AI基础设施", "OpenAI", "Samsung", "人形机器人", "数据中心"],
+      "file": "posts/357-amd-advancing-ai-helios-anthropic-openai-data-center-samsung-robot-july-25-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 25 Tech Roundup: AMD Launches Full-Stack AI Assault on NVIDIA, $5B Anthropic Deal, OpenAI's $30B Data Center, Samsung Enters Humanoid Robotics",
+      "summary": "⚡ July 25 tech roundup: At Advancing AI 2026, AMD launched Helios rack-scale AI system, 6th-gen EPYC Venice CPUs (up to 256 cores), Instinct MI455X GPUs, and Ryzen AI Embedded X100 chips to challenge NVIDIA across every layer; AMD announced a $5 billion partnership with Anthropic deploying 2GW of Instinct GPUs to run Claude; OpenAI unveiled Project Camellia — a $30B+ data center in Georgia, with CFO warning compute scarcity won't ease until 2028; Samsung formalized its humanoid robotics division RX with Shallow-π VLA model achieving 95% success in factory tests.",
+      "tags": ["Tech News", "AMD", "Advancing AI", "Anthropic", "AI Infrastructure", "OpenAI", "Samsung", "Humanoid Robot", "Data Center"],
+      "file": "posts/357-amd-advancing-ai-helios-anthropic-openai-data-center-samsung-robot-july-25-2026.en.html"
+    }
+  },
+  {
     "id": "356",
     "date": "2026-07-25",
     "zh": {
