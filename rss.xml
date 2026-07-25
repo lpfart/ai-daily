@@ -6,9 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 25 Jul 2026 07:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 7月25日泛科技综述：现代62亿美元与英伟达缔结物理AI联盟、AMD发布全开源Instella-MoE、Google DeepMind视觉突破、xAI确认Grok 4.6</title>
+      <link>https://ai-daily.cc.cd/posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.zh.html</link>
+      <description>⚡ 7月25日泛科技综述：现代汽车集团会长郑义宣与英伟达CEO黄仁勋在圣克拉拉正式缔结'物理AI联盟'，62亿美元Saemangeum项目启动；AMD发布全开源Instella-MoE大模型，160亿参数完全基于AMD硬件训练；Google DeepMind发布GenCeption用视频生成模型实现视觉理解突破；xAI确认2万亿参数Grok 4.6已完成预训练。</description>
+      <pubDate>Sat, 25 Jul 2026 08:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/361-hyundai-nvidia-physical-ai-amd-instella-moe-google-deepmind-july-25-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 英伟达100亿美元投资Naver AI工厂、与SK集团5000亿美元合作：韩国打造全球AI基础设施枢纽</title>
       <link>https://ai-daily.cc.cd/posts/360-nvidia-naver-sk-group-ai-infrastructure-korea-july-25-2026.zh.html</link>
