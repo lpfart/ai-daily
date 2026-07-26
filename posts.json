@@ -1,5 +1,21 @@
 [
   {
+    "id": "390",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日国际政治综述：伊朗正式宣布暂停报复性打击、特朗普暂缓升级因导弹库存告急、乌克兰里海袭击伊朗商船开辟新战线",
+      "summary": "⚡ 7月26日国际政治综述：伊朗陆军发言人周日（7月26日）正式宣布暂停对美军及其盟友的报复性打击，称美方也已停止空袭，「报复性战略自然停止」；《纽约时报》披露特朗普暂缓升级行动内幕——爱国者拦截弹库存告急是核心原因，万斯和凯恩上将共同提出担忧；乌克兰无人机在里海袭击伊朗商船致1死，伊朗召见乌临时代办抗议，泽连斯基确认打击目标为运军用物资船；胡塞武装袭击沙特吉赞阿美炼油厂并击落沙特侦察无人机，红海局势持续升温；伊朗-阿曼霍尔木兹技术谈判取得进展，双方均有意恢复临时停火。",
+      "tags": ["国际政治", "美伊战争", "伊朗", "胡塞武装", "红海", "乌克兰", "里海", "霍尔木兹海峡"],
+      "file": "posts/390-iran-war-pause-retaliation-caspian-hormuz-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 International Roundup: Iran Formally Halts Retaliatory Strikes, Trump Shelves Escalation Over Missile Shortages, Ukraine Strikes Iranian Ship in Caspian Opening New Front",
+      "summary": "⚡ July 26 international roundup: Iran's army officially announces halt to retaliatory attacks after US pauses 13-night bombing campaign; NYT reveals Trump shelved major escalation plans over Patriot interceptor shortages — Vance and Joint Chiefs Chair Caine raised stockpile concerns; Ukraine strikes Iranian commercial vessel in Caspian Sea killing 1 sailor, Iran summons Ukrainian diplomat; Houthis attack Saudi Aramco facilities in Jizan and Yanbu, down Saudi reconnaissance drone; Iran-Oman Hormuz technical talks show progress with both sides interested in returning to interim ceasefire.",
+      "tags": ["International Politics", "US-Iran War", "Iran", "Houthi", "Red Sea", "Ukraine", "Caspian Sea", "Strait of Hormuz"],
+      "file": "posts/390-iran-war-pause-retaliation-caspian-hormuz-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "389",
     "date": "2026-07-26",
     "zh": {
