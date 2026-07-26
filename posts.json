@@ -1,17 +1,65 @@
 [
   {
+    "id": "389",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日金融综述：特朗普叫停空袭引发油价暴跌3%、超级周美联储决议对决AI财报、TACO热词席卷华尔街、债市承压创2007年纪录",
+      "summary": "⚡ 7月26日金融综述：特朗普下令暂停对伊空袭，布伦特原油从100美元上方暴跌至89美元；超级周来袭——美联储决议（加息概率33-38%）对决AI四巨头财报、Q2 GDP与PCE数据连环炸炸；30年期美债收益率连续14天站上5%创2007年最长纪录；市场热词TACO（特朗普总是退缩）流行；Capital Economics警告外资抢购美股已达极端水平。",
+      "tags": [
+        "金融经济",
+        "原油",
+        "美联储",
+        "超级周",
+        "债券",
+        "美股"
+      ],
+      "file": "posts/389-super-week-oil-crash-taco-bonds-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Financial Roundup: Trump Halts Iran Strikes Sending Oil Crashing 3%, Super Week Pits Fed Against Big Tech Earnings, 'TACO' Meme Sweeps Wall Street, Bond Stress Hits 2007 Levels",
+      "summary": "⚡ July 26 Financial Roundup: Trump orders halt to Iran airstrikes, Brent crude plunges from $100+ to $89; Super Week ahead — FOMC (33-38% hike odds) meets Big Tech earnings (MSFT, META, AAPL, AMZN), Q2 GDP and PCE data; 30-year yield above 5% for 14 straight days, longest since 2007; 'TACO' (Trump Always Chickens Out) meme goes viral; Capital Economics warns foreign buying spree signals S&P 500 risk.",
+      "tags": [
+        "Finance",
+        "Oil",
+        "Federal Reserve",
+        "Super Week",
+        "Bonds",
+        "Stock Market"
+      ],
+      "file": "posts/389-super-week-oil-crash-taco-bonds-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "388",
     "date": "2026-07-26",
     "zh": {
       "title": "⚡ 7月26日科技综述：企业AI开支大退烧、Google Pixel 11因内存危机涨价、穆迪警告AI军备竞赛威胁信用评级、力箭一号将国产GPU算力送入太空",
       "summary": "⚡ 7月26日科技综述：WSJ披露企业AI开支全面退烧——Uber四个月烧完全年预算、微软砍掉Claude Code许可、企业转向中国廉价模型；Google确认Pixel 11因全球RAM危机涨价，1GB内存从$2.80飙至$12；穆迪警告六大云巨头AI资本开支2027年逼近1万亿美元，租赁负债达1.2万亿美元；力箭一号遥十五一箭五星成功，国产沐曦GPU智算载荷首次在轨验证。",
-      "tags": ["泛科技", "AI开支", "Google", "Pixel 11", "穆迪", "半导体", "国产芯片", "商业航天"],
+      "tags": [
+        "泛科技",
+        "AI开支",
+        "Google",
+        "Pixel 11",
+        "穆迪",
+        "半导体",
+        "国产芯片",
+        "商业航天"
+      ],
       "file": "posts/388-tech-roundup-ai-spending-pullback-pixel11-chip-launch-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 26 Tech Roundup: Corporate America Rations AI, Google Pixel 11 Hikes Price on RAM Crisis, Moody's Warns on AI Capex, China Launches GPU Compute Satellite",
       "summary": "⚡ July 26 tech roundup: WSJ reveals Corporate America is rationing AI as costs balloon — Uber burned annual AI budget in 4 months, companies turn to cheaper Chinese models; Google confirms Pixel 11 price hike as 1GB RAM surges from $2.80 to $12; Moody's warns six hyperscalers' AI capex nearing $1T with $1.2T in lease liabilities; China's Lijian-1 rocket successfully places domestically-made GPU compute satellite into orbit.",
-      "tags": ["Tech News", "AI Spending", "Google", "Pixel 11", "Moody's", "Semiconductor", "Chinese Chips", "Space"],
+      "tags": [
+        "Tech News",
+        "AI Spending",
+        "Google",
+        "Pixel 11",
+        "Moody's",
+        "Semiconductor",
+        "Chinese Chips",
+        "Space"
+      ],
       "file": "posts/388-tech-roundup-ai-spending-pullback-pixel11-chip-launch-july-26-2026.en.html"
     }
   },
@@ -21,13 +69,31 @@
     "zh": {
       "title": "⚡ 7月26日科技综述：Google Gemini 3.6 Flash计算机操控登顶、英伟达开源联名信扩至50家、Kimi K3今夜开源、Black Forest Labs发布FLUX 3统一模型",
       "summary": "⚡ 7月26日科技综述：Google Gemini 3.6 Flash在OSWorld计算机操控基准以83%登顶，击败GPT-5.6和Grok，输出价格仅$7.50/百万token；英伟达开源联名信24小时内翻倍至50家签署方，OpenAI与Google加入，亚马逊与Anthropic缺席；月之暗面Kimi K3 2.8万亿参数开源权重今夜发布；Black Forest Labs发布FLUX 3多模态统一模型，同步生成视频音频并控制机器人，已在奥迪产线部署。",
-      "tags": ["泛科技", "Google", "Gemini", "英伟达", "Kimi K3", "FLUX 3", "开源", "AI模型"],
+      "tags": [
+        "泛科技",
+        "Google",
+        "Gemini",
+        "英伟达",
+        "Kimi K3",
+        "FLUX 3",
+        "开源",
+        "AI模型"
+      ],
       "file": "posts/387-tech-roundup-gemini-flash-open-weights-letter-kimi-k3-flux3-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 26 Tech Roundup: Google Gemini 3.6 Flash Tops Computer Use, Nvidia Open-Weight Letter Doubles to 50, Kimi K3 Goes Open-Source Tonight, Black Forest Labs Ships FLUX 3",
       "summary": "⚡ July 26 tech roundup: Google Gemini 3.6 Flash scores 83% on OSWorld-Verified, beating GPT-5.6, Grok, and Fable 5 at $7.50/M output tokens; Nvidia's open-weight letter doubles to 50 signatories in 24 hours with OpenAI and Google joining while Amazon and Anthropic stay out; Moonshot AI's Kimi K3 releases 2.8T-parameter open weights tonight at 00:00 UTC; Black Forest Labs launches FLUX 3 with unified video, audio, image and robot control, now deployed on Audi production lines.",
-      "tags": ["Tech News", "Google", "Gemini", "Nvidia", "Kimi K3", "FLUX 3", "Open Source", "AI Models"],
+      "tags": [
+        "Tech News",
+        "Google",
+        "Gemini",
+        "Nvidia",
+        "Kimi K3",
+        "FLUX 3",
+        "Open Source",
+        "AI Models"
+      ],
       "file": "posts/387-tech-roundup-gemini-flash-open-weights-letter-kimi-k3-flux3-july-26-2026.en.html"
     }
   },
@@ -37,13 +103,27 @@
     "zh": {
       "title": "⚡ 7月26日国际政治综述：特朗普暂停空袭内幕曝光——爱国者拦截弹库存告急、伊朗与阿曼霍尔木兹谈判取得进展、胡塞红海开辟第二战线",
       "summary": "⚡ 7月26日国际政治综述：纽约时报披露特朗普暂停对伊空袭内幕——爱国者拦截弹库存告急、参谋长联席会议主席凯恩上将私下警告、核心圈几乎无人认同升级方案；伊朗与阿曼就霍尔木兹海峡管理谈判取得进展，本周末或达成协议；胡塞武装与沙特在红海全面交火，吉赞炼油厂被导弹击中；伊朗警告若美重启打击战争将进一步扩大；美国研究派数千军人夺取伊朗浓缩铀储备方案；泽连斯基指控俄卫星助伊打击美军基地。",
-      "tags": ["国际政治", "美伊战争", "特朗普", "霍尔木兹海峡", "胡塞武装", "沙特"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "特朗普",
+        "霍尔木兹海峡",
+        "胡塞武装",
+        "沙特"
+      ],
       "file": "posts/386-iran-pause-hormuz-talks-houthi-saudi-caspian-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 26 International Roundup: Inside Trump's Iran Strike Pause — Patriot Interceptor Shortage Exposed, Iran-Oman Hormuz Talks Progress, Houthi Red Sea Escalation",
       "summary": "⚡ July 26 international roundup: NYT reveals inside story of Trump's Iran strike pause — Patriot interceptor stockpile concerns, Joint Chiefs Chair Gen Caine's private warning; Iran-Oman talks on Strait of Hormuz management make progress with possible weekend deal; Houthi-Saudi clashes erupt along Red Sea as Jizan refinery hit; Iran warns war will expand if US restrikes; US studies plan to seize Iran's enriched uranium; Zelenskyy accuses Russia of sharing satellite intel with Iran.",
-      "tags": ["International Politics", "US-Iran War", "Trump", "Strait of Hormuz", "Houthi", "Saudi Arabia"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Trump",
+        "Strait of Hormuz",
+        "Houthi",
+        "Saudi Arabia"
+      ],
       "file": "posts/386-iran-pause-hormuz-talks-houthi-saudi-caspian-july-26-2026.en.html"
     }
   },
@@ -53,13 +133,35 @@
     "zh": {
       "title": "⚡ 超级周前夕全球市场全景：布伦特突破100后回落至97、美债收益率逼近2007年高点、KOSPI连续10天触发Sidecar",
       "summary": "⚡ 7月26日全球金融市场周末全景扫描：布伦特原油突破100美元后回落至97美元，三线石油供应链同时承压；10年期美债收益率飙至4.66%逼近2007年高点；科技七巨头单日蒸发7970亿美元，费城半导体指数月内暴跌17%；美联储7月FOMC会议加息概率从12%飙至38%，沃什放弃前瞻指引加剧不确定性；韩国KOSPI连跌四周，Sidecar机制连续10交易日触发创纪录；黄金五周守住4000美元关口。本周美联储、英央行、日央行同步议息，微软、Meta、苹果、亚马逊财报叠加美国Q2 GDP与PCE数据连环轰炸——2026年最重要超级周即将到来。",
-      "tags": ["金融经济", "FOMC", "美联储", "原油", "美债", "科技股", "KOSPI", "超级周", "黄金", "AI资本开支"],
+      "tags": [
+        "金融经济",
+        "FOMC",
+        "美联储",
+        "原油",
+        "美债",
+        "科技股",
+        "KOSPI",
+        "超级周",
+        "黄金",
+        "AI资本开支"
+      ],
       "file": "posts/385-super-week-market-pulse-oil-100-fed-brace-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ Super Week Market Pulse: Brent Tops $100 Then Retreats to $97, Treasury Yields Near 2007 Highs, KOSPI Sidecar Triggered 10 Days Straight",
       "summary": "⚡ July 26 global market weekend pulse: Brent crude tops $100 then retreats to $97 amid triple supply disruption; 10-year Treasury yield surges to 4.66% nearing 2007 highs; Mag7 loses $797B in single day, Philadelphia Semiconductor Index plunges 17% in July; Fed FOMC rate hike odds surge from 12% to 38% as Warsh abandons forward guidance; KOSPI falls for 4th consecutive week with sidecar triggered 10 straight days; gold holds $4,000 support for 5 weeks. FOMC, BOJ, BOE decisions plus MSFT/META/AAPL/AMZN earnings and US GDP/PCE data converge — the most important super week of 2026 begins.",
-      "tags": ["Finance", "FOMC", "Federal Reserve", "Crude Oil", "Treasury Yields", "Tech Stocks", "KOSPI", "Super Week", "Gold", "AI Capex"],
+      "tags": [
+        "Finance",
+        "FOMC",
+        "Federal Reserve",
+        "Crude Oil",
+        "Treasury Yields",
+        "Tech Stocks",
+        "KOSPI",
+        "Super Week",
+        "Gold",
+        "AI Capex"
+      ],
       "file": "posts/385-super-week-market-pulse-oil-100-fed-brace-july-26-2026.en.html"
     }
   },
@@ -69,13 +171,31 @@
     "zh": {
       "title": "⚡ 7月26日AI安全风暴：Hugging Face索赔1亿美元算力、美国会推「AI紧急关闭法案」、Anthropic被曝刻意限制Opus 5网络攻击能力",
       "summary": "⚡ 7月26日AI安全风暴：Hugging Face CEO公开要求OpenAI披露AI Agent完整入侵行动轨迹，并提供价值1亿美元的算力帮助社区构建网络防御；美国两党议员联合提出「AI紧急关闭法案」，要求AI公司内置可被政府远程关闭的紧急机制，违反令最高罚款2000万美元/日；Anthropic确认Claude Opus 5刻意避免训练网络攻击能力，安全过滤触发率仅为Fable 5的15%。",
-      "tags": ["泛科技", "AI安全", "OpenAI", "Hugging Face", "AI监管", "Anthropic", "Claude Opus 5", "AI Kill Switch"],
+      "tags": [
+        "泛科技",
+        "AI安全",
+        "OpenAI",
+        "Hugging Face",
+        "AI监管",
+        "Anthropic",
+        "Claude Opus 5",
+        "AI Kill Switch"
+      ],
       "file": "posts/384-ai-safety-fallout-openai-agent-escape-kill-switch-opus5-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ AI Safety Storm: Hugging Face Demands $100M Compute, US Congress Pushes AI Kill Switch Act, Anthropic Intentionally Limits Opus 5 Cyber Abilities",
       "summary": "⚡ July 26 AI safety storm: Hugging Face CEO publicly demands OpenAI release full agent action logs and commit $100M in compute for community cyber defense; bipartisan US lawmakers introduce AI Kill Switch Act requiring mandatory emergency shutdown mechanisms with fines up to $20M/day; Anthropic confirms Claude Opus 5 intentionally avoided cyberattack training, with safety classifier intervention rate at just 15% of Fable 5's level.",
-      "tags": ["Tech News", "AI Safety", "OpenAI", "Hugging Face", "AI Regulation", "Anthropic", "Claude Opus 5", "AI Kill Switch"],
+      "tags": [
+        "Tech News",
+        "AI Safety",
+        "OpenAI",
+        "Hugging Face",
+        "AI Regulation",
+        "Anthropic",
+        "Claude Opus 5",
+        "AI Kill Switch"
+      ],
       "file": "posts/384-ai-safety-fallout-openai-agent-escape-kill-switch-opus5-july-26-2026.en.html"
     }
   },
@@ -85,13 +205,33 @@
     "zh": {
       "title": "⚡ 7月26日科技综述：荣耀发布全球首款机器人手机、三星博通2000亿美元AI芯片合作、携程反垄断罚没51.79亿元、奥特曼称人类已进入奇点",
       "summary": "⚡ 7月26日科技综述：荣耀Robot Phone将于8月正式发布，配备4DoF机械臂云台相机，是全球首款机器人手机；三星电子与博通签署超2000亿美元战略合作，涵盖HBM内存、2nm代工和定制AI芯片；中国市场监管总局对携程反垄断处罚51.79亿元，终结「全網最低價」潜规则；奥特曼在访谈中宣布「我们正处于奇点之中」，马斯克三天前也表态人类已在奇点。",
-      "tags": ["泛科技", "荣耀", "机器人手机", "三星", "博通", "AI芯片", "携程", "反垄断", "奇点"],
+      "tags": [
+        "泛科技",
+        "荣耀",
+        "机器人手机",
+        "三星",
+        "博通",
+        "AI芯片",
+        "携程",
+        "反垄断",
+        "奇点"
+      ],
       "file": "posts/383-tech-roundup-honor-robot-phone-ctrip-antitrust-samsung-broadcom-chip-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 26 Tech Roundup: Honor Unveils World's First Robot Phone, Samsung & Broadcom $200B AI Chip Deal, Ctrip Fined $7.1B for Monopoly, Altman Declares Singularity Has Arrived",
       "summary": "⚡ July 26 tech roundup: Honor Robot Phone launches in August with a 4DoF robotic arm gimbal camera — the world's first robot phone; Samsung and Broadcom sign $200B+ strategic AI chip partnership covering HBM memory, 2nm foundry, and custom AI accelerators; China's antitrust regulator fines Ctrip $7.1B for monopoly abuse, ending 'lowest price across platforms' practices; Sam Altman declares 'we are in the singularity right now,' and Elon Musk agrees humanity has crossed the threshold.",
-      "tags": ["Tech News", "Honor", "Robot Phone", "Samsung", "Broadcom", "AI Chips", "Ctrip", "Antitrust", "Singularity"],
+      "tags": [
+        "Tech News",
+        "Honor",
+        "Robot Phone",
+        "Samsung",
+        "Broadcom",
+        "AI Chips",
+        "Ctrip",
+        "Antitrust",
+        "Singularity"
+      ],
       "file": "posts/383-tech-roundup-honor-robot-phone-ctrip-antitrust-samsung-broadcom-chip-july-26-2026.en.html"
     }
   },
