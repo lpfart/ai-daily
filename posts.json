@@ -1,5 +1,39 @@
 [
   {
+    "id": "382",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日国际政治新动向：哈萨克总统当面劝普京冻结战争、俄罗斯抛弃半岛无核化立场、再索3万朝军、美拟派兵夺取伊朗浓缩铀",
+      "summary": "⚡ 7月26日国际政治综述：哈萨克斯坦总统托卡耶夫在西伯利亚鄂木斯克当面告诉普京，现在是冻结俄乌冲突并重启伊斯坦布尔谈判的时候了，俄亲密盟友罕见公开劝和；俄罗斯外长拉夫罗夫在东盟宣布不再支持半岛无核化立场，打破20年六方会谈共识；泽连斯基称俄正为接收3万朝军做准备；美媒披露五角大楼研究派数千美军夺取伊朗浓缩铀储备方案；伊朗革命卫队警告英国若支持美国也将成为目标。",
+      "tags": [
+        "国际政治",
+        "哈萨克斯坦",
+        "俄乌战争",
+        "朝鲜半岛",
+        "伊朗核危机",
+        "俄罗斯",
+        "美国",
+        "北约"
+      ],
+      "file": "posts/382-international-roundup-kazakhstan-putin-freeze-war-russia-nkorea-troops-denuclearization-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 International Politics: Kazakhstan's Tokayev Tells Putin to Freeze War, Russia Abandons Denuclearization, 30K More NK Troops, US Weighs Iran Uranium Seizure",
+      "summary": "⚡ July 26 international politics roundup: Kazakhstan President Tokayev publicly urges Putin to freeze the Ukraine war — a rare rebuke from Moscow's closest ally; Lavrov declares at ASEAN Russia no longer supports Korean denuclearization, breaking 22-year consensus; Zelenskyy reveals Russia preparing 30K more North Korean troops; NY Post reports Pentagon studying Iran uranium seizure plan; IRGC warns UK could become target.",
+      "tags": [
+        "International Politics",
+        "Kazakhstan",
+        "Russia-Ukraine War",
+        "North Korea",
+        "Iran",
+        "Nuclear Crisis",
+        "US",
+        "NATO"
+      ],
+      "file": "posts/382-international-roundup-kazakhstan-putin-freeze-war-russia-nkorea-troops-denuclearization-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "381",
     "date": "2026-07-26",
     "zh": {
