@@ -1,5 +1,21 @@
 [
   {
+    "id": "379",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日科技综述：DeepSeek 140亿美元B轮融资紧急叫停、OpenAI官宣发布GPT-2以来首个开放权重模型、黄仁勋人生首条X帖力挺开源AI",
+      "summary": "⚡ 7月26日科技综述：DeepSeek第二轮融资突生波折，梁文锋因会谈纪要外流叫停至少14亿美元新一轮融资，身家翻倍至360亿美元登顶全球最富AI创始人；OpenAI CEO Sam Altman官宣将在未来几个月发布自GPT-2以来的首个开放权重语言模型并具备推理功能，标志公司战略重大转折；英伟达CEO黄仁勋在X上发出人生第一条帖子转发开放权重公开信，正面回击Google DeepMind CEO Hassabis的安全标准呼吁，25家公司公开站队。",
+      "tags": ["泛科技", "DeepSeek", "OpenAI", "黄仁勋", "开放权重", "AI融资", "开源AI", "大模型"],
+      "file": "posts/379-tech-roundup-deepseek-openai-open-weight-huang-first-post-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Tech Roundup: DeepSeek Halts $14B Series B, OpenAI Announces First Open-Weight Model Since GPT-2, Jensen Huang's First X Post Backs Open AI",
+      "summary": "⚡ July 26 tech roundup: DeepSeek abruptly halts Series B funding after CEO Liang Wenfeng angered by leaked meeting minutes, making him world's richest AI founder at $36B; OpenAI CEO Sam Altman announces first open-weight release since GPT-2 with reasoning, marking a major strategic pivot; Nvidia CEO Jensen Huang posts his first ever X message endorsing open-weight AI letter, directly countering Hassabis's safety standards push, as 25 companies take sides in the open-vs-closed AI divide.",
+      "tags": ["Tech News", "DeepSeek", "OpenAI", "Jensen Huang", "Open Weight", "AI Funding", "Open Source AI", "LLM"],
+      "file": "posts/379-tech-roundup-deepseek-openai-open-weight-huang-first-post-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "378",
     "date": "2026-07-26",
     "zh": {
