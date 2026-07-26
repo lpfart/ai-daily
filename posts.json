@@ -1,5 +1,21 @@
 [
   {
+    "id": "378",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日国际政治综述：伊朗召见乌克兰代办抗议里海商船遇袭、罗马尼亚F-16连续两天击落俄无人机、美国海军封锁数据公布、以色列宣布大规模扩建西岸定居点",
+      "summary": "⚡ 7月26日国际政治综述：伊朗召见乌克兰代办抗议里海商船遭袭致1死1伤，泽连斯基确认打击伊朗军用物资船；美国CENTCOM公布封锁数据：12艘商船改道2艘被瘫痪；罗马尼亚F-16连续第二天击落入侵俄无人机；乌克兰袭击俄占扎波罗热度假营地11死含4童；以色列宣布763套新定居点单元；胡塞与沙特交火持续升级。",
+      "tags": ["国际政治", "伊朗", "乌克兰", "美伊战争", "罗马尼亚", "F-16", "以色列", "胡塞武装", "沙特"],
+      "file": "posts/378-international-roundup-iran-caspian-houthi-romania-west-bank-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 International Roundup: Iran Summons Ukraine Diplomat Over Caspian Attack, Romania F-16 Downs Second Russian Drone, US Reveals Blockade Stats, Israel Expands West Bank Settlements",
+      "summary": "⚡ July 26 international roundup: Iran summons Ukraine charge d'affaires after Caspian Sea vessel attack kills 1; CENTCOM reveals 12 vessels redirected under Iran blockade; Romania F-16 shoots down 2nd Russian drone in 2 days; Ukraine strike on occupied Zaporizhzhia holiday camp kills 11 including 4 children; Israel approves 763 new West Bank settlement units; Houthi-Saudi Red Sea escalation continues.",
+      "tags": ["International Politics", "Iran", "Ukraine", "US-Iran War", "Romania", "F-16", "Israel", "Houthis", "Saudi Arabia"],
+      "file": "posts/378-international-roundup-iran-caspian-houthi-romania-west-bank-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "377",
     "date": "2026-07-26",
     "zh": {
