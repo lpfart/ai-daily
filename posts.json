@@ -1,5 +1,21 @@
 [
   {
+    "id": "387",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日科技综述：Google Gemini 3.6 Flash计算机操控登顶、英伟达开源联名信扩至50家、Kimi K3今夜开源、Black Forest Labs发布FLUX 3统一模型",
+      "summary": "⚡ 7月26日科技综述：Google Gemini 3.6 Flash在OSWorld计算机操控基准以83%登顶，击败GPT-5.6和Grok，输出价格仅$7.50/百万token；英伟达开源联名信24小时内翻倍至50家签署方，OpenAI与Google加入，亚马逊与Anthropic缺席；月之暗面Kimi K3 2.8万亿参数开源权重今夜发布；Black Forest Labs发布FLUX 3多模态统一模型，同步生成视频音频并控制机器人，已在奥迪产线部署。",
+      "tags": ["泛科技", "Google", "Gemini", "英伟达", "Kimi K3", "FLUX 3", "开源", "AI模型"],
+      "file": "posts/387-tech-roundup-gemini-flash-open-weights-letter-kimi-k3-flux3-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Tech Roundup: Google Gemini 3.6 Flash Tops Computer Use, Nvidia Open-Weight Letter Doubles to 50, Kimi K3 Goes Open-Source Tonight, Black Forest Labs Ships FLUX 3",
+      "summary": "⚡ July 26 tech roundup: Google Gemini 3.6 Flash scores 83% on OSWorld-Verified, beating GPT-5.6, Grok, and Fable 5 at $7.50/M output tokens; Nvidia's open-weight letter doubles to 50 signatories in 24 hours with OpenAI and Google joining while Amazon and Anthropic stay out; Moonshot AI's Kimi K3 releases 2.8T-parameter open weights tonight at 00:00 UTC; Black Forest Labs launches FLUX 3 with unified video, audio, image and robot control, now deployed on Audi production lines.",
+      "tags": ["Tech News", "Google", "Gemini", "Nvidia", "Kimi K3", "FLUX 3", "Open Source", "AI Models"],
+      "file": "posts/387-tech-roundup-gemini-flash-open-weights-letter-kimi-k3-flux3-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "386",
     "date": "2026-07-26",
     "zh": {
