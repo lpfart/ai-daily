@@ -1,5 +1,21 @@
 [
   {
+    "id": "385",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 超级周前夕全球市场全景：布伦特突破100后回落至97、美债收益率逼近2007年高点、KOSPI连续10天触发Sidecar",
+      "summary": "⚡ 7月26日全球金融市场周末全景扫描：布伦特原油突破100美元后回落至97美元，三线石油供应链同时承压；10年期美债收益率飙至4.66%逼近2007年高点；科技七巨头单日蒸发7970亿美元，费城半导体指数月内暴跌17%；美联储7月FOMC会议加息概率从12%飙至38%，沃什放弃前瞻指引加剧不确定性；韩国KOSPI连跌四周，Sidecar机制连续10交易日触发创纪录；黄金五周守住4000美元关口。本周美联储、英央行、日央行同步议息，微软、Meta、苹果、亚马逊财报叠加美国Q2 GDP与PCE数据连环轰炸——2026年最重要超级周即将到来。",
+      "tags": ["金融经济", "FOMC", "美联储", "原油", "美债", "科技股", "KOSPI", "超级周", "黄金", "AI资本开支"],
+      "file": "posts/385-super-week-market-pulse-oil-100-fed-brace-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Super Week Market Pulse: Brent Tops $100 Then Retreats to $97, Treasury Yields Near 2007 Highs, KOSPI Sidecar Triggered 10 Days Straight",
+      "summary": "⚡ July 26 global market weekend pulse: Brent crude tops $100 then retreats to $97 amid triple supply disruption; 10-year Treasury yield surges to 4.66% nearing 2007 highs; Mag7 loses $797B in single day, Philadelphia Semiconductor Index plunges 17% in July; Fed FOMC rate hike odds surge from 12% to 38% as Warsh abandons forward guidance; KOSPI falls for 4th consecutive week with sidecar triggered 10 straight days; gold holds $4,000 support for 5 weeks. FOMC, BOJ, BOE decisions plus MSFT/META/AAPL/AMZN earnings and US GDP/PCE data converge — the most important super week of 2026 begins.",
+      "tags": ["Finance", "FOMC", "Federal Reserve", "Crude Oil", "Treasury Yields", "Tech Stocks", "KOSPI", "Super Week", "Gold", "AI Capex"],
+      "file": "posts/385-super-week-market-pulse-oil-100-fed-brace-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "384",
     "date": "2026-07-26",
     "zh": {
