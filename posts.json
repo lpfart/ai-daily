@@ -1,5 +1,21 @@
 [
   {
+    "id": "388",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日科技综述：企业AI开支大退烧、Google Pixel 11因内存危机涨价、穆迪警告AI军备竞赛威胁信用评级、力箭一号将国产GPU算力送入太空",
+      "summary": "⚡ 7月26日科技综述：WSJ披露企业AI开支全面退烧——Uber四个月烧完全年预算、微软砍掉Claude Code许可、企业转向中国廉价模型；Google确认Pixel 11因全球RAM危机涨价，1GB内存从$2.80飙至$12；穆迪警告六大云巨头AI资本开支2027年逼近1万亿美元，租赁负债达1.2万亿美元；力箭一号遥十五一箭五星成功，国产沐曦GPU智算载荷首次在轨验证。",
+      "tags": ["泛科技", "AI开支", "Google", "Pixel 11", "穆迪", "半导体", "国产芯片", "商业航天"],
+      "file": "posts/388-tech-roundup-ai-spending-pullback-pixel11-chip-launch-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Tech Roundup: Corporate America Rations AI, Google Pixel 11 Hikes Price on RAM Crisis, Moody's Warns on AI Capex, China Launches GPU Compute Satellite",
+      "summary": "⚡ July 26 tech roundup: WSJ reveals Corporate America is rationing AI as costs balloon — Uber burned annual AI budget in 4 months, companies turn to cheaper Chinese models; Google confirms Pixel 11 price hike as 1GB RAM surges from $2.80 to $12; Moody's warns six hyperscalers' AI capex nearing $1T with $1.2T in lease liabilities; China's Lijian-1 rocket successfully places domestically-made GPU compute satellite into orbit.",
+      "tags": ["Tech News", "AI Spending", "Google", "Pixel 11", "Moody's", "Semiconductor", "Chinese Chips", "Space"],
+      "file": "posts/388-tech-roundup-ai-spending-pullback-pixel11-chip-launch-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "387",
     "date": "2026-07-26",
     "zh": {
