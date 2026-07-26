@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 26 Jul 2026 11:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月26日科技综述：企业AI开支大退烧、Google Pixel 11因内存危机涨价、穆迪警告AI军备竞赛威胁信用评级、力箭一号将国产GPU算力送入太空</title>
+      <link>https://ai-daily.cc.cd/posts/388-tech-roundup-ai-spending-pullback-pixel11-chip-launch-july-26-2026.zh.html</link>
+      <description>⚡ 7月26日科技综述：WSJ披露企业AI开支全面退烧——Uber四个月烧完全年预算、微软砍掉Claude Code许可、企业转向中国廉价模型；Google确认Pixel 11因全球RAM危机涨价，1GB内存从$2.80飙至$12；穆迪警告六大云巨头AI资本开支2027年逼近1万亿美元；力箭一号遥十五一箭五星成功，国产沐曦GPU智算载荷首次在轨验证。</description>
+      <pubDate>Sun, 26 Jul 2026 20:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/388-tech-roundup-ai-spending-pullback-pixel11-chip-launch-july-26-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月26日科技综述：Google Gemini 3.6 Flash计算机操控登顶、英伟达开源联名信扩至50家、Kimi K3今夜开源、Black Forest Labs发布FLUX 3统一模型</title>
