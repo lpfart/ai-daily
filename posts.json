@@ -1,5 +1,21 @@
 [
   {
+    "id": "391",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日科技综述：硅谷爆发开源闭源AI大论战、AMD Helios AI机架正式发货、Kimi K3万亿参数模型今夜开源",
+      "summary": "⚡ 7月26日科技综述：英伟达黄仁勋首次在X发帖力挺开源，微软纳德拉9分钟后响应，扎克伯格、皮查伊齐声支持，而OpenAI和Anthropic却推动政府限制中国开源模型；AMD Helios AI机架正式发货，宣称Epyc单核超NVIDIA Vera 20%；月之暗面Kimi K3 2.8万亿参数开源权重今夜零点发布，总量1.4TB创历史之最，高盛称中国AI模型已达大规模采用临界点。",
+      "tags": ["科技新闻", "开源AI", "AMD", "Kimi K3", "英伟达", "微软", "硅谷"],
+      "file": "posts/391-silicon-valley-ai-open-source-debate-kimi-k3-amd-helios-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Tech Roundup: Silicon Valley Erupts Over Open vs Closed Source AI, AMD Helios AI Rack Ships, Kimi K3 Trillion-Parameter Model Goes Open Source Tonight",
+      "summary": "⚡ July 26 tech roundup: Jensen Huang posts his first X tweet backing open-source AI, Nadella responds within 9 minutes; Zuckerberg and Pichai join while OpenAI and Anthropic push for Chinese model restrictions; AMD's Helios AI rack officially ships claiming 20% per-core advantage over Nvidia's Vera CPU; Moonshot AI's Kimi K3 with 2.8 trillion parameters goes open source at midnight UTC — the largest open-weight model ever at 1.4TB.",
+      "tags": ["Tech News", "Open Source AI", "AMD", "Kimi K3", "Nvidia", "Microsoft", "Silicon Valley"],
+      "file": "posts/391-silicon-valley-ai-open-source-debate-kimi-k3-amd-helios-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "390",
     "date": "2026-07-26",
     "zh": {
