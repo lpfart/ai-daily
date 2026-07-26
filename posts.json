@@ -1,5 +1,21 @@
 [
   {
+    "id": "386",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日国际政治综述：特朗普暂停空袭内幕曝光——爱国者拦截弹库存告急、伊朗与阿曼霍尔木兹谈判取得进展、胡塞红海开辟第二战线",
+      "summary": "⚡ 7月26日国际政治综述：纽约时报披露特朗普暂停对伊空袭内幕——爱国者拦截弹库存告急、参谋长联席会议主席凯恩上将私下警告、核心圈几乎无人认同升级方案；伊朗与阿曼就霍尔木兹海峡管理谈判取得进展，本周末或达成协议；胡塞武装与沙特在红海全面交火，吉赞炼油厂被导弹击中；伊朗警告若美重启打击战争将进一步扩大；美国研究派数千军人夺取伊朗浓缩铀储备方案；泽连斯基指控俄卫星助伊打击美军基地。",
+      "tags": ["国际政治", "美伊战争", "特朗普", "霍尔木兹海峡", "胡塞武装", "沙特"],
+      "file": "posts/386-iran-pause-hormuz-talks-houthi-saudi-caspian-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 International Roundup: Inside Trump's Iran Strike Pause — Patriot Interceptor Shortage Exposed, Iran-Oman Hormuz Talks Progress, Houthi Red Sea Escalation",
+      "summary": "⚡ July 26 international roundup: NYT reveals inside story of Trump's Iran strike pause — Patriot interceptor stockpile concerns, Joint Chiefs Chair Gen Caine's private warning; Iran-Oman talks on Strait of Hormuz management make progress with possible weekend deal; Houthi-Saudi clashes erupt along Red Sea as Jizan refinery hit; Iran warns war will expand if US restrikes; US studies plan to seize Iran's enriched uranium; Zelenskyy accuses Russia of sharing satellite intel with Iran.",
+      "tags": ["International Politics", "US-Iran War", "Trump", "Strait of Hormuz", "Houthi", "Saudi Arabia"],
+      "file": "posts/386-iran-pause-hormuz-talks-houthi-saudi-caspian-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "385",
     "date": "2026-07-26",
     "zh": {
