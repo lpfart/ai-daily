@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 26 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:06:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ July 27 Tech Mega: Google Says TPUs Go to AGI First, Kimi K3 Open Weights Land Today</title>
+      <link>https://ai-daily.cc.cd/posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.zh.html</link>
+      <description>⚡ July 27 tech mega: Alphabet CEO Sundar Pichai confirms TPU allocation prioritizes AGI frontier research over cloud customers; Moonshot AI releases Kimi K3 full model weights as promised — the largest open-weight model ever at 2.8T parameters; Google Cloud revenue surges 82% to $24.8B, 2026 CapEx raised to $195-205B.</description>
+      <pubDate>Mon, 27 Jul 2026 00:06:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ July 26 Tech Roundup: Silicon Valley Erupts Over Open vs Closed Source AI, AMD Helios AI Rack Ships, Kimi K3 Trillion-Parameter Model Goes Open Source Tonight</title>
