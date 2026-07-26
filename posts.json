@@ -1,5 +1,21 @@
 [
   {
+    "id": "396",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技重磅：AI芯片大战全面爆发——SpaceX/Tesla Terafab量产在即、DeepSeek启动自研芯片、AMD MI455X携320亿晶体管挑战英伟达",
+      "summary": "⚡ 7月27日科技综述：SpaceX与Tesla联合推进Terafab芯片工厂量产AI专用半导体，马斯克称八成产能用于航天；DeepSeek正式启动自研AI推理芯片项目，AI公司自研芯片从特例变成趋势；AMD发布320亿晶体管Instinct MI455X GPU，携手Anthropic打造2GW AI算力基础设施；AI公司造芯潮全面爆发，OpenAI、Anthropic、Google、Meta纷纷入局。",
+      "tags": ["科技新闻", "AI芯片", "SpaceX", "Terafab", "GPU", "DeepSeek", "AMD", "MI455X", "自研芯片"],
+      "file": "posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: AI Chip War Intensifies — SpaceX/Tesla Terafab Nears Production, DeepSeek Launches Custom Chip Project, AMD MI455X Takes On Nvidia With 320B Transistors",
+      "summary": "⚡ July 27 tech roundup: SpaceX and Tesla advance Terafab chip factory for mass production of AI semiconductors; DeepSeek officially launches self-developed AI inference chip project; AMD unveils 320-billion-transistor Instinct MI455X GPU, partners with Anthropic on 2GW AI infrastructure; the custom AI chip trend accelerates across the industry from OpenAI to Anthropic to Google and Meta.",
+      "tags": ["Tech News", "AI Chips", "SpaceX", "Terafab", "GPU", "DeepSeek", "AMD", "MI455X", "Custom Silicon"],
+      "file": "posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "395",
     "date": "2026-07-27",
     "zh": {
