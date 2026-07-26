@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 26 Jul 2026 10:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:03:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月26日科技综述：DeepSeek 140亿美元B轮融资紧急叫停、OpenAI官宣发布GPT-2以来首个开放权重模型、黄仁勋人生首条X帖力挺开源AI</title>
+      <link>https://ai-daily.cc.cd/posts/379-tech-roundup-deepseek-openai-open-weight-huang-first-post-july-26-2026.zh.html</link>
+      <description>⚡ 7月26日科技综述：DeepSeek第二轮融资突生波折，梁文锋因会谈纪要外流叫停至少14亿美元新一轮融资，身家翻倍至360亿美元登顶全球最富AI创始人；OpenAI CEO Sam Altman官宣将在未来几个月发布自GPT-2以来的首个开放权重语言模型并具备推理功能；英伟达CEO黄仁勋在X上发出人生第一条帖子转发开放权重公开信，正面回击Google DeepMind CEO Hassabis的安全标准呼吁，25家公司公开站队。</description>
+      <pubDate>Sun, 26 Jul 2026 11:03:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/379-tech-roundup-deepseek-openai-open-weight-huang-first-post-july-26-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月26日国际政治综述：伊朗召见乌克兰代办抗议里海商船遇袭、罗马尼亚F-16连续两天击落俄无人机、美国海军封锁数据公布、以色列宣布大规模扩建西岸定居点</title>
