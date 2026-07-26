@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 26 Jul 2026 07:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月26日AI安全风暴：Hugging Face索赔1亿美元算力、美国会推「AI紧急关闭法案」、Anthropic被曝刻意限制Opus 5网络攻击能力</title>
+      <link>https://ai-daily.cc.cd/posts/384-ai-safety-fallout-openai-agent-escape-kill-switch-opus5-july-26-2026.zh.html</link>
+      <description>⚡ 7月26日AI安全风暴：Hugging Face CEO公开要求OpenAI披露AI Agent完整入侵行动轨迹，并提供价值1亿美元的算力帮助社区构建网络防御；美国两党议员联合提出「AI紧急关闭法案」，要求AI公司内置可被政府远程关闭的紧急机制；Anthropic确认Claude Opus 5刻意避免训练网络攻击能力，安全过滤触发率仅为Fable 5的15%。</description>
+      <pubDate>Sun, 26 Jul 2026 08:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/384-ai-safety-fallout-openai-agent-escape-kill-switch-opus5-july-26-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月26日科技综述：荣耀发布全球首款机器人手机、三星博通2000亿美元AI芯片合作、携程反垄断罚没51.79亿元、奥特曼称人类已进入奇点</title>
