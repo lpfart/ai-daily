@@ -1,5 +1,21 @@
 [
   {
+    "id": "392",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技重磅：Google明确TPU算力优先留给AGI、Kimi K3权重今日正式开源",
+      "summary": "⚡ 7月27日科技重磅：Google CEO Sundar Pichai在Q2财报会上明确表态TPU算力优先分配给AGI前沿研发而非出售给云客户；月之暗面Kimi K3 2.8万亿参数权重按承诺于7月27日正式发布，全球开发者可下载1.4TB权重文件；Alphabet云收入暴增82%至248亿美元，2026年资本开支上调至1950-2050亿美元。",
+      "tags": ["科技新闻", "Google", "TPU", "AGI", "Kimi K3", "开源AI", "云计算"],
+      "file": "posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: Google Says TPUs Go to AGI First, Kimi K3 Open Weights Land Today",
+      "summary": "⚡ July 27 tech mega: Alphabet CEO Sundar Pichai confirms TPU allocation prioritizes AGI frontier research over cloud customers; Moonshot AI releases Kimi K3 full model weights as promised — the largest open-weight model ever at 2.8T parameters; Google Cloud revenue surges 82% to $24.8B, 2026 CapEx raised to $195-205B.",
+      "tags": ["Tech News", "Google", "TPU", "AGI", "Kimi K3", "Open Source AI", "Cloud Computing"],
+      "file": "posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "391",
     "date": "2026-07-26",
     "zh": {
