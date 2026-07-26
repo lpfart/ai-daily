@@ -1,5 +1,21 @@
 [
   {
+    "id": "377",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日金融前瞻：全球市场迎「超级周」——美联储决议携AI四巨头财报、GDP与PCE数据连环轰炸",
+      "summary": "⚡ 7月26日金融前瞻：本周全球金融市场迎来2026年最重要「超级周」——美联储7月28-29日FOMC会议利率决议、微软亚马逊Meta苹果四大科技巨头财报连环发布、美国Q2 GDP初值和6月核心PCE通胀数据同时出炉。加息概率一周从12%飙至38%，AI资本开支焦虑蔓延，布伦特原油仍在97美元高位。一文读懂所有关键事件及其对美股、美债、美元和全球市场的潜在影响。",
+      "tags": ["金融经济", "美联储", "超级周", "AI资本开支", "科技巨头", "美股"],
+      "file": "posts/377-financial-super-week-fomc-megacap-earnings-preview-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 Financial Preview: Global Markets Brace for 'Super Week' — FOMC Decision, Four Megacap Earnings, GDP and PCE Data Converge",
+      "summary": "⚡ July 26 financial preview: Global markets enter the most consequential week of 2026 — the Fed's July 28-29 FOMC rate decision, quarterly earnings from Microsoft, Amazon, Meta and Apple, US Q2 GDP advance and June core PCE inflation all converging in 72 hours. Rate hike probability surged from 12% to 38% in one week, AI capex anxiety spreads, Brent crude holds near $97. A complete guide to every key event and its market impact.",
+      "tags": ["Finance", "Federal Reserve", "Super Week", "AI Capex", "Big Tech", "US Stocks"],
+      "file": "posts/377-financial-super-week-fomc-megacap-earnings-preview-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "376",
     "date": "2026-07-26",
     "zh": {
