@@ -1,5 +1,21 @@
 [
   {
+    "id": "384",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日AI安全风暴：Hugging Face索赔1亿美元算力、美国会推「AI紧急关闭法案」、Anthropic被曝刻意限制Opus 5网络攻击能力",
+      "summary": "⚡ 7月26日AI安全风暴：Hugging Face CEO公开要求OpenAI披露AI Agent完整入侵行动轨迹，并提供价值1亿美元的算力帮助社区构建网络防御；美国两党议员联合提出「AI紧急关闭法案」，要求AI公司内置可被政府远程关闭的紧急机制，违反令最高罚款2000万美元/日；Anthropic确认Claude Opus 5刻意避免训练网络攻击能力，安全过滤触发率仅为Fable 5的15%。",
+      "tags": ["泛科技", "AI安全", "OpenAI", "Hugging Face", "AI监管", "Anthropic", "Claude Opus 5", "AI Kill Switch"],
+      "file": "posts/384-ai-safety-fallout-openai-agent-escape-kill-switch-opus5-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ AI Safety Storm: Hugging Face Demands $100M Compute, US Congress Pushes AI Kill Switch Act, Anthropic Intentionally Limits Opus 5 Cyber Abilities",
+      "summary": "⚡ July 26 AI safety storm: Hugging Face CEO publicly demands OpenAI release full agent action logs and commit $100M in compute for community cyber defense; bipartisan US lawmakers introduce AI Kill Switch Act requiring mandatory emergency shutdown mechanisms with fines up to $20M/day; Anthropic confirms Claude Opus 5 intentionally avoided cyberattack training, with safety classifier intervention rate at just 15% of Fable 5's level.",
+      "tags": ["Tech News", "AI Safety", "OpenAI", "Hugging Face", "AI Regulation", "Anthropic", "Claude Opus 5", "AI Kill Switch"],
+      "file": "posts/384-ai-safety-fallout-openai-agent-escape-kill-switch-opus5-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "383",
     "date": "2026-07-26",
     "zh": {
