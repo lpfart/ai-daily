@@ -1,5 +1,21 @@
 [
   {
+    "id": "397",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日金融综述：美伊60天停火框架草案披露引爆全球市场、超级周终极对决今日开幕——耐用品数据与国债拍卖定调开局",
+      "summary": "⚡ 7月27日金融市场综述：伊朗披露美伊谅解备忘录初步框架文件，美方承诺60天全面停火并解除海上封锁，伊朗革命卫队称战争重启可能性低，大不里士机场重新开放，欧洲股市与美股期货集体拉升，布伦特原油从100美元上方回落至97美元附近。超级周终极对决——FOMC利率决议携微软、Meta、苹果、亚马逊财报连环轰炸，今日美国耐用品订单（预期+1.6%）与2/5年期国债拍卖定调开局。KOSPI连跌四周后周一开盘反弹，三星市值超越伯克希尔。AI资本开支焦虑持续发酵，市场进入防御轮动模式。",
+      "tags": ["金融经济", "美伊停火", "美联储", "FOMC", "超级周", "耐用品订单", "原油", "科技股"],
+      "file": "posts/397-financial-super-week-durable-goods-us-iran-ceasefire-fed-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Financial Roundup: US-Iran 60-Day Ceasefire Framework Revealed, Super Week Ultimate Showdown Begins",
+      "summary": "⚡ July 27 financial roundup: Iran discloses US-Iran MOU framework with 60-day ceasefire and lifting of naval blockade; IRGC says war restart unlikely; Tabriz Airport reopens; European stocks and US futures rally. Super Week begins — FOMC rate decision meets Big Tech earnings, US durable goods orders and Treasury auctions today. KOSPI rebounds as Samsung surpasses Berkshire. AI capex anxiety continues driving defensive rotation.",
+      "tags": ["Finance", "US-Iran Ceasefire", "Federal Reserve", "FOMC", "Super Week", "Durable Goods", "Crude Oil", "Tech Stocks"],
+      "file": "posts/397-financial-super-week-durable-goods-us-iran-ceasefire-fed-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "396",
     "date": "2026-07-27",
     "zh": {
