@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 27 Jul 2026 03:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 04:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月27日科技重磅：AI芯片大战全面爆发——SpaceX/Tesla Terafab量产在即、DeepSeek启动自研芯片、AMD MI455X携320亿晶体管挑战英伟达</title>
+      <link>https://ai-daily.cc.cd/posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日科技综述：SpaceX与Tesla联合推进Terafab芯片工厂量产AI专用半导体，马斯克称八成产能用于航天；DeepSeek正式启动自研AI推理芯片项目，AI公司自研芯片从特例变成趋势；AMD发布320亿晶体管Instinct MI455X GPU，携手Anthropic打造2GW AI算力基础设施；AI公司造芯潮全面爆发，OpenAI、Anthropic、Google、Meta纷纷入局。</description>
+      <pubDate>Mon, 27 Jul 2026 04:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月27日科技重磅：长鑫科技科创板上市首日飙升、OpenAI连续17天宕机危机、马斯克预言五年内AI超越全人类</title>
