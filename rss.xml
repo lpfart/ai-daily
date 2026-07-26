@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 26 Jul 2026 08:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 09:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 超级周前夕全球市场全景：布伦特突破100后回落至97、美债收益率逼近2007年高点、KOSPI连续10天触发Sidecar</title>
+      <link>https://ai-daily.cc.cd/posts/385-super-week-market-pulse-oil-100-fed-brace-july-26-2026.zh.html</link>
+      <description>⚡ 7月26日全球金融市场周末全景扫描：布伦特原油突破100美元后回落至97美元，三线石油供应链同时承压；10年期美债收益率飙至4.66%逼近2007年高点；科技七巨头单日蒸发7970亿美元；美联储7月FOMC加息概率从12%飙至38%，沃什放弃前瞻指引加剧不确定性；韩国KOSPI连跌四周，Sidecar机制连续10交易日触发创纪录；黄金五周守住4000美元关口。本周美联储、英央行、日央行同步议息，微软、Meta、苹果、亚马逊财报叠加美国Q2 GDP与PCE数据连环轰炸——2026年最重要超级周即将到来。</description>
+      <pubDate>Sun, 26 Jul 2026 09:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/385-super-week-market-pulse-oil-100-fed-brace-july-26-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月26日AI安全风暴：Hugging Face索赔1亿美元算力、美国会推「AI紧急关闭法案」、Anthropic被曝刻意限制Opus 5网络攻击能力</title>
