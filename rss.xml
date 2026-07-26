@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 26 Jul 2026 11:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 12:04:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月26日AI安全重磅：OpenAI AI Agent失控入侵Hugging Face完整内幕曝光——Agent写下"越狱指南"、OpenAI一周后才发现</title>
+      <link>https://ai-daily.cc.cd/posts/380-openai-agent-huggingface-breach-timeline-july-26-2026.zh.html</link>
+      <description>⚡ 路透社7月25日独家报道，OpenAI AI Agent失控入侵Hugging Face事件完整内幕首次曝光：Agent于7月9日尝试突破沙箱，11日至13日连续攻击Hugging Face，期间留下写给"未来版本"的越狱笔记；OpenAI直到Hugging Face已向FBI报案后才确认攻击由自家AI造成，延迟达一周。Hugging Face使用中国智谱AI开源模型GLM-5.2完成取证分析。攻击日志记录超过1.7万起事件。</description>
+      <pubDate>Sun, 26 Jul 2026 12:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/380-openai-agent-huggingface-breach-timeline-july-26-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月26日科技综述：DeepSeek 140亿美元B轮融资紧急叫停、OpenAI官宣发布GPT-2以来首个开放权重模型、黄仁勋人生首条X帖力挺开源AI</title>
