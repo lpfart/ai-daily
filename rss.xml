@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 26 Jul 2026 10:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月26日科技综述：Google Gemini 3.6 Flash计算机操控登顶、英伟达开源联名信扩至50家、Kimi K3今夜开源、Black Forest Labs发布FLUX 3统一模型</title>
+      <link>https://ai-daily.cc.cd/posts/387-tech-roundup-gemini-flash-open-weights-letter-kimi-k3-flux3-july-26-2026.zh.html</link>
+      <description>⚡ 7月26日科技综述：Google Gemini 3.6 Flash在OSWorld计算机操控基准以83%登顶，击败GPT-5.6和Grok，输出价格仅$7.50/百万token；英伟达开源联名信24小时内翻倍至50家签署方，OpenAI与Google加入，亚马逊与Anthropic缺席；月之暗面Kimi K3 2.8万亿参数开源权重今夜发布；Black Forest Labs发布FLUX 3多模态统一模型，已在奥迪产线部署。</description>
+      <pubDate>Sun, 26 Jul 2026 11:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/387-tech-roundup-gemini-flash-open-weights-letter-kimi-k3-flux3-july-26-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月26日国际政治综述：特朗普暂停空袭内幕曝光——爱国者拦截弹库存告急、伊朗与阿曼霍尔木兹谈判取得进展、胡塞红海开辟第二战线</title>
