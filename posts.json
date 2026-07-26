@@ -1,5 +1,21 @@
 [
   {
+    "id": "393",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日金融前瞻：「超级周」终极对决开幕——美联储决议、MSFT/META/AAPL/AMZN财报、油价百元鏖战、耐用品数据今日定调",
+      "summary": "⚡ 7月27日金融市场前瞻：本周全球市场迎来2026年最重要超级周——美联储7月28-29日FOMC利率决议、微软Meta苹果亚马逊四大科技巨头Q2财报连环发布、美国Q2 GDP初值与6月核心PCE同周出炉。布伦特原油从100美元上方回落至96.78美元，AI资本开支焦虑蔓延，美债收益率高位运行。今日美国耐用品订单（预期+1.6%）与2年/5年期国债拍卖定调开局。Alphabet史上首次FCF转负震动市场，科技七巨头一周蒸发7970亿美元，板块全面转向防御。",
+      "tags": ["金融经济", "超级周", "美联储", "FOMC", "原油", "AI资本开支", "科技股", "美债"],
+      "file": "posts/393-super-week-fed-msft-meta-earnings-oil-100-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Financial Preview: Super Week Ultimate Showdown — Fed Decision, MSFT/META/AAPL/AMZN Earnings, Oil Battles $100, Durable Goods Today",
+      "summary": "⚡ July 27 financial markets preview: The most important super week of 2026 begins — FOMC rate decision July 28-29, Microsoft/Meta/Apple/Amazon Q2 earnings, US Q2 GDP advance and core PCE all in 72 hours. Brent crude retreats to $96.78 from above $100, AI capex anxiety spreads, Treasury yields stay elevated. Today's US durable goods orders (forecast +1.6%) and 2/5-year Treasury auctions set the tone. Alphabet's first-ever negative FCF and Tesla's margin collapse triggered $797B Mag7 wipeout.",
+      "tags": ["Finance", "Super Week", "Federal Reserve", "FOMC", "Crude Oil", "AI Capex", "Tech Stocks", "Treasury Yields"],
+      "file": "posts/393-super-week-fed-msft-meta-earnings-oil-100-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "392",
     "date": "2026-07-27",
     "zh": {
