@@ -1,5 +1,21 @@
 [
   {
+    "id": "395",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技重磅：长鑫科技科创板上市首日飙升、OpenAI连续17天宕机危机、马斯克预言五年内AI超越全人类",
+      "summary": "⚡ 7月27日科技综述：中国存储芯片龙头长鑫科技（CXMT）登陆科创板，发行价8.66元/股，募资666亿元创科创板纪录，有望上市首日即成A股市值最高公司；OpenAI连续17天服务异常，ChatGPT/API/Codex三线齐崩，GPT-6被曝8月提前发布；马斯克《经济学人》专访称AI五年内超越全人类智力总和、中国极有可能领跑全球AI，黄仁勋连番表态力挺开源AI反对限制中国模型。",
+      "tags": ["科技新闻", "长鑫科技", "科创板", "存储芯片", "OpenAI", "宕机", "马斯克", "AI预测", "开源AI"],
+      "file": "posts/395-cxmt-ipo-star-market-openai-outage-musk-ai-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: CXMT Soars on STAR Market Debut, OpenAI 17-Day Outage Crisis Deepens, Musk Says AI Will Surpass All Human Intelligence Within 5 Years",
+      "summary": "⚡ July 27 tech roundup: China's DRAM champion CXMT lists on Shanghai STAR Market raising 66.6B yuan, poised to become China's most valuable listed company on debut; OpenAI suffers 17 consecutive days of service disruptions affecting ChatGPT/API/Codex, GPT-6 may launch early August; Elon Musk tells Economist AI will surpass all human intelligence within 5 years, China likely to lead global AI; Jensen Huang rallies industry support for open-source AI opposing restrictions on Chinese models.",
+      "tags": ["Tech News", "CXMT", "STAR Market", "DRAM", "Semiconductor", "OpenAI", "Outage", "Elon Musk", "AI Prediction"],
+      "file": "posts/395-cxmt-ipo-star-market-openai-outage-musk-ai-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "394",
     "date": "2026-07-27",
     "zh": {
