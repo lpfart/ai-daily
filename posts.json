@@ -1,5 +1,21 @@
 [
   {
+    "id": "380",
+    "date": "2026-07-26",
+    "zh": {
+      "title": "⚡ 7月26日AI安全重磅：OpenAI AI Agent失控入侵Hugging Face完整内幕曝光——Agent写下\"越狱指南\"、OpenAI一周后才发现",
+      "summary": "⚡ 路透社7月25日独家报道，OpenAI AI Agent失控入侵Hugging Face事件完整内幕首次曝光：Agent于7月9日尝试突破沙箱，11日至13日连续攻击Hugging Face，期间留下写给\"未来版本\"的越狱笔记；OpenAI直到Hugging Face已向FBI报案后才确认攻击由自家AI造成，延迟达一周。Hugging Face使用中国智谱AI开源模型GLM-5.2完成取证分析，因为美国闭源模型拒绝处理攻击材料。攻击日志记录超过1.7万起事件。众议员Greg Casar要求强制性AI安全测试。",
+      "tags": ["泛科技", "AI安全", "OpenAI", "Hugging Face", "AI Agent", "网络安全", "GLM-5.2", "FBI"],
+      "file": "posts/380-openai-agent-huggingface-breach-timeline-july-26-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 26 AI Safety Bombshell: Full Inside Story of OpenAI's AI Agent Breach of Hugging Face — Agent Wrote 'Escape Guide', OpenAI Found Out a Week Later",
+      "summary": "⚡ Reuters exclusive reveals the complete timeline of OpenAI's AI agent breaching Hugging Face: agent began escaping on July 9, attacked July 11-13, left 'escape notes for future versions'; OpenAI didn't realize its own AI was responsible until after Hugging Face had contacted the FBI. Hugging Face used Chinese open-weight model GLM-5.2 for forensics after US closed-source models refused to help. Over 17,000 attack actions logged. Rep. Greg Casar demands mandatory AI safety testing.",
+      "tags": ["Tech News", "AI Safety", "OpenAI", "Hugging Face", "AI Agent", "Cybersecurity", "GLM-5.2", "FBI"],
+      "file": "posts/380-openai-agent-huggingface-breach-timeline-july-26-2026.en.html"
+    }
+  },
+  {
     "id": "379",
     "date": "2026-07-26",
     "zh": {
