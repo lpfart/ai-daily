@@ -6,8 +6,24 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 27 Jul 2026 10:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月27日泛科技综述：Kimi K3权重正式开源落地HuggingFace；黄仁勋确认Vera Rubin已量产；谷歌TPU优先供给AGI研发</title>
+      <link>https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日泛科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式落地HuggingFace，594GB MXFP4权重文件确认可下载，Modified MIT许可；黄仁勋在开发者活动上回应谣言明确表示Vera Rubin已进入大规模量产；谷歌CEO皮查伊在Q2财报会上透露TPU分配策略优先保障AGI前沿研发而非云客户。</description>
+      <pubDate>Mon, 27 Jul 2026 12:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日科技综述：Kimi K3 2.8万亿参数权重正式开源——594GB权重文件开放下载；英伟达10亿美元入股Naver成第三大股东；长鑫科技科创板上市首日暴涨471%市值登顶A股</title>
+      <link>https://ai-daily.cc.cd/posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺正式发布，全球开发者可下载594GB权重文件；英伟达10亿美元认购Naver 4.5%新发行股份，成第三大股东；长鑫科技科创板上市首日高开471%，市值3.31万亿元登顶A股。</description>
+      <pubDate>Mon, 27 Jul 2026 11:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月27日国际政治综述：以色列批准国际稳定部队进驻加沙、胡塞武装弹道导弹猛攻沙特阿美、克里姆林宫拒绝"冻结战争"</title>
