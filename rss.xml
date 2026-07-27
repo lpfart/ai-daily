@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 27 Jul 2026 07:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 08:04:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月27日下午科技综述：谷歌确认Gemini 4已投入训练——"最具雄心"预训练启动力争年底发布；普京签署俄罗斯AI管理法引入"主权AI模型"；Jim Fan李飞飞团队发布RoboTTT机器人长上下文突破</title>
+      <link>https://ai-daily.cc.cd/posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日下午科技综述：谷歌CEO皮查伊在Q2财报会上确认Gemini 4已开始"最具雄心"的预训练，目标今年11至12月发布；普京签署俄罗斯AI发展法，引入"主权AI模型"概念，允许使用国家数据训练AI模型；Jim Fan与李飞飞团队发布RoboTTT，将机器人视觉运动上下文扩展至8K时间步，性能提升63%。</description>
+      <pubDate>Mon, 27 Jul 2026 08:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月27日泛科技综述：腾讯QQ宠物AI回归接入混元Hy3——停运八年复活；美团LongCat-2.0万亿参数大模型开源；小米澎程SUV定档7月30日</title>
