@@ -1,5 +1,21 @@
 [
   {
+    "id": "413",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 英伟达战略投资Ilya Sutskever安全超级智能SSI：Vera Rubin平台算力飙升10倍，谷歌TPU地位遭挑战",
+      "summary": "⚡ 7月27日晚间重磅：英伟达宣布与Ilya Sutskever创立的安全超级智能公司SSI达成长期战略合作并追加投资。SSI将获得英伟达下一代Vera Rubin平台访问权限，算力提升一个数量级。此前SSI主要依赖Google TPU，此次合作标志着英伟达连续出手绑定前OpenAI核心团队——今年3月已投资Mira Murati的Thinking Machines Lab。SSI成立于2024年，累计融资超30亿美元，估值320亿美元。",
+      "tags": ["泛科技", "英伟达", "SSI", "Ilya Sutskever", "Vera Rubin", "AI算力", "战略投资"],
+      "file": "posts/413-nvidia-ssi-ilya-sutskever-partnership-vera-rubin-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ NVIDIA Strategic Investment in Ilya Sutskever's Safe Superintelligence: Vera Rubin Platform Delivers 10x Compute Boost, Challenging Google TPU Dominance",
+      "summary": "⚡ July 27 evening breaking: NVIDIA announces long-term strategic partnership with Ilya Sutskever's Safe Superintelligence Inc. (SSI) with additional investment. SSI gains access to next-gen Vera Rubin platform, expanding compute by an order of magnitude. The deal marks a strategic shift from SSI's previous reliance on Google TPUs, and continues NVIDIA's pattern of locking in former OpenAI core teams — having invested in Mira Murati's Thinking Machines Lab in March 2026. SSI, founded in 2024, has raised $3B+ at a $32B valuation.",
+      "tags": ["Tech News", "NVIDIA", "SSI", "Ilya Sutskever", "Vera Rubin", "AI Compute", "Strategic Investment"],
+      "file": "posts/413-nvidia-ssi-ilya-sutskever-partnership-vera-rubin-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "412",
     "date": "2026-07-27",
     "zh": {
