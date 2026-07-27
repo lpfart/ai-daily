@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 27 Jul 2026 18:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月27日科技重磅：微软发布首款安全AI模型MAI-Cyber-1-Flash，Project Perception自主Agent平台全面上线</title>
+      <link>https://ai-daily.cc.cd/posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日科技重磅：微软在旧金山发布首款自研网络安全AI模型MAI-Cyber-1-Flash，CyberGym基准95.95%超越OpenAI和Anthropic；同步推出Project Perception自主化安全Agent平台，红蓝绿三色Agent团队实现从漏洞发现到代码修复全自动化。Kimi K3 32个Agent自主发现19个Redis零日漏洞，27分钟生成完整利用链。AI Kill Switch Act立法加速推进。</description>
+      <pubDate>Mon, 27 Jul 2026 19:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月27日国际政治实时动态：沙特拦截伊朗支持武装无人机袭击石油设施、胡塞武装红海再起波澜、伊朗革命卫队霍尔木兹海峡拦截6艘商船、特朗普警告谈判失败将恢复强有力军事行动</title>
