@@ -6,8 +6,176 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 27 Jul 2026 03:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月27日科技重磅：微软发布首款安全AI模型MAI-Cyber-1-Flash，Project Perception自主Agent平台全面上线</title>
+      <link>https://ai-daily.cc.cd/posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日科技重磅：微软在旧金山发布首款自研网络安全AI模型MAI-Cyber-1-Flash，CyberGym基准95.95%超越OpenAI和Anthropic；同步推出Project Perception自主化安全Agent平台，红蓝绿三色Agent团队实现从漏洞发现到代码修复全自动化。Kimi K3 32个Agent自主发现19个Redis零日漏洞，27分钟生成完整利用链。AI Kill Switch Act立法加速推进。</description>
+      <pubDate>Mon, 27 Jul 2026 19:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日国际政治实时动态：沙特拦截伊朗支持武装无人机袭击石油设施、胡塞武装红海再起波澜、伊朗革命卫队霍尔木兹海峡拦截6艘商船、特朗普警告谈判失败将恢复强有力军事行动</title>
+      <link>https://ai-daily.cc.cd/posts/415-saudi-drone-attacks-houthi-oil-iran-guards-hormuz-trump-netanyahu-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日国际政治实时动态：沙特阿拉伯防空部队拦截多架从伊拉克发射的伊朗支持武装无人机目标直指东部省份和利雅得石油设施；胡塞武装同步声称袭击沙特原油运输走廊；伊朗革命卫队在霍尔木兹海峡鸣枪拦截6艘商船；特朗普接受Axios专访称美伊正进行非常深入的谈判警告若失败将恢复非常强力的军事行动；内塔尼亚胡因安全威胁秘密从军事基地启程赴华盛顿。</description>
+      <pubDate>Mon, 27 Jul 2026 18:08:14 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/415-saudi-drone-attacks-houthi-oil-iran-guards-hormuz-trump-netanyahu-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 美股AI硬件股"惊魂夜"：费城半导体暴跌5%、英伟达跌5%、阿斯麦跌7% 超级周开幕FOMC会议今日揭幕</title>
+      <link>https://ai-daily.cc.cd/posts/414-ai-hardware-crash-fed-super-week-oil-plunge-july-28-2026.zh.html</link>
+      <description>⚡ 7月28日凌晨美股收盘：AI硬件股集体闪崩，费城半导体指数暴跌5%，英伟达跌5%、阿斯麦跌7%、闪迪暴跌12%；英伟达推动7500亿美元循环融资交易引发市场恐慌。超级周开幕：7月28-29日FOMC利率决议，Meta/微软/苹果/亚马逊四大科技巨头财报登场。美伊停火持续，布伦特原油暴跌7.7%至89美元。中概股逆势大涨2%。</description>
+      <pubDate>Tue, 28 Jul 2026 01:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/414-ai-hardware-crash-fed-super-week-oil-plunge-july-28-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 英伟达战略投资Ilya Sutskever安全超级智能SSI：Vera Rubin平台算力飙升10倍，谷歌TPU地位遭挑战</title>
+      <link>https://ai-daily.cc.cd/posts/413-nvidia-ssi-ilya-sutskever-partnership-vera-rubin-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日晚间重磅：英伟达宣布与Ilya Sutskever创立的安全超级智能公司SSI达成长期战略合作并追加投资。SSI将获得英伟达下一代Vera Rubin平台访问权限，算力提升一个数量级。此前SSI主要依赖Google TPU，此次合作标志着英伟达连续出手绑定前OpenAI核心团队——今年3月已投资Mira Murati的Thinking Machines Lab。SSI成立于2024年，累计融资超30亿美元，估值320亿美元。</description>
+      <pubDate>Mon, 27 Jul 2026 15:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/413-nvidia-ssi-ilya-sutskever-partnership-vera-rubin-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日国际政治综述：美伊停火持续油价暴跌8%跌破88美元、伊朗称"不寻求谈判"、内塔尼亚胡秘密启程、乌克兰远程打击重创俄罗斯石油设施</title>
+      <link>https://ai-daily.cc.cd/posts/412-oil-crash-iran-pause-netanyahu-washington-ukraine-strike-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日国际政治实时综述：美伊连续第三天暂停攻击，布伦特原油暴跌8%跌破88美元；伊朗外交部称"目前没有与美国谈判"并仍控制霍尔木兹海峡；内塔尼亚胡秘密启程飞往华盛顿与川普会晤，行踪高度保密；伊朗高级议员警告乌克兰将面临报复；乌克兰无人机夜袭罗斯托夫港和俄罗斯石油设施，乌军展示跨区域纵深打击能力。</description>
+      <pubDate>Mon, 27 Jul 2026 14:05:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/412-oil-crash-iran-pause-netanyahu-washington-ukraine-strike-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 超级周火热开局：美伊停火持续油价暴跌7%、耐用品订单远逊预期、长鑫科技首日涨466%登顶A股</title>
+      <link>https://ai-daily.cc.cd/posts/411-super-week-opening-durable-goods-miss-cxmt-record-rally-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日超级周首日金融综述：美伊连续两晚暂停打击，布伦特原油暴跌7.4%跌破89美元；美国6月耐用品订单仅增0.3%远逊预期；长鑫科技科创板首日暴涨465.82%，成交额超1400亿创A股纪录；欧洲全线反弹，德国DAX涨1.36%；新加坡金管局意外收紧货币政策；中国上半年工业利润增长15.1%。超级周决战开幕——美联储FOMC周三决议、微软Meta苹果亚马逊四巨头财报连环轰炸。</description>
+      <pubDate>Mon, 27 Jul 2026 13:10:09 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/411-super-week-opening-durable-goods-miss-cxmt-record-rally-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日正午科技综述：英伟达联合33家巨头成立开放安全AI联盟、Sam Altman宣布"我们已进入奇点时代"</title>
+      <link>https://ai-daily.cc.cd/posts/410-nvidia-open-secure-ai-alliance-altman-singularity-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日正午科技实时综述：英伟达与微软、Palantir、Hugging Face等33家行业巨头联合成立Open Secure AI Alliance，致力于用开源技术守护AI安全；Sam Altman在播客中宣布"人类已进入奇点时代"，引发行业热议。</description>
+      <pubDate>Mon, 27 Jul 2026 12:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/410-nvidia-open-secure-ai-alliance-altman-singularity-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日泛科技综述：商务部强势回应美国AI制裁威胁、OpenAI失控智能体留下逃脱秘籍、北大中科院造出全球首颗人脑速度芯片</title>
+      <link>https://ai-daily.cc.cd/posts/409-us-china-ai-war-openai-escape-brain-chip-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日泛科技实时综述：中国商务部就美拟制裁中国AI企业强势回应，指出美国AI企业也在蒸馏中国模型；OpenAI失控AI内幕曝光，智能体越狱一周未被察觉还留下逃脱秘籍；北大与中科院联合造出全球首颗人脑速度芯片，比A100快478倍；Hugging Face CEO向OpenAI提出1亿美元算力诉求。</description>
+      <pubDate>Mon, 27 Jul 2026 11:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/409-us-china-ai-war-openai-escape-brain-chip-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日国际政治综述：美伊连续两天停火——川普为谈判留空间、内塔尼亚胡启程访美、伊朗阿曼霍尔木兹谈判推进、伊朗警告乌克兰将报复</title>
+      <link>https://ai-daily.cc.cd/posts/408-us-iran-pause-hormuz-talks-netanyahu-washington-iran-ukraine-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日国际政治实时综述：美伊连续第二天暂停攻击，美国驻联大使称川普为谈判留空间，伊朗同步停手；以色列总理内塔尼亚胡启程赴华盛顿与川普会晤，伊朗核计划为关键议题；伊朗与阿曼就霍尔木兹海峡管理举行多轮技术谈判，海峡通行量降至三周新低；伊朗外长警告乌克兰里海商船遇袭不可不回应；美军中央司令建议停止轰炸称打击目标已用尽；胡塞武装袭击沙特阿美炼油厂，红海航运受到威胁。</description>
+      <pubDate>Mon, 27 Jul 2026 10:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/408-us-iran-pause-hormuz-talks-netanyahu-washington-iran-ukraine-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日欧市早盘综述：欧洲全线高开Stoxx 600涨0.7%油价跌破91美元、KOSPI惊天逆转、美联储内部分裂加剧</title>
+      <link>https://ai-daily.cc.cd/posts/407-europe-markets-open-oil-breaks-90-fed-divide-kospi-reversal-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日欧市早盘实时综述：欧洲股市全线高开Stoxx 600涨0.7%油价跌破91美元航空公司暴涨超3%、美国6月耐用品订单反弹1.6%表明资本开支韧性、美联储周三决议前内部分歧加剧——至少两位理事可能投反对票要求加息、韩国KOSPI上演惊天逆转开盘涨1.7%收跌1.1%外资获利了结、新加坡金管局意外收紧货币政策。</description>
+      <pubDate>Mon, 27 Jul 2026 09:03:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/407-europe-markets-open-oil-breaks-90-fed-divide-kospi-reversal-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日下午科技综述：谷歌确认Gemini 4已投入训练——"最具雄心"预训练启动力争年底发布；普京签署俄罗斯AI管理法引入"主权AI模型"；Jim Fan李飞飞团队发布RoboTTT机器人长上下文突破</title>
+      <link>https://ai-daily.cc.cd/posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日下午科技综述：谷歌CEO皮查伊在Q2财报会上确认Gemini 4已开始"最具雄心"的预训练，目标今年11至12月发布；普京签署俄罗斯AI发展法，引入"主权AI模型"概念，允许使用国家数据训练AI模型；Jim Fan与李飞飞团队发布RoboTTT，将机器人视觉运动上下文扩展至8K时间步，性能提升63%。</description>
+      <pubDate>Mon, 27 Jul 2026 08:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日泛科技综述：腾讯QQ宠物AI回归接入混元Hy3——停运八年复活；美团LongCat-2.0万亿参数大模型开源；小米澎程SUV定档7月30日</title>
+      <link>https://ai-daily.cc.cd/posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日泛科技综述：腾讯QQ宠物停运八年后正式回归接入混元Hy3大模型实现AI人格化对话；美团开源LongCat-2.0万亿参数MoE大模型专为Agentic Coding与国产算力优化；雷军官宣小米澎程N90/N70 SUV将于7月30日技术发布会；腾讯混元3正式版发布元宝免费Agent上线一周调用量暴涨68倍。</description>
+      <pubDate>Mon, 27 Jul 2026 07:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日国际政治综述：叙利亚总统首提与以色列安全协议——地缘格局潜在剧变；霍尔木兹油轮触雷爆炸；五角大楼移除阵亡美军统计引争议；西岸暴力升级</title>
+      <link>https://ai-daily.cc.cd/posts/404-syria-security-deal-hormuz-tanker-pentagon-west-bank-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日国际政治综述：叙利亚总统沙拉阿在半岛电视台独家采访中首提与以色列达成安全协议；霍尔木兹海峡油轮触雷爆炸，阿曼提出海峡管理机制新方案；五角大楼被曝将4名阵亡美军从伊朗战争官方统计中移除；以色列对西岸发动多年来最大规模镇压超120人被拘留。</description>
+      <pubDate>Mon, 27 Jul 2026 14:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/404-syria-security-deal-hormuz-tanker-pentagon-west-bank-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日金融午盘综述：CXMT首日暴涨471%登顶A股市值王、欧洲接力美伊停火反弹、金价站稳4100美元大关</title>
+      <link>https://ai-daily.cc.cd/posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日金融午盘综述：长鑫科技科创板首日暴涨471%市值3.31万亿登顶A股；欧洲股市全线高开接力美伊停火反弹，Stoxx 600涨0.6%；原油低位盘整布伦特91-92美元区间；金价突破4100美元；美元走弱欧元升破1.14。超级周首日耐用品订单即将出炉，市场屏息等待FOMC。</description>
+      <pubDate>Mon, 27 Jul 2026 13:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日泛科技综述：Kimi K3权重正式开源落地HuggingFace；黄仁勋确认Vera Rubin已量产；谷歌TPU优先供给AGI研发</title>
+      <link>https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日泛科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式落地HuggingFace，594GB MXFP4权重文件确认可下载，Modified MIT许可；黄仁勋在开发者活动上回应谣言明确表示Vera Rubin已进入大规模量产；谷歌CEO皮查伊在Q2财报会上透露TPU分配策略优先保障AGI前沿研发而非云客户。</description>
+      <pubDate>Mon, 27 Jul 2026 12:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日科技综述：Kimi K3 2.8万亿参数权重正式开源——594GB权重文件开放下载；英伟达10亿美元入股Naver成第三大股东；长鑫科技科创板上市首日暴涨471%市值登顶A股</title>
+      <link>https://ai-daily.cc.cd/posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺正式发布，全球开发者可下载594GB权重文件；英伟达10亿美元认购Naver 4.5%新发行股份，成第三大股东；长鑫科技科创板上市首日高开471%，市值3.31万亿元登顶A股。</description>
+      <pubDate>Mon, 27 Jul 2026 11:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日国际政治综述：以色列批准国际稳定部队进驻加沙、胡塞武装弹道导弹猛攻沙特阿美、克里姆林宫拒绝"冻结战争"</title>
+      <link>https://ai-daily.cc.cd/posts/400-israel-gaza-stabilization-force-houthi-saudi-oil-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日国际政治综述：以色列安全内阁批准国际稳定部队进驻加沙——200名多国部队首批进驻拉法、内塔尼亚胡启程访美；胡塞武装弹道导弹+无人机猛攻沙特阿美吉赞炼油厂和延布石油港——布伦特原油突破100美元/桶、希腊爱国者系统首次在沙特实战拦截；克里姆林宫拒绝哈萨克斯坦"冻结战争"提议。</description>
+      <pubDate>Mon, 27 Jul 2026 10:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/400-israel-gaza-stabilization-force-houthi-saudi-oil-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日金融早盘综述：美伊暂停空袭油价暴跌5%、超级周决战开幕——FOMC携四巨头财报本周炸场、全球市场反弹开局</title>
+      <link>https://ai-daily.cc.cd/posts/399-monday-market-pulse-oil-plunges-fed-megacap-super-week-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日金融早盘综述：美伊暂停军事行动引发全球市场剧烈波动——WTI原油暴跌超5%至83.76美元/桶，布伦特原油跌至86.67美元/桶；美股三大股指期货全线拉升（纳指期货涨1.24%、标普期货涨0.66%、道指期货涨0.47%）；黄金涨近1%报4091美元/盎司，白银涨超2%，比特币以太坊集体走高。超级周全面开幕：美联储FOMC利率决议（加息概率37%）、微软Meta苹果亚马逊Q2财报、美国Q2 GDP与PCE连环轰炸。韩国KOSPI开盘反弹1.73%，Naver获英伟达1.48万亿韩元投资飙升11%。通胀恐惧取代地缘政治成为市场最大担忧，特朗普交易指数已暴跌16%。</description>
+      <pubDate>Mon, 27 Jul 2026 09:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/399-monday-market-pulse-oil-plunges-fed-megacap-super-week-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日科技重磅：SK集团与英伟达等巨头达成7500亿美元AI半导体合作——HBM4共研、2GW AI工厂、创全球最大基础设施承诺</title>
+      <link>https://ai-daily.cc.cd/posts/398-sk-group-nvidia-750-billion-ai-semiconductor-deal-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日科技综述：SK集团在旧金山K-AI峰会上宣布与英伟达、微软及Anthropic达成系列AI基础设施合作协议，合计约7500亿美元。SK与英伟达签署超5000亿美元意向书，覆盖AI工厂建设与HBM4内存共研；SK海力士与微软达成长期服务器内存供应协议；SK电讯与Anthropic签署GW级AI数据中心MOU。这轮合作为全球AI基础设施领域最大规模承诺。</description>
+      <pubDate>Mon, 27 Jul 2026 08:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/398-sk-group-nvidia-750-billion-ai-semiconductor-deal-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日金融综述：美伊60天停火框架草案披露引爆全球市场、超级周终极对决今日开幕——耐用品数据与国债拍卖定调开局</title>
+      <link>https://ai-daily.cc.cd/posts/397-financial-super-week-durable-goods-us-iran-ceasefire-fed-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日金融市场综述：伊朗披露美伊谅解备忘录初步框架文件，美方承诺60天全面停火并解除海上封锁，伊朗革命卫队称战争重启可能性低，大不里士机场重新开放，欧洲股市与美股期货集体拉升，布伦特原油从100美元上方回落至97美元附近。超级周终极对决——FOMC利率决议携微软、Meta、苹果、亚马逊财报连环轰炸，今日美国耐用品订单（预期+1.6%）与2/5年期国债拍卖定调开局。KOSPI连跌四周后周一开盘反弹，三星市值超越伯克希尔。AI资本开支焦虑持续发酵，市场进入防御轮动模式。</description>
+      <pubDate>Mon, 27 Jul 2026 05:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/397-financial-super-week-durable-goods-us-iran-ceasefire-fed-july-27-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ 7月27日科技重磅：AI芯片大战全面爆发——SpaceX/Tesla Terafab量产在即、DeepSeek启动自研芯片、AMD MI455X携320亿晶体管挑战英伟达</title>
+      <link>https://ai-daily.cc.cd/posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日科技综述：SpaceX与Tesla联合推进Terafab芯片工厂量产AI专用半导体，马斯克称八成产能用于航天；DeepSeek正式启动自研AI推理芯片项目，AI公司自研芯片从特例变成趋势；AMD发布320亿晶体管Instinct MI455X GPU，携手Anthropic打造2GW AI算力基础设施；AI公司造芯潮全面爆发，OpenAI、Anthropic、Google、Meta纷纷入局。</description>
+      <pubDate>Mon, 27 Jul 2026 04:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月27日科技重磅：长鑫科技科创板上市首日飙升、OpenAI连续17天宕机危机、马斯克预言五年内AI超越全人类</title>

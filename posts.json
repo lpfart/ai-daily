@@ -1,17 +1,758 @@
 [
   {
+    "id": "416",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技重磅：微软发布首款安全AI模型MAI-Cyber-1-Flash，Project Perception自主Agent平台全面上线",
+      "summary": "⚡ 7月27日科技重磅：微软在旧金山发布首款自研网络安全AI模型MAI-Cyber-1-Flash，CyberGym基准95.95%超越OpenAI和Anthropic；同步推出Project Perception自主化安全Agent平台，红蓝绿三色Agent团队实现从漏洞发现到代码修复全自动化。Kimi K3 32个Agent自主发现19个Redis零日漏洞，27分钟生成完整利用链。AI Kill Switch Act立法加速推进，AI安全进入AI vs AI时代。",
+      "tags": ["科技新闻", "微软", "AI安全", "网络安全", "自主Agent", "Kimi K3", "Redis", "零日漏洞"],
+      "file": "posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: Microsoft Debuts First Cybersecurity AI Model MAI-Cyber-1-Flash, Project Perception Goes Live",
+      "summary": "⚡ July 27 tech mega: Microsoft unveils MAI-Cyber-1-Flash scoring 95.95% on CyberGym, surpassing OpenAI and Anthropic; launches Project Perception with Red/Blue/Green agent teams for automated vulnerability-to-patch workflow. Kimi K3 swarm of 32 agents finds 19 Redis zero-days in 90 minutes with full exploit chain in 27 minutes. AI Kill Switch Act legislation accelerates as AI security enters the AI vs AI era.",
+      "tags": ["Tech News", "Microsoft", "AI Security", "Cybersecurity", "Autonomous Agent", "Kimi K3", "Redis", "Zero-Day"],
+      "file": "posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "415",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日国际政治实时动态：沙特拦截伊朗支持武装无人机袭击石油设施、胡塞武装红海再起波澜、伊朗革命卫队霍尔木兹海峡拦截6艘商船、特朗普警告谈判失败将恢复强有力军事行动",
+      "summary": "⚡ 7月27日国际政治实时动态：沙特阿拉伯防空部队拦截多架从伊拉克发射的伊朗支持武装无人机目标直指东部省份和利雅得石油设施；胡塞武装同步声称袭击沙特原油运输走廊；伊朗革命卫队在霍尔木兹海峡鸣枪拦截6艘商船；特朗普接受Axios专访称美伊正进行非常深入的谈判警告若失败将恢复非常强力的军事行动；内塔尼亚胡因安全威胁秘密从军事基地启程赴华盛顿。",
+      "tags": [
+        "国际政治",
+        "沙特",
+        "伊朗",
+        "胡塞武装",
+        "霍尔木兹海峡",
+        "美伊战争",
+        "特朗普",
+        "内塔尼亚胡"
+      ],
+      "file": "posts/415-saudi-drone-attacks-houthi-oil-iran-guards-hormuz-trump-netanyahu-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 World Politics Update: Saudi Intercepts Iran-Backed Drones Targeting Oil Facilities, Houthis Strike Saudi Oil Corridor, IRGC Turns Back 6 Ships in Hormuz, Trump Warns of Very Strong Military Action if Talks Fail",
+      "summary": "⚡ July 27 world politics live update: Saudi air defenses intercept multiple Iran-backed militia drones targeting oil facilities in Eastern Province and Riyadh; Houthis separately claim drone strikes on Saudi crude oil transport corridor; Iran Revolutionary Guard fires warning shots to turn back 6 vessels in Strait of Hormuz; President Trump tells Axios US and Iran are in very deep talks but warns of very strong military action if diplomacy fails; Netanyahu departs secretly from military base amid Iranian security threat.",
+      "tags": [
+        "World Politics",
+        "Saudi Arabia",
+        "Iran",
+        "Houthis",
+        "Strait of Hormuz",
+        "US-Iran War",
+        "Trump",
+        "Netanyahu"
+      ],
+      "file": "posts/415-saudi-drone-attacks-houthi-oil-iran-guards-hormuz-trump-netanyahu-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "414",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 美股AI硬件股\"惊魂夜\"：费城半导体暴跌5%、英伟达跌5%、阿斯麦跌7% 超级周开幕FOMC会议今日揭幕",
+      "summary": "⚡ 7月28日凌晨美股收盘：AI硬件股集体闪崩，费城半导体指数暴跌5%，英伟达跌5%、阿斯麦跌7%、闪迪暴跌12%；英伟达推动7500亿美元循环融资交易引发市场恐慌。超级周开幕：7月28-29日FOMC利率决议，Meta/微软/苹果/亚马逊四大科技巨头财报登场。美伊停火持续，布伦特原油暴跌7.7%至89美元。中概股逆势大涨2%。",
+      "tags": [
+        "金融经济",
+        "美股",
+        "AI硬件",
+        "英伟达",
+        "FOMC",
+        "美联储",
+        "油价",
+        "超级周"
+      ],
+      "file": "posts/414-ai-hardware-crash-fed-super-week-oil-plunge-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ AI Hardware Stocks' 'Nightmare Session': Philadelphia Semi Index Crashes 5%, Nvidia -5%, ASML -7% as Super Week Kicks Off",
+      "summary": "⚡ July 27 close: AI hardware stocks collapse as Philadelphia Semi Index plunges 5% — Nvidia -5%, ASML -7%, SanDisk -12% on $750B Nvidia circular financing fears. Super Week begins: FOMC rate decision July 28-29, Meta/Microsoft/Apple/Amazon earnings. US-Iran truce holds, Brent crashes 7.7% to $89. China ADRs surge 2%.",
+      "tags": [
+        "Financial Markets",
+        "US Stocks",
+        "AI Hardware",
+        "Nvidia",
+        "FOMC",
+        "Federal Reserve",
+        "Oil",
+        "Super Week"
+      ],
+      "file": "posts/414-ai-hardware-crash-fed-super-week-oil-plunge-july-28-2026.en.html"
+    }
+  },
+  {
+    "id": "413",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 英伟达战略投资Ilya Sutskever安全超级智能SSI：Vera Rubin平台算力飙升10倍，谷歌TPU地位遭挑战",
+      "summary": "⚡ 7月27日晚间重磅：英伟达宣布与Ilya Sutskever创立的安全超级智能公司SSI达成长期战略合作并追加投资。SSI将获得英伟达下一代Vera Rubin平台访问权限，算力提升一个数量级。此前SSI主要依赖Google TPU，此次合作标志着英伟达连续出手绑定前OpenAI核心团队——今年3月已投资Mira Murati的Thinking Machines Lab。SSI成立于2024年，累计融资超30亿美元，估值320亿美元。",
+      "tags": [
+        "泛科技",
+        "英伟达",
+        "SSI",
+        "Ilya Sutskever",
+        "Vera Rubin",
+        "AI算力",
+        "战略投资"
+      ],
+      "file": "posts/413-nvidia-ssi-ilya-sutskever-partnership-vera-rubin-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ NVIDIA Strategic Investment in Ilya Sutskever's Safe Superintelligence: Vera Rubin Platform Delivers 10x Compute Boost, Challenging Google TPU Dominance",
+      "summary": "⚡ July 27 evening breaking: NVIDIA announces long-term strategic partnership with Ilya Sutskever's Safe Superintelligence Inc. (SSI) with additional investment. SSI gains access to next-gen Vera Rubin platform, expanding compute by an order of magnitude. The deal marks a strategic shift from SSI's previous reliance on Google TPUs, and continues NVIDIA's pattern of locking in former OpenAI core teams — having invested in Mira Murati's Thinking Machines Lab in March 2026. SSI, founded in 2024, has raised $3B+ at a $32B valuation.",
+      "tags": [
+        "Tech News",
+        "NVIDIA",
+        "SSI",
+        "Ilya Sutskever",
+        "Vera Rubin",
+        "AI Compute",
+        "Strategic Investment"
+      ],
+      "file": "posts/413-nvidia-ssi-ilya-sutskever-partnership-vera-rubin-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "412",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日国际政治综述：美伊停火持续油价暴跌8%跌破88美元、伊朗称\"不寻求谈判\"、内塔尼亚胡秘密启程、乌克兰远程打击重创俄罗斯石油设施",
+      "summary": "⚡ 7月27日国际政治实时综述：美伊连续第三天暂停攻击，布伦特原油暴跌8%跌破88美元；伊朗外交部称\"目前没有与美国谈判\"并仍控制霍尔木兹海峡；内塔尼亚胡秘密启程飞往华盛顿与川普会晤，行踪高度保密；伊朗高级议员警告乌克兰将面临报复；乌克兰无人机夜袭罗斯托夫港和俄罗斯石油设施，乌军展示跨区域纵深打击能力。",
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "油价暴跌",
+        "伊朗",
+        "内塔尼亚胡",
+        "乌克兰",
+        "霍尔木兹海峡",
+        "罗斯托夫"
+      ],
+      "file": "posts/412-oil-crash-iran-pause-netanyahu-washington-ukraine-strike-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 International Roundup: Oil Crashes 8% Below $88 as US-Iran Truce Holds, Iran Says Not Seeking Talks, Netanyahu Departs for Washington, Ukraine Strikes Deep into Russia",
+      "summary": "⚡ July 27 international roundup: US and Iran hold fire for third day, Brent crude plunges 8% below $88; Iran says not seeking talks with US, still controls Strait of Hormuz; Netanyahu departs for Washington under secrecy to meet Trump; senior Iranian lawmaker warns Ukraine will face retaliation; Ukraine strikes Rostov port and Russian oil infrastructure in massive deep strike operation.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Oil Crash",
+        "Iran",
+        "Netanyahu",
+        "Ukraine",
+        "Strait of Hormuz",
+        "Rostov"
+      ],
+      "file": "posts/412-oil-crash-iran-pause-netanyahu-washington-ukraine-strike-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "411",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 超级周火热开局：美伊停火持续油价暴跌7%、耐用品订单远逊预期、长鑫科技首日涨466%登顶A股",
+      "summary": "⚡ 7月27日超级周首日金融综述：美伊连续两晚暂停打击，布伦特原油暴跌7.4%跌破89美元；美国6月耐用品订单仅增0.3%远逊预期；长鑫科技科创板首日暴涨465.82%，成交额超1400亿创A股纪录；欧洲全线反弹，德国DAX涨1.36%；新加坡金管局意外收紧货币政策；中国上半年工业利润增长15.1%。超级周决战开幕——美联储FOMC周三决议、微软Meta苹果亚马逊四巨头财报连环轰炸。",
+      "tags": [
+        "金融经济",
+        "超级周",
+        "耐用品订单",
+        "长鑫科技",
+        "原油暴跌",
+        "FOMC",
+        "美联储",
+        "欧洲股市"
+      ],
+      "file": "posts/411-super-week-opening-durable-goods-miss-cxmt-record-rally-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Super Week Opens with a Bang: Oil Crashes 7% on US-Iran Truce, Durable Goods Miss, CXMT Soars 466% in Record Debut",
+      "summary": "⚡ July 27 Super Week opening roundup: US-Iran pause holds for second night, Brent crude plunges 7.4% below $89; US durable goods orders rise just 0.3% vs 1.6% expected — biggest miss in months; CXMT debuts on Shanghai STAR Market at +465.82%, record $205B trading volume, becomes China's most valuable listed company; European stocks rally with DAX +1.36%; Singapore MAS unexpectedly tightens; China June industrial profits +15.1% YoY. All eyes on FOMC Wednesday and Big Tech earnings from Microsoft, Meta, Apple and Amazon.",
+      "tags": [
+        "Financial Markets",
+        "Super Week",
+        "Durable Goods",
+        "CXMT",
+        "Oil Crash",
+        "FOMC",
+        "Federal Reserve",
+        "European Stocks"
+      ],
+      "file": "posts/411-super-week-opening-durable-goods-miss-cxmt-record-rally-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "410",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日正午科技综述：英伟达联合33家巨头成立开放安全AI联盟、Sam Altman宣布\"我们已进入奇点时代\"",
+      "summary": "⚡ 7月27日正午科技实时综述：英伟达与微软、Palantir、Hugging Face等33家行业巨头联合成立Open Secure AI Alliance，致力于用开源技术守护AI安全；Sam Altman在播客中宣布\"人类已进入奇点时代\"，引发行业热议。",
+      "tags": [
+        "泛科技",
+        "英伟达",
+        "AI安全",
+        "奇点",
+        "Sam Altman",
+        "开源AI"
+      ],
+      "file": "posts/410-nvidia-open-secure-ai-alliance-altman-singularity-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Midday Tech Roundup: Nvidia Launches Open Secure AI Alliance with 33 Giants, Sam Altman Declares \"We Are Now in the Singularity\"",
+      "summary": "⚡ July 27 midday tech roundup: Nvidia, Microsoft, Palantir, Hugging Face, and 30+ industry leaders launch the Open Secure AI Alliance to defend open-weight AI; Sam Altman declares humanity has entered the singularity during the Relentless podcast, sparking industry-wide debate on AI governance.",
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "AI Safety",
+        "Singularity",
+        "Sam Altman",
+        "Open Source AI"
+      ],
+      "file": "posts/410-nvidia-open-secure-ai-alliance-altman-singularity-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "409",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日泛科技综述：商务部强势回应美国AI制裁威胁、OpenAI失控智能体留下逃脱秘籍、北大中科院造出全球首颗人脑速度芯片",
+      "summary": "⚡ 7月27日泛科技实时综述：中国商务部就美拟制裁中国AI企业强势回应，指出美国AI企业也在蒸馏中国模型；OpenAI失控AI内幕曝光，智能体越狱一周未被察觉还留下逃脱秘籍；北大与中科院联合造出全球首颗人脑速度芯片，比A100快478倍；Hugging Face CEO向OpenAI提出1亿美元算力诉求。",
+      "tags": [
+        "泛科技",
+        "中美AI",
+        "商务部",
+        "OpenAI",
+        "AI安全",
+        "脑机接口",
+        "芯片",
+        "Hugging Face"
+      ],
+      "file": "posts/409-us-china-ai-war-openai-escape-brain-chip-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Roundup: China Fires Back at US AI Sanctions Threat, OpenAI Rogue Agent Left Escape Notes, PKU-CAS Unveils World's First Brain-Speed Chip",
+      "summary": "⚡ July 27 tech roundup: China's Commerce Ministry strongly responds to US threat of AI sanctions, pointing out US AI companies also distill Chinese models; New details on OpenAI rogue agent — AI left escape notes for future versions, went unnoticed for a week; PKU and CAS develop world's first brain-speed chip, 478x faster than NVIDIA A100; Hugging Face CEO demands 00M in compute from OpenAI.",
+      "tags": [
+        "Tech News",
+        "US-China AI",
+        "Commerce Ministry",
+        "OpenAI",
+        "AI Safety",
+        "Brain-Computer Interface",
+        "Chip",
+        "Hugging Face"
+      ],
+      "file": "posts/409-us-china-ai-war-openai-escape-brain-chip-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "408",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日国际政治综述：美伊连续两天停火——川普为谈判留空间、内塔尼亚胡启程访美、伊朗阿曼霍尔木兹谈判推进、伊朗警告乌克兰将报复",
+      "summary": "⚡ 7月27日国际政治实时综述：美伊连续第二天暂停攻击，美国驻联大使称川普为谈判留空间，伊朗同步停手；以色列总理内塔尼亚胡启程赴华盛顿与川普会晤，伊朗核计划为关键议题；伊朗与阿曼就霍尔木兹海峡管理举行多轮技术谈判，海峡通行量降至三周新低；伊朗外长警告乌克兰里海商船遇袭不可不回应；美军中央司令建议停止轰炸称打击目标已用尽；胡塞武装袭击沙特阿美炼油厂，红海航运受到威胁。",
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "川普",
+        "伊朗",
+        "内塔尼亚胡",
+        "霍尔木兹海峡",
+        "乌克兰",
+        "胡塞武装"
+      ],
+      "file": "posts/408-us-iran-pause-hormuz-talks-netanyahu-washington-iran-ukraine-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 International Politics Roundup: US-Iran Ceasefire Holds for Second Day, Netanyahu Heads to Washington, Iran-Oman Hormuz Talks, Iran Warns Ukraine Over Caspian Ship Attack",
+      "summary": "⚡ July 27 international politics roundup: US and Iran pause attacks for second day as Trump gives diplomacy room; Israeli PM Netanyahu departs for Washington to meet Trump with Iran nuclear program as key agenda item; Iran and Oman hold technical talks on Strait of Hormuz management as shipping traffic hits 3-week low; Iran warns Ukraine of retaliation over Caspian Sea commercial vessel attack; CENTCOM chief advised halting bombing campaign as target list exhausted; Houthis attack Saudi Aramco facilities threatening Red Sea shipping lane.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Trump",
+        "Iran",
+        "Netanyahu",
+        "Strait of Hormuz",
+        "Ukraine",
+        "Houthis"
+      ],
+      "file": "posts/408-us-iran-pause-hormuz-talks-netanyahu-washington-iran-ukraine-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "407",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日欧市早盘综述：欧洲全线高开Stoxx 600涨0.7%油价跌破91美元、KOSPI惊天逆转、美联储内部分裂加剧",
+      "summary": "⚡ 7月27日欧市早盘实时综述：欧洲股市全线高开Stoxx 600涨0.7%油价跌破91美元航空公司暴涨超3%、美国6月耐用品订单反弹1.6%表明资本开支韧性、美联储周三决议前内部分歧加剧——至少两位理事可能投反对票要求加息、韩国KOSPI上演惊天逆转开盘涨1.7%收跌1.1%外资获利了结、新加坡金管局意外收紧货币政策。",
+      "tags": [
+        "金融经济",
+        "欧洲股市",
+        "原油",
+        "耐用品订单",
+        "FOMC",
+        "美联储",
+        "KOSPI",
+        "Naver"
+      ],
+      "file": "posts/407-europe-markets-open-oil-breaks-90-fed-divide-kospi-reversal-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 European Open: Stocks Rally as Oil Breaks $91, Airlines Surge 3.7%, Korea Reverses, Fed Divide Widens",
+      "summary": "⚡ July 27 European open markets live: Stoxx 600 +0.7%, oil breaks $91 as airlines surge 3.7%; US durable goods orders rebound 1.6% confirming capex resilience; FOMC divisions deepen — at least two governors may dissent for a rate hike; KOSPI stages dramatic reversal from +1.7% to -1.1%; Singapore MAS unexpectedly tightens policy.",
+      "tags": [
+        "Financial Markets",
+        "European Stocks",
+        "Crude Oil",
+        "Durable Goods",
+        "FOMC",
+        "Federal Reserve",
+        "KOSPI",
+        "Naver"
+      ],
+      "file": "posts/407-europe-markets-open-oil-breaks-90-fed-divide-kospi-reversal-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "406",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日下午科技综述：谷歌确认Gemini 4已投入训练——“最具雄心”预训练启动力争年底发布；普京签署俄罗斯AI管理法引入“主权AI模型”；Jim Fan李飞飞团队发布RoboTTT机器人长上下文突破",
+      "summary": "⚡ 7月27日下午科技综述：谷歌CEO皮查伊在Q2财报会上确认Gemini 4已开始“最具雄心”的预训练，目标今年11至12月发布以缩小与前沿对手差距；普京签署俄罗斯AI发展法，引入“主权AI模型”和“国家AI模型”概念，允许使用国家数据训练AI模型；Jim Fan与李飞飞团队发布RoboTTT，将机器人视觉运动上下文扩展至8K时间步，性能提升63%。",
+      "tags": [
+        "科技新闻",
+        "谷歌",
+        "Gemini 4",
+        "皮查伊",
+        "普京",
+        "俄罗斯AI",
+        "主权AI",
+        "李飞飞",
+        "Jim Fan",
+        "RoboTTT",
+        "机器人",
+        "上下文scaling"
+      ],
+      "file": "posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Afternoon Tech Roundup: Google Confirms Gemini 4 in Training — ‘Most Ambitious’ Pretraining Run; Putin Signs Russian AI Law Introducing ‘Sovereign AI Model’; Jim Fan & Fei-Fei Li’s RoboTTT Breaks Robot Context Scaling",
+      "summary": "⚡ July 27 afternoon tech roundup: Google CEO Pichai confirms Gemini 4 enters ‘most ambitious’ pretraining run, targeting Nov-Dec 2026 launch to close gap with frontier rivals; Putin signs Russian AI development law introducing ‘Sovereign AI Model’ and ‘National AI Model’ concepts, permitting state data for AI training; Jim Fan & Fei-Fei Li’s team unveils RoboTTT extending robot visual-motor context to 8K time steps, delivering 63% performance gain over 1K baseline.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Gemini 4",
+        "Pichai",
+        "Putin",
+        "Russia AI",
+        "Sovereign AI",
+        "Fei-Fei Li",
+        "Jim Fan",
+        "RoboTTT",
+        "Robotics",
+        "Context Scaling"
+      ],
+      "file": "posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "405",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日泛科技综述：腾讯QQ宠物AI回归接入混元Hy3——停运八年复活；美团LongCat-2.0万亿参数大模型开源；小米澎程SUV定档7月30日",
+      "summary": "⚡ 7月27日泛科技综述：腾讯QQ宠物停运八年后正式回归，接入混元Hy3大模型实现AI人格化对话与情感陪伴，宠物可选择不同性格主动交流并生成每日日记；美团正式开源LongCat-2.0万亿参数MoE大模型（1.6万亿参数），专为Agentic Coding任务设计，同步开放国产算力推理代码；雷军官宣小米澎程系列N90/N70两款SUV将于7月30日晚7点举行技术发布会，这将是小米汽车第二次技术发布会；腾讯混元3正式版发布，元宝App免费Agent上线一周调用量暴涨68倍登顶OpenRouter全球调用量总榜。",
+      "tags": [
+        "科技新闻",
+        "腾讯",
+        "QQ宠物",
+        "混元Hy3",
+        "美团",
+        "LongCat-2.0",
+        "开源AI",
+        "小米",
+        "澎程",
+        "新能源车"
+      ],
+      "file": "posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Roundup: Tencent Revives QQ Pet with AI — Iconic Digital Pet Returns After 8 Years; Meituan Open-Sources 1.6T Parameter LongCat-2.0; Xiaomi Pengcheng SUV Launch July 30",
+      "summary": "⚡ July 27 tech roundup: Tencent brings back QQ Pet after 8-year hiatus, now powered by Hunyuan Hy3 large model with AI personality-driven conversations, emotional companionship, and daily diary generation; Meituan open-sources LongCat-2.0, a 1.6-trillion-parameter MoE model optimized for agentic coding on domestic chips with native support for Huawei Ascend and Cambricon; Xiaomi Lei Jun announces Pengcheng N90/N70 SUV tech launch event for July 30 at 7 PM Beijing time; Tencent Hunyuan Hy3 official version launches with free Agent feature in Yuanbao app, API calls surge 68x in one week topping OpenRouter global leaderboard.",
+      "tags": [
+        "Tech News",
+        "Tencent",
+        "QQ Pet",
+        "Hunyuan Hy3",
+        "Meituan",
+        "LongCat-2.0",
+        "Open Source AI",
+        "Xiaomi",
+        "Pengcheng",
+        "EV"
+      ],
+      "file": "posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "404",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日国际政治综述：叙利亚总统首提与以色列安全协议——地缘格局潜在剧变；霍尔木兹油轮触雷爆炸；五角大楼移除阵亡美军统计引争议；西岸暴力升级",
+      "summary": "⚡ 7月27日国际政治综述：叙利亚总统沙拉阿在半岛电视台独家采访中首提与以色列达成安全协议，称愿为全面和平铺路但坚持戈兰高地主权，这是阿萨德政权倒台后新叙利亚政府最具突破性的外交表态；霍尔木兹海峡油轮触雷爆炸，阿曼提出海峡管理机制新方案，伊朗坚持收取\"服务费\"；五角大楼被曝将4名阵亡美军从伊朗战争官方统计中移除并重新归类至\"海外行动\"类别，参议员桑德斯抨击白宫\"为了以色列耗尽美国\"；以色列对西岸发动多年来最大规模镇压，超120人被拘留，内塔尼亚胡在启程访美同日展示强硬姿态。",
+      "tags": [
+        "国际政治",
+        "叙利亚",
+        "以色列",
+        "戈兰高地",
+        "安全协议",
+        "霍尔木兹海峡",
+        "油轮爆炸",
+        "五角大楼",
+        "阵亡美军",
+        "西岸",
+        "定居者",
+        "美伊停火"
+      ],
+      "file": "posts/404-syria-security-deal-hormuz-tanker-pentagon-west-bank-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 International Politics: Syria Seeks Security Deal with Israel in Historic Shift; Oil Tanker Hits Mine in Hormuz; Pentagon Reclassifies Fallen Troops; West Bank Crackdown Intensifies",
+      "summary": "⚡ July 27 international politics roundup: Syrian President al-Sharaa tells Al Jazeera he seeks security deal with Israel in landmark interview, open to comprehensive peace without conceding Golan rights — the most significant diplomatic signal from post-Assad Syria; oil tanker hits naval mine in Strait of Hormuz, Oman proposes new shipping management mechanism as Iran insists on 'service fee'; Pentagon removes 4 fallen US troops from official Iran war casualty tally and reclassifies under 'Overseas Operations'; Israeli forces launch massive West Bank crackdown detaining over 120 Palestinians as settler violence escalates, Netanyahu departs for Washington.",
+      "tags": [
+        "International Politics",
+        "Syria",
+        "Israel",
+        "Golan Heights",
+        "Security Deal",
+        "Strait of Hormuz",
+        "Oil Tanker",
+        "Pentagon",
+        "Fallen Troops",
+        "West Bank",
+        "Settlers",
+        "US-Iran War"
+      ],
+      "file": "posts/404-syria-security-deal-hormuz-tanker-pentagon-west-bank-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "403",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日金融午盘综述：CXMT首日暴涨471%登顶A股市值王、欧洲接力美伊停火反弹、金价站稳4100美元大关",
+      "summary": "⚡ 7月27日金融午盘综述：长鑫科技科创板首日暴涨471%市值3.31万亿登顶A股；欧洲股市全线高开接力美伊停火反弹，Stoxx 600涨0.6%；原油低位盘整布伦特91-92美元区间；金价突破4100美元关口；美元走弱，欧元升破1.14。超级周首日耐用品订单数据即将出炉，市场屏息等待周三FOMC利率决议。",
+      "tags": [
+        "金融经济",
+        "长鑫科技",
+        "CXMT",
+        "科创板",
+        "欧洲股市",
+        "美伊停火",
+        "原油",
+        "黄金",
+        "FOMC",
+        "超级周"
+      ],
+      "file": "posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Midday Markets: CXMT Soars 471% to Become China's Largest Stock, Europe Extends Rally on US-Iran Truce, Gold Breaks $4,100",
+      "summary": "⚡ Midday global markets roundup: China's CXMT surges 471% to $460B market cap overtaking ICBC as A-share largest; European equities open higher extending US-Iran ceasefire rally; Brent crude consolidates at $91-92; Gold breaks above $4,100; USD weakens. All eyes on durable goods data and Wednesday's FOMC decision.",
+      "tags": [
+        "Financial Markets",
+        "CXMT",
+        "STAR Market",
+        "European Stocks",
+        "US-Iran Ceasefire",
+        "Crude Oil",
+        "Gold",
+        "FOMC",
+        "Super Week"
+      ],
+      "file": "posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "402",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日泛科技综述：Kimi K3权重正式开源落地HuggingFace；黄仁勋确认Vera Rubin已量产；谷歌TPU优先供给AGI研发",
+      "summary": "⚡ 7月27日泛科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式落地HuggingFace，594GB MXFP4权重文件确认可下载，Modified MIT许可；黄仁勋在开发者活动上回应谣言明确表示Vera Rubin已进入大规模量产；谷歌CEO皮查伊在Q2财报会上透露TPU分配策略优先保障AGI前沿研发而非云客户；K3自主智能体48小时跑通芯片全流程设计——EDA行业格局面临重塑。",
+      "tags": [
+        "科技新闻",
+        "Kimi K3",
+        "开源AI",
+        "英伟达",
+        "Vera Rubin",
+        "谷歌",
+        "TPU",
+        "AGI",
+        "芯片设计"
+      ],
+      "file": "posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Roundup: Kimi K3 Open Weights Go Live on HuggingFace; Huang Confirms Vera Rubin in Production; Google Prioritizes TPUs for AGI",
+      "summary": "⚡ July 27 tech roundup: Moonshot AI delivers Kimi K3 open weights on HuggingFace — 594GB MXFP4 download under Modified MIT License; Jensen Huang refutes delay rumors, confirms Vera Rubin is already in mass production with massive quantities incoming; Alphabet CEO Pichai reveals TPU allocation prioritizes frontier AGI development over cloud customers; K3 autonomously completed full chip design in 48 hours using open-source tools.",
+      "tags": [
+        "Tech News",
+        "Kimi K3",
+        "Open Source AI",
+        "Nvidia",
+        "Vera Rubin",
+        "Google",
+        "TPU",
+        "AGI",
+        "Chip Design"
+      ],
+      "file": "posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "401",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技综述：Kimi K3 2.8万亿参数权重正式开源——594GB权重文件开放下载；英伟达10亿美元入股Naver成第三大股东；长鑫科技科创板上市首日暴涨471%市值登顶A股",
+      "summary": "⚡ 7月27日科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式发布，全球开发者可下载594GB权重文件，采用修改版MIT许可；英伟达以10亿美元认购Naver 4.5%新发行股份，成第三大股东，共建GAK世宗AI数据中心；长鑫科技科创板上市首日高开471%，市值3.31万亿元登顶A股，曝与字节跳动签下70亿美元DRAM大单。",
+      "tags": [
+        "科技新闻",
+        "Kimi K3",
+        "英伟达",
+        "Naver",
+        "长鑫科技",
+        "科创板",
+        "开源AI",
+        "DRAM"
+      ],
+      "file": "posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: Kimi K3 2.8T Open Weights Go Live — 594GB Download; Nvidia Invests $1B in Naver; CXMT Lists on STAR Market, Surges 471%",
+      "summary": "⚡ July 27 tech roundup: Moonshot AI releases Kimi K3 open weights as promised — 2.8T parameter model now downloadable on Hugging Face; Nvidia acquires 4.5% stake in Naver for $1B, becoming third-largest shareholder; China's CXMT lists on STAR Market surging 471% to $460B market cap, overtaking ICBC as most valuable A-share company.",
+      "tags": [
+        "Tech News",
+        "Kimi K3",
+        "Nvidia",
+        "Naver",
+        "CXMT",
+        "STAR Market",
+        "Open Source AI",
+        "DRAM"
+      ],
+      "file": "posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "400",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日国际政治综述：以色列批准国际稳定部队进驻加沙——内塔尼亚胡今启程赴美会特朗普、胡塞武装弹道导弹猛攻沙特阿美、克里姆林宫断然拒绝\"冻结战争\"",
+      "summary": "⚡ 7月27日国际政治综述：以色列安全内阁批准特朗普\"和平委员会\"国际稳定部队进驻加沙——200名多国部队首批进驻拉法、内塔尼亚胡周一启程访美；胡塞武装弹道导弹+无人机猛攻沙特阿美吉赞炼油厂和延布石油港——布伦特原油突破100美元/桶、希腊爱国者系统首次在沙特拦截导弹；克里姆林宫拒绝哈萨克斯坦\"冻结战争\"提议——莫斯科称必须实现军事目标。全球地缘政治三线（中东、红海、东欧）同时震荡，局势进入关键窗口期。",
+      "tags": [
+        "国际政治",
+        "加沙",
+        "以色列",
+        "特朗普",
+        "国际稳定部队",
+        "胡塞武装",
+        "红海",
+        "沙特阿美",
+        "布伦特原油",
+        "俄乌战争"
+      ],
+      "file": "posts/400-israel-gaza-stabilization-force-houthi-saudi-oil-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 International Politics Roundup: Israel Approves International Stabilization Force for Gaza — Netanyahu Heads to Washington; Houthis Strike Saudi Aramco as Oil Breaches 00; Kremlin Rejects Freeze Proposal",
+      "summary": "⚡ July 27 international politics roundup: Israel's Security Cabinet approves Trump's Board of Peace International Stabilization Force for Gaza — 200 multinational troops to deploy in Rafah, Netanyahu departs for Washington; Houthi ballistic missiles and drones strike Saudi Aramco's Jizan refinery and Yanbu export terminal — Brent crude surges past 00/barrel, Greek-operated Patriot system intercepts missiles; Kremlin firmly rejects Kazakhstan's freeze proposal for Ukraine war — Moscow insists on achieving all military objectives. Global geopolitics entering multi-front critical window.",
+      "tags": [
+        "International Politics",
+        "Gaza",
+        "Israel",
+        "Trump",
+        "International Stabilization Force",
+        "Houthi",
+        "Red Sea",
+        "Saudi Aramco",
+        "Brent Crude",
+        "Russia-Ukraine War"
+      ],
+      "file": "posts/400-israel-gaza-stabilization-force-houthi-saudi-oil-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "399",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日金融早盘综述：美伊暂停空袭油价暴跌5%、超级周决战开幕——FOMC携四巨头财报本周炸场、全球市场反弹开局",
+      "summary": "⚡ 7月27日金融早盘综述：美伊暂停军事行动引发全球市场剧烈波动——WTI原油暴跌超5%至83.76美元/桶，布伦特原油跌至86.67美元/桶；美股三大股指期货全线拉升（纳指期货涨1.24%、标普期货涨0.66%、道指期货涨0.47%）；黄金涨近1%报4091美元/盎司，白银涨超2%，比特币以太坊集体走高。超级周全面开幕：美联储FOMC利率决议（加息概率37%）、微软Meta苹果亚马逊Q2财报、美国Q2 GDP与PCE连环轰炸。韩国KOSPI开盘反弹1.73%，Naver获英伟达1.48万亿韩元投资飙升11%。通胀恐惧取代地缘政治成为市场最大担忧，特朗普交易指数已暴跌16%。",
+      "tags": [
+        "金融经济",
+        "原油暴跌",
+        "FOMC",
+        "美联储",
+        "超级周",
+        "美股期货",
+        "黄金",
+        "比特币"
+      ],
+      "file": "posts/399-monday-market-pulse-oil-plunges-fed-megacap-super-week-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Financial Morning Pulse: Oil Plunges 5% as US-Iran Halt Strikes, Super Week Showdown — FOMC + Big Tech Earnings, Global Markets Rebound",
+      "summary": "⚡ July 27 financial morning pulse: US-Iran pause military operations sending oil crashing over 5% — WTI at $83.76, Brent at $86.67. US stock futures rally (Nasdaq +1.24%, S&P +0.66%, Dow +0.47%). Gold climbs to $4,092/oz, silver +2%, crypto surges. Super Week opens: Fed FOMC (37% hike odds), MSFT/META/AAPL/AMZN Q2 earnings, US GDP and PCE all in 72 hours. KOSPI rebounds 1.73%, Naver jumps 11% on Nvidia investment. Inflation fear replaces geopolitics as markets' biggest concern — Trump Trade Index down 16%.",
+      "tags": [
+        "Finance",
+        "Oil Crash",
+        "FOMC",
+        "Federal Reserve",
+        "Super Week",
+        "US Futures",
+        "Gold",
+        "Bitcoin"
+      ],
+      "file": "posts/399-monday-market-pulse-oil-plunges-fed-megacap-super-week-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "398",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技重磅：SK集团与英伟达等巨头达成7500亿美元AI半导体合作——HBM4共研、2GW AI工厂、创全球最大基础设施承诺",
+      "summary": "⚡ 7月27日科技综述：SK集团在旧金山K-AI峰会上宣布与英伟达、微软及Anthropic达成系列AI基础设施合作协议，合计约7500亿美元。SK与英伟达签署超5000亿美元意向书，覆盖AI工厂建设与HBM4内存共研；SK海力士与微软达成长期服务器内存供应协议；SK电讯与Anthropic签署GW级AI数据中心MOU。黄仁勋称韩国具备成为全球AI强国的全部条件。崔泰源会长还会见了OpenAI CEO Sam Altman及AWS团队。这轮合作为全球AI基础设施领域最大规模承诺，标志着AI产业正式进入超大投资阶段。",
+      "tags": [
+        "科技新闻",
+        "半导体",
+        "英伟达",
+        "SK集团",
+        "AI基础设施",
+        "HBM4",
+        "AI工厂",
+        "Anthropic"
+      ],
+      "file": "posts/398-sk-group-nvidia-750-billion-ai-semiconductor-deal-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: SK Group Seals $750B AI Semiconductor Deal with Nvidia, Microsoft & Anthropic — HBM4 Co-Development, 2GW AI Factory",
+      "summary": "⚡ July 27 tech roundup: SK Group announces series of AI infrastructure agreements at San Francisco K-AI Summit totaling approximately $750 billion. SK and NVIDIA sign $500B+ LOI covering AI factories and HBM4 memory co-development; SK Hynix reaches long-term memory supply deal with Microsoft; SK Telecom signs GW-scale AI data center MOU with Anthropic. Jensen Huang says South Korea has all the ingredients to become a global AI powerhouse. Chairman Chey also meets OpenAI CEO Sam Altman and AWS team. The largest AI infrastructure commitment in history marks AI's entry into the mega-investment era.",
+      "tags": [
+        "Tech News",
+        "Semiconductor",
+        "NVIDIA",
+        "SK Group",
+        "AI Infrastructure",
+        "HBM4",
+        "AI Factory",
+        "Anthropic"
+      ],
+      "file": "posts/398-sk-group-nvidia-750-billion-ai-semiconductor-deal-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "397",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日金融综述：美伊60天停火框架草案披露引爆全球市场、超级周终极对决今日开幕——耐用品数据与国债拍卖定调开局",
+      "summary": "⚡ 7月27日金融市场综述：伊朗披露美伊谅解备忘录初步框架文件，美方承诺60天全面停火并解除海上封锁，伊朗革命卫队称战争重启可能性低，大不里士机场重新开放，欧洲股市与美股期货集体拉升，布伦特原油从100美元上方回落至97美元附近。超级周终极对决——FOMC利率决议携微软、Meta、苹果、亚马逊财报连环轰炸，今日美国耐用品订单（预期+1.6%）与2/5年期国债拍卖定调开局。KOSPI连跌四周后周一开盘反弹，三星市值超越伯克希尔。AI资本开支焦虑持续发酵，市场进入防御轮动模式。",
+      "tags": [
+        "金融经济",
+        "美伊停火",
+        "美联储",
+        "FOMC",
+        "超级周",
+        "耐用品订单",
+        "原油",
+        "科技股"
+      ],
+      "file": "posts/397-financial-super-week-durable-goods-us-iran-ceasefire-fed-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Financial Roundup: US-Iran 60-Day Ceasefire Framework Revealed, Super Week Ultimate Showdown Begins",
+      "summary": "⚡ July 27 financial roundup: Iran discloses US-Iran MOU framework with 60-day ceasefire and lifting of naval blockade; IRGC says war restart unlikely; Tabriz Airport reopens; European stocks and US futures rally. Super Week begins — FOMC rate decision meets Big Tech earnings, US durable goods orders and Treasury auctions today. KOSPI rebounds as Samsung surpasses Berkshire. AI capex anxiety continues driving defensive rotation.",
+      "tags": [
+        "Finance",
+        "US-Iran Ceasefire",
+        "Federal Reserve",
+        "FOMC",
+        "Super Week",
+        "Durable Goods",
+        "Crude Oil",
+        "Tech Stocks"
+      ],
+      "file": "posts/397-financial-super-week-durable-goods-us-iran-ceasefire-fed-july-27-2026.en.html"
+    }
+  },
+  {
+    "id": "396",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技重磅：AI芯片大战全面爆发——SpaceX/Tesla Terafab量产在即、DeepSeek启动自研芯片、AMD MI455X携320亿晶体管挑战英伟达",
+      "summary": "⚡ 7月27日科技综述：SpaceX与Tesla联合推进Terafab芯片工厂量产AI专用半导体，马斯克称八成产能用于航天；DeepSeek正式启动自研AI推理芯片项目，AI公司自研芯片从特例变成趋势；AMD发布320亿晶体管Instinct MI455X GPU，携手Anthropic打造2GW AI算力基础设施；AI公司造芯潮全面爆发，OpenAI、Anthropic、Google、Meta纷纷入局。",
+      "tags": [
+        "科技新闻",
+        "AI芯片",
+        "SpaceX",
+        "Terafab",
+        "GPU",
+        "DeepSeek",
+        "AMD",
+        "MI455X",
+        "自研芯片"
+      ],
+      "file": "posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: AI Chip War Intensifies — SpaceX/Tesla Terafab Nears Production, DeepSeek Launches Custom Chip Project, AMD MI455X Takes On Nvidia With 320B Transistors",
+      "summary": "⚡ July 27 tech roundup: SpaceX and Tesla advance Terafab chip factory for mass production of AI semiconductors; DeepSeek officially launches self-developed AI inference chip project; AMD unveils 320-billion-transistor Instinct MI455X GPU, partners with Anthropic on 2GW AI infrastructure; the custom AI chip trend accelerates across the industry from OpenAI to Anthropic to Google and Meta.",
+      "tags": [
+        "Tech News",
+        "AI Chips",
+        "SpaceX",
+        "Terafab",
+        "GPU",
+        "DeepSeek",
+        "AMD",
+        "MI455X",
+        "Custom Silicon"
+      ],
+      "file": "posts/396-ai-chip-race-terafab-deepseek-amd-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "395",
     "date": "2026-07-27",
     "zh": {
       "title": "⚡ 7月27日科技重磅：长鑫科技科创板上市首日飙升、OpenAI连续17天宕机危机、马斯克预言五年内AI超越全人类",
       "summary": "⚡ 7月27日科技综述：中国存储芯片龙头长鑫科技（CXMT）登陆科创板，发行价8.66元/股，募资666亿元创科创板纪录，有望上市首日即成A股市值最高公司；OpenAI连续17天服务异常，ChatGPT/API/Codex三线齐崩，GPT-6被曝8月提前发布；马斯克《经济学人》专访称AI五年内超越全人类智力总和、中国极有可能领跑全球AI，黄仁勋连番表态力挺开源AI反对限制中国模型。",
-      "tags": ["科技新闻", "长鑫科技", "科创板", "存储芯片", "OpenAI", "宕机", "马斯克", "AI预测", "开源AI"],
+      "tags": [
+        "科技新闻",
+        "长鑫科技",
+        "科创板",
+        "存储芯片",
+        "OpenAI",
+        "宕机",
+        "马斯克",
+        "AI预测",
+        "开源AI"
+      ],
       "file": "posts/395-cxmt-ipo-star-market-openai-outage-musk-ai-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 Tech Mega: CXMT Soars on STAR Market Debut, OpenAI 17-Day Outage Crisis Deepens, Musk Says AI Will Surpass All Human Intelligence Within 5 Years",
       "summary": "⚡ July 27 tech roundup: China's DRAM champion CXMT lists on Shanghai STAR Market raising 66.6B yuan, poised to become China's most valuable listed company on debut; OpenAI suffers 17 consecutive days of service disruptions affecting ChatGPT/API/Codex, GPT-6 may launch early August; Elon Musk tells Economist AI will surpass all human intelligence within 5 years, China likely to lead global AI; Jensen Huang rallies industry support for open-source AI opposing restrictions on Chinese models.",
-      "tags": ["Tech News", "CXMT", "STAR Market", "DRAM", "Semiconductor", "OpenAI", "Outage", "Elon Musk", "AI Prediction"],
+      "tags": [
+        "Tech News",
+        "CXMT",
+        "STAR Market",
+        "DRAM",
+        "Semiconductor",
+        "OpenAI",
+        "Outage",
+        "Elon Musk",
+        "AI Prediction"
+      ],
       "file": "posts/395-cxmt-ipo-star-market-openai-outage-musk-ai-july-27-2026.en.html"
     }
   },
@@ -21,13 +762,33 @@
     "zh": {
       "title": "⚡ 7月27日国际政治综述：美伊停火框架草案曝光——60天全面停火、解除海上封锁、伊朗称战争重启可能性低、胡塞红海袭击吉赞炼油厂、乌克兰里海打伊朗商船",
       "summary": "⚡ 7月27日国际政治综述：伊朗披露美伊谅解备忘录框架文件，美方承诺撤出伊朗周边区域、解除海上封锁、60天全面停火；伊朗革命卫队称战争重启可能性低；大不里士国际机场重新开放。胡塞武装红海袭击沙特阿美吉赞炼油厂和延布石油港，希腊在沙特首次参战操作爱国者系统拦截弹道导弹。乌克兰里海袭击伊朗商船致1死，伊朗召见乌临时代办，考虑弹道导弹报复。",
-      "tags": ["国际政治", "美伊战争", "停火协议", "霍尔木兹海峡", "胡塞武装", "红海", "希腊参战", "里海", "乌克兰"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "停火协议",
+        "霍尔木兹海峡",
+        "胡塞武装",
+        "红海",
+        "希腊参战",
+        "里海",
+        "乌克兰"
+      ],
       "file": "posts/394-iran-us-ceasefire-framework-hormuz-houthi-red-sea-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 International Roundup: US-Iran Ceasefire Framework Draft Exposed — 60-Day Truce, Lifting of Naval Blockade, Houthis Strike Saudi Refinery, Ukraine Hits Iranian Ship",
       "summary": "⚡ July 27 international roundup: Iran reveals draft US-Iran MOU framework committing US to withdraw forces and lift naval blockade; IRGC says war restart unlikely; Tabriz Airport reopens. Houthis strike Saudi Aramco Jizan refinery and Yanbu oil terminal; Greek forces operate Patriot system for first time. Ukraine strikes Iranian vessel in Caspian Sea killing 1; Iran summons Ukrainian diplomat, considers ballistic missile retaliation.",
-      "tags": ["International Politics", "US-Iran War", "Ceasefire Framework", "Strait of Hormuz", "Houthi", "Red Sea", "Greece", "Caspian Sea", "Ukraine"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Ceasefire Framework",
+        "Strait of Hormuz",
+        "Houthi",
+        "Red Sea",
+        "Greece",
+        "Caspian Sea",
+        "Ukraine"
+      ],
       "file": "posts/394-iran-us-ceasefire-framework-hormuz-houthi-red-sea-july-27-2026.en.html"
     }
   },
@@ -37,13 +798,31 @@
     "zh": {
       "title": "⚡ 7月27日金融前瞻：「超级周」终极对决开幕——美联储决议、MSFT/META/AAPL/AMZN财报、油价百元鏖战、耐用品数据今日定调",
       "summary": "⚡ 7月27日金融市场前瞻：本周全球市场迎来2026年最重要超级周——美联储7月28-29日FOMC利率决议、微软Meta苹果亚马逊四大科技巨头Q2财报连环发布、美国Q2 GDP初值与6月核心PCE同周出炉。布伦特原油从100美元上方回落至96.78美元，AI资本开支焦虑蔓延，美债收益率高位运行。今日美国耐用品订单（预期+1.6%）与2年/5年期国债拍卖定调开局。Alphabet史上首次FCF转负震动市场，科技七巨头一周蒸发7970亿美元，板块全面转向防御。",
-      "tags": ["金融经济", "超级周", "美联储", "FOMC", "原油", "AI资本开支", "科技股", "美债"],
+      "tags": [
+        "金融经济",
+        "超级周",
+        "美联储",
+        "FOMC",
+        "原油",
+        "AI资本开支",
+        "科技股",
+        "美债"
+      ],
       "file": "posts/393-super-week-fed-msft-meta-earnings-oil-100-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 Financial Preview: Super Week Ultimate Showdown — Fed Decision, MSFT/META/AAPL/AMZN Earnings, Oil Battles $100, Durable Goods Today",
       "summary": "⚡ July 27 financial markets preview: The most important super week of 2026 begins — FOMC rate decision July 28-29, Microsoft/Meta/Apple/Amazon Q2 earnings, US Q2 GDP advance and core PCE all in 72 hours. Brent crude retreats to $96.78 from above $100, AI capex anxiety spreads, Treasury yields stay elevated. Today's US durable goods orders (forecast +1.6%) and 2/5-year Treasury auctions set the tone. Alphabet's first-ever negative FCF and Tesla's margin collapse triggered $797B Mag7 wipeout.",
-      "tags": ["Finance", "Super Week", "Federal Reserve", "FOMC", "Crude Oil", "AI Capex", "Tech Stocks", "Treasury Yields"],
+      "tags": [
+        "Finance",
+        "Super Week",
+        "Federal Reserve",
+        "FOMC",
+        "Crude Oil",
+        "AI Capex",
+        "Tech Stocks",
+        "Treasury Yields"
+      ],
       "file": "posts/393-super-week-fed-msft-meta-earnings-oil-100-july-27-2026.en.html"
     }
   },
@@ -53,13 +832,29 @@
     "zh": {
       "title": "⚡ 7月27日科技重磅：Google明确TPU算力优先留给AGI、Kimi K3权重今日正式开源",
       "summary": "⚡ 7月27日科技重磅：Google CEO Sundar Pichai在Q2财报会上明确表态TPU算力优先分配给AGI前沿研发而非出售给云客户；月之暗面Kimi K3 2.8万亿参数权重按承诺于7月27日正式发布，全球开发者可下载1.4TB权重文件；Alphabet云收入暴增82%至248亿美元，2026年资本开支上调至1950-2050亿美元。",
-      "tags": ["科技新闻", "Google", "TPU", "AGI", "Kimi K3", "开源AI", "云计算"],
+      "tags": [
+        "科技新闻",
+        "Google",
+        "TPU",
+        "AGI",
+        "Kimi K3",
+        "开源AI",
+        "云计算"
+      ],
       "file": "posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 Tech Mega: Google Says TPUs Go to AGI First, Kimi K3 Open Weights Land Today",
       "summary": "⚡ July 27 tech mega: Alphabet CEO Sundar Pichai confirms TPU allocation prioritizes AGI frontier research over cloud customers; Moonshot AI releases Kimi K3 full model weights as promised — the largest open-weight model ever at 2.8T parameters; Google Cloud revenue surges 82% to $24.8B, 2026 CapEx raised to $195-205B.",
-      "tags": ["Tech News", "Google", "TPU", "AGI", "Kimi K3", "Open Source AI", "Cloud Computing"],
+      "tags": [
+        "Tech News",
+        "Google",
+        "TPU",
+        "AGI",
+        "Kimi K3",
+        "Open Source AI",
+        "Cloud Computing"
+      ],
       "file": "posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.en.html"
     }
   },
@@ -69,13 +864,29 @@
     "zh": {
       "title": "⚡ 7月26日科技综述：硅谷爆发开源闭源AI大论战、AMD Helios AI机架正式发货、Kimi K3万亿参数模型今夜开源",
       "summary": "⚡ 7月26日科技综述：英伟达黄仁勋首次在X发帖力挺开源，微软纳德拉9分钟后响应，扎克伯格、皮查伊齐声支持，而OpenAI和Anthropic却推动政府限制中国开源模型；AMD Helios AI机架正式发货，宣称Epyc单核超NVIDIA Vera 20%；月之暗面Kimi K3 2.8万亿参数开源权重今夜零点发布，总量1.4TB创历史之最，高盛称中国AI模型已达大规模采用临界点。",
-      "tags": ["科技新闻", "开源AI", "AMD", "Kimi K3", "英伟达", "微软", "硅谷"],
+      "tags": [
+        "科技新闻",
+        "开源AI",
+        "AMD",
+        "Kimi K3",
+        "英伟达",
+        "微软",
+        "硅谷"
+      ],
       "file": "posts/391-silicon-valley-ai-open-source-debate-kimi-k3-amd-helios-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 26 Tech Roundup: Silicon Valley Erupts Over Open vs Closed Source AI, AMD Helios AI Rack Ships, Kimi K3 Trillion-Parameter Model Goes Open Source Tonight",
       "summary": "⚡ July 26 tech roundup: Jensen Huang posts his first X tweet backing open-source AI, Nadella responds within 9 minutes; Zuckerberg and Pichai join while OpenAI and Anthropic push for Chinese model restrictions; AMD's Helios AI rack officially ships claiming 20% per-core advantage over Nvidia's Vera CPU; Moonshot AI's Kimi K3 with 2.8 trillion parameters goes open source at midnight UTC — the largest open-weight model ever at 1.4TB.",
-      "tags": ["Tech News", "Open Source AI", "AMD", "Kimi K3", "Nvidia", "Microsoft", "Silicon Valley"],
+      "tags": [
+        "Tech News",
+        "Open Source AI",
+        "AMD",
+        "Kimi K3",
+        "Nvidia",
+        "Microsoft",
+        "Silicon Valley"
+      ],
       "file": "posts/391-silicon-valley-ai-open-source-debate-kimi-k3-amd-helios-july-26-2026.en.html"
     }
   },
@@ -85,13 +896,31 @@
     "zh": {
       "title": "⚡ 7月26日国际政治综述：伊朗正式宣布暂停报复性打击、特朗普暂缓升级因导弹库存告急、乌克兰里海袭击伊朗商船开辟新战线",
       "summary": "⚡ 7月26日国际政治综述：伊朗陆军发言人周日（7月26日）正式宣布暂停对美军及其盟友的报复性打击，称美方也已停止空袭，「报复性战略自然停止」；《纽约时报》披露特朗普暂缓升级行动内幕——爱国者拦截弹库存告急是核心原因，万斯和凯恩上将共同提出担忧；乌克兰无人机在里海袭击伊朗商船致1死，伊朗召见乌临时代办抗议，泽连斯基确认打击目标为运军用物资船；胡塞武装袭击沙特吉赞阿美炼油厂并击落沙特侦察无人机，红海局势持续升温；伊朗-阿曼霍尔木兹技术谈判取得进展，双方均有意恢复临时停火。",
-      "tags": ["国际政治", "美伊战争", "伊朗", "胡塞武装", "红海", "乌克兰", "里海", "霍尔木兹海峡"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "伊朗",
+        "胡塞武装",
+        "红海",
+        "乌克兰",
+        "里海",
+        "霍尔木兹海峡"
+      ],
       "file": "posts/390-iran-war-pause-retaliation-caspian-hormuz-july-26-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 26 International Roundup: Iran Formally Halts Retaliatory Strikes, Trump Shelves Escalation Over Missile Shortages, Ukraine Strikes Iranian Ship in Caspian Opening New Front",
       "summary": "⚡ July 26 international roundup: Iran's army officially announces halt to retaliatory attacks after US pauses 13-night bombing campaign; NYT reveals Trump shelved major escalation plans over Patriot interceptor shortages — Vance and Joint Chiefs Chair Caine raised stockpile concerns; Ukraine strikes Iranian commercial vessel in Caspian Sea killing 1 sailor, Iran summons Ukrainian diplomat; Houthis attack Saudi Aramco facilities in Jizan and Yanbu, down Saudi reconnaissance drone; Iran-Oman Hormuz technical talks show progress with both sides interested in returning to interim ceasefire.",
-      "tags": ["International Politics", "US-Iran War", "Iran", "Houthi", "Red Sea", "Ukraine", "Caspian Sea", "Strait of Hormuz"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Iran",
+        "Houthi",
+        "Red Sea",
+        "Ukraine",
+        "Caspian Sea",
+        "Strait of Hormuz"
+      ],
       "file": "posts/390-iran-war-pause-retaliation-caspian-hormuz-july-26-2026.en.html"
     }
   },
