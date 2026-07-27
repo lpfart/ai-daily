@@ -1,17 +1,81 @@
 [
   {
+    "id": "405",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日泛科技综述：腾讯QQ宠物AI回归接入混元Hy3——停运八年复活；美团LongCat-2.0万亿参数大模型开源；小米澎程SUV定档7月30日",
+      "summary": "⚡ 7月27日泛科技综述：腾讯QQ宠物停运八年后正式回归，接入混元Hy3大模型实现AI人格化对话与情感陪伴，宠物可选择不同性格主动交流并生成每日日记；美团正式开源LongCat-2.0万亿参数MoE大模型（1.6万亿参数），专为Agentic Coding任务设计，同步开放国产算力推理代码；雷军官宣小米澎程系列N90/N70两款SUV将于7月30日晚7点举行技术发布会，这将是小米汽车第二次技术发布会；腾讯混元3正式版发布，元宝App免费Agent上线一周调用量暴涨68倍登顶OpenRouter全球调用量总榜。",
+      "tags": [
+        "科技新闻",
+        "腾讯",
+        "QQ宠物",
+        "混元Hy3",
+        "美团",
+        "LongCat-2.0",
+        "开源AI",
+        "小米",
+        "澎程",
+        "新能源车"
+      ],
+      "file": "posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Roundup: Tencent Revives QQ Pet with AI — Iconic Digital Pet Returns After 8 Years; Meituan Open-Sources 1.6T Parameter LongCat-2.0; Xiaomi Pengcheng SUV Launch July 30",
+      "summary": "⚡ July 27 tech roundup: Tencent brings back QQ Pet after 8-year hiatus, now powered by Hunyuan Hy3 large model with AI personality-driven conversations, emotional companionship, and daily diary generation; Meituan open-sources LongCat-2.0, a 1.6-trillion-parameter MoE model optimized for agentic coding on domestic chips with native support for Huawei Ascend and Cambricon; Xiaomi Lei Jun announces Pengcheng N90/N70 SUV tech launch event for July 30 at 7 PM Beijing time; Tencent Hunyuan Hy3 official version launches with free Agent feature in Yuanbao app, API calls surge 68x in one week topping OpenRouter global leaderboard.",
+      "tags": [
+        "Tech News",
+        "Tencent",
+        "QQ Pet",
+        "Hunyuan Hy3",
+        "Meituan",
+        "LongCat-2.0",
+        "Open Source AI",
+        "Xiaomi",
+        "Pengcheng",
+        "EV"
+      ],
+      "file": "posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "404",
     "date": "2026-07-27",
     "zh": {
       "title": "⚡ 7月27日国际政治综述：叙利亚总统首提与以色列安全协议——地缘格局潜在剧变；霍尔木兹油轮触雷爆炸；五角大楼移除阵亡美军统计引争议；西岸暴力升级",
       "summary": "⚡ 7月27日国际政治综述：叙利亚总统沙拉阿在半岛电视台独家采访中首提与以色列达成安全协议，称愿为全面和平铺路但坚持戈兰高地主权，这是阿萨德政权倒台后新叙利亚政府最具突破性的外交表态；霍尔木兹海峡油轮触雷爆炸，阿曼提出海峡管理机制新方案，伊朗坚持收取\"服务费\"；五角大楼被曝将4名阵亡美军从伊朗战争官方统计中移除并重新归类至\"海外行动\"类别，参议员桑德斯抨击白宫\"为了以色列耗尽美国\"；以色列对西岸发动多年来最大规模镇压，超120人被拘留，内塔尼亚胡在启程访美同日展示强硬姿态。",
-      "tags": ["国际政治", "叙利亚", "以色列", "戈兰高地", "安全协议", "霍尔木兹海峡", "油轮爆炸", "五角大楼", "阵亡美军", "西岸", "定居者", "美伊停火"],
+      "tags": [
+        "国际政治",
+        "叙利亚",
+        "以色列",
+        "戈兰高地",
+        "安全协议",
+        "霍尔木兹海峡",
+        "油轮爆炸",
+        "五角大楼",
+        "阵亡美军",
+        "西岸",
+        "定居者",
+        "美伊停火"
+      ],
       "file": "posts/404-syria-security-deal-hormuz-tanker-pentagon-west-bank-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 International Politics: Syria Seeks Security Deal with Israel in Historic Shift; Oil Tanker Hits Mine in Hormuz; Pentagon Reclassifies Fallen Troops; West Bank Crackdown Intensifies",
       "summary": "⚡ July 27 international politics roundup: Syrian President al-Sharaa tells Al Jazeera he seeks security deal with Israel in landmark interview, open to comprehensive peace without conceding Golan rights — the most significant diplomatic signal from post-Assad Syria; oil tanker hits naval mine in Strait of Hormuz, Oman proposes new shipping management mechanism as Iran insists on 'service fee'; Pentagon removes 4 fallen US troops from official Iran war casualty tally and reclassifies under 'Overseas Operations'; Israeli forces launch massive West Bank crackdown detaining over 120 Palestinians as settler violence escalates, Netanyahu departs for Washington.",
-      "tags": ["International Politics", "Syria", "Israel", "Golan Heights", "Security Deal", "Strait of Hormuz", "Oil Tanker", "Pentagon", "Fallen Troops", "West Bank", "Settlers", "US-Iran War"],
+      "tags": [
+        "International Politics",
+        "Syria",
+        "Israel",
+        "Golan Heights",
+        "Security Deal",
+        "Strait of Hormuz",
+        "Oil Tanker",
+        "Pentagon",
+        "Fallen Troops",
+        "West Bank",
+        "Settlers",
+        "US-Iran War"
+      ],
       "file": "posts/404-syria-security-deal-hormuz-tanker-pentagon-west-bank-july-27-2026.en.html"
     }
   },
@@ -21,13 +85,34 @@
     "zh": {
       "title": "⚡ 7月27日金融午盘综述：CXMT首日暴涨471%登顶A股市值王、欧洲接力美伊停火反弹、金价站稳4100美元大关",
       "summary": "⚡ 7月27日金融午盘综述：长鑫科技科创板首日暴涨471%市值3.31万亿登顶A股；欧洲股市全线高开接力美伊停火反弹，Stoxx 600涨0.6%；原油低位盘整布伦特91-92美元区间；金价突破4100美元关口；美元走弱，欧元升破1.14。超级周首日耐用品订单数据即将出炉，市场屏息等待周三FOMC利率决议。",
-      "tags": ["金融经济", "长鑫科技", "CXMT", "科创板", "欧洲股市", "美伊停火", "原油", "黄金", "FOMC", "超级周"],
+      "tags": [
+        "金融经济",
+        "长鑫科技",
+        "CXMT",
+        "科创板",
+        "欧洲股市",
+        "美伊停火",
+        "原油",
+        "黄金",
+        "FOMC",
+        "超级周"
+      ],
       "file": "posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 Midday Markets: CXMT Soars 471% to Become China's Largest Stock, Europe Extends Rally on US-Iran Truce, Gold Breaks $4,100",
       "summary": "⚡ Midday global markets roundup: China's CXMT surges 471% to $460B market cap overtaking ICBC as A-share largest; European equities open higher extending US-Iran ceasefire rally; Brent crude consolidates at $91-92; Gold breaks above $4,100; USD weakens. All eyes on durable goods data and Wednesday's FOMC decision.",
-      "tags": ["Financial Markets", "CXMT", "STAR Market", "European Stocks", "US-Iran Ceasefire", "Crude Oil", "Gold", "FOMC", "Super Week"],
+      "tags": [
+        "Financial Markets",
+        "CXMT",
+        "STAR Market",
+        "European Stocks",
+        "US-Iran Ceasefire",
+        "Crude Oil",
+        "Gold",
+        "FOMC",
+        "Super Week"
+      ],
       "file": "posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.en.html"
     }
   },
@@ -37,13 +122,33 @@
     "zh": {
       "title": "⚡ 7月27日泛科技综述：Kimi K3权重正式开源落地HuggingFace；黄仁勋确认Vera Rubin已量产；谷歌TPU优先供给AGI研发",
       "summary": "⚡ 7月27日泛科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式落地HuggingFace，594GB MXFP4权重文件确认可下载，Modified MIT许可；黄仁勋在开发者活动上回应谣言明确表示Vera Rubin已进入大规模量产；谷歌CEO皮查伊在Q2财报会上透露TPU分配策略优先保障AGI前沿研发而非云客户；K3自主智能体48小时跑通芯片全流程设计——EDA行业格局面临重塑。",
-      "tags": ["科技新闻", "Kimi K3", "开源AI", "英伟达", "Vera Rubin", "谷歌", "TPU", "AGI", "芯片设计"],
+      "tags": [
+        "科技新闻",
+        "Kimi K3",
+        "开源AI",
+        "英伟达",
+        "Vera Rubin",
+        "谷歌",
+        "TPU",
+        "AGI",
+        "芯片设计"
+      ],
       "file": "posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 Tech Roundup: Kimi K3 Open Weights Go Live on HuggingFace; Huang Confirms Vera Rubin in Production; Google Prioritizes TPUs for AGI",
       "summary": "⚡ July 27 tech roundup: Moonshot AI delivers Kimi K3 open weights on HuggingFace — 594GB MXFP4 download under Modified MIT License; Jensen Huang refutes delay rumors, confirms Vera Rubin is already in mass production with massive quantities incoming; Alphabet CEO Pichai reveals TPU allocation prioritizes frontier AGI development over cloud customers; K3 autonomously completed full chip design in 48 hours using open-source tools.",
-      "tags": ["Tech News", "Kimi K3", "Open Source AI", "Nvidia", "Vera Rubin", "Google", "TPU", "AGI", "Chip Design"],
+      "tags": [
+        "Tech News",
+        "Kimi K3",
+        "Open Source AI",
+        "Nvidia",
+        "Vera Rubin",
+        "Google",
+        "TPU",
+        "AGI",
+        "Chip Design"
+      ],
       "file": "posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.en.html"
     }
   },
@@ -53,13 +158,31 @@
     "zh": {
       "title": "⚡ 7月27日科技综述：Kimi K3 2.8万亿参数权重正式开源——594GB权重文件开放下载；英伟达10亿美元入股Naver成第三大股东；长鑫科技科创板上市首日暴涨471%市值登顶A股",
       "summary": "⚡ 7月27日科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式发布，全球开发者可下载594GB权重文件，采用修改版MIT许可；英伟达以10亿美元认购Naver 4.5%新发行股份，成第三大股东，共建GAK世宗AI数据中心；长鑫科技科创板上市首日高开471%，市值3.31万亿元登顶A股，曝与字节跳动签下70亿美元DRAM大单。",
-      "tags": ["科技新闻", "Kimi K3", "英伟达", "Naver", "长鑫科技", "科创板", "开源AI", "DRAM"],
+      "tags": [
+        "科技新闻",
+        "Kimi K3",
+        "英伟达",
+        "Naver",
+        "长鑫科技",
+        "科创板",
+        "开源AI",
+        "DRAM"
+      ],
       "file": "posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 Tech Mega: Kimi K3 2.8T Open Weights Go Live — 594GB Download; Nvidia Invests $1B in Naver; CXMT Lists on STAR Market, Surges 471%",
       "summary": "⚡ July 27 tech roundup: Moonshot AI releases Kimi K3 open weights as promised — 2.8T parameter model now downloadable on Hugging Face; Nvidia acquires 4.5% stake in Naver for $1B, becoming third-largest shareholder; China's CXMT lists on STAR Market surging 471% to $460B market cap, overtaking ICBC as most valuable A-share company.",
-      "tags": ["Tech News", "Kimi K3", "Nvidia", "Naver", "CXMT", "STAR Market", "Open Source AI", "DRAM"],
+      "tags": [
+        "Tech News",
+        "Kimi K3",
+        "Nvidia",
+        "Naver",
+        "CXMT",
+        "STAR Market",
+        "Open Source AI",
+        "DRAM"
+      ],
       "file": "posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.en.html"
     }
   },
