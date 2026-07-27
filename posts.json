@@ -1,5 +1,21 @@
 [
   {
+    "id": "401",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技综述：Kimi K3 2.8万亿参数权重正式开源——594GB权重文件开放下载；英伟达10亿美元入股Naver成第三大股东；长鑫科技科创板上市首日暴涨471%市值登顶A股",
+      "summary": "⚡ 7月27日科技综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式发布，全球开发者可下载594GB权重文件，采用修改版MIT许可；英伟达以10亿美元认购Naver 4.5%新发行股份，成第三大股东，共建GAK世宗AI数据中心；长鑫科技科创板上市首日高开471%，市值3.31万亿元登顶A股，曝与字节跳动签下70亿美元DRAM大单。",
+      "tags": ["科技新闻", "Kimi K3", "英伟达", "Naver", "长鑫科技", "科创板", "开源AI", "DRAM"],
+      "file": "posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: Kimi K3 2.8T Open Weights Go Live — 594GB Download; Nvidia Invests $1B in Naver; CXMT Lists on STAR Market, Surges 471%",
+      "summary": "⚡ July 27 tech roundup: Moonshot AI releases Kimi K3 open weights as promised — 2.8T parameter model now downloadable on Hugging Face; Nvidia acquires 4.5% stake in Naver for $1B, becoming third-largest shareholder; China's CXMT lists on STAR Market surging 471% to $460B market cap, overtaking ICBC as most valuable A-share company.",
+      "tags": ["Tech News", "Kimi K3", "Nvidia", "Naver", "CXMT", "STAR Market", "Open Source AI", "DRAM"],
+      "file": "posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "400",
     "date": "2026-07-27",
     "zh": {
