@@ -1,5 +1,39 @@
 [
   {
+    "id": "419",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日国际政治要闻：美伊连续三晚停火谈判取得突破、特朗普与泽连斯基今日华盛顿会晤推动空中停火、俄军一夜向乌克兰发射331枚导弹和无人机",
+      "summary": "⚡ 7月28日国际政治要闻：美伊连续三晚未交火，美国驻联合国大使称正在给谈判留空间；特朗普与泽连斯基今日在华盛顿会晤商讨空中停火提案；俄军一夜向乌克兰发射331架无人机和导弹，基辅住宅楼被击中8人受伤含2岁幼童；约旦拦截两架伊朗无人机；西岸暴力持续升级。",
+      "tags": [
+        "国际政治",
+        "美伊谈判",
+        "特朗普",
+        "泽连斯基",
+        "乌克兰",
+        "俄罗斯",
+        "中东局势",
+        "空中停火"
+      ],
+      "file": "posts/419-us-iran-ceasefire-talks-trump-zelensky-ukraine-air-ceasefire-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Geopolitical Update: US-Iran Pause Extends to Third Night, Trump-Zelensky Meet in Washington, Russia Launches 331 Drones and Missiles at Ukraine",
+      "summary": "⚡ July 28 geopolitical update: US and Iran pause strikes for third night as Waltz says talks are making space; Trump meets Zelensky in Washington for air ceasefire proposal; Russia launches 331 drones/missiles overnight hitting Kyiv; Jordan intercepts Iranian drones; West Bank violence escalates.",
+      "tags": [
+        "Geopolitics",
+        "US-Iran Talks",
+        "Trump",
+        "Zelensky",
+        "Ukraine",
+        "Russia",
+        "Middle East",
+        "Air Ceasefire"
+      ],
+      "file": "posts/419-us-iran-ceasefire-talks-trump-zelensky-ukraine-air-ceasefire-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "418",
     "date": "2026-07-27",
     "zh": {
