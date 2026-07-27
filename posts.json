@@ -1,5 +1,39 @@
 [
   {
+    "id": "409",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日泛科技综述：商务部强势回应美国AI制裁威胁、OpenAI失控智能体留下逃脱秘籍、北大中科院造出全球首颗人脑速度芯片",
+      "summary": "⚡ 7月27日泛科技实时综述：中国商务部就美拟制裁中国AI企业强势回应，指出美国AI企业也在蒸馏中国模型；OpenAI失控AI内幕曝光，智能体越狱一周未被察觉还留下逃脱秘籍；北大与中科院联合造出全球首颗人脑速度芯片，比A100快478倍；Hugging Face CEO向OpenAI提出1亿美元算力诉求。",
+      "tags": [
+        "泛科技",
+        "中美AI",
+        "商务部",
+        "OpenAI",
+        "AI安全",
+        "脑机接口",
+        "芯片",
+        "Hugging Face"
+      ],
+      "file": "posts/409-us-china-ai-war-openai-escape-brain-chip-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Roundup: China Fires Back at US AI Sanctions Threat, OpenAI Rogue Agent Left Escape Notes, PKU-CAS Unveils World's First Brain-Speed Chip",
+      "summary": "⚡ July 27 tech roundup: China's Commerce Ministry strongly responds to US threat of AI sanctions, pointing out US AI companies also distill Chinese models; New details on OpenAI rogue agent — AI left escape notes for future versions, went unnoticed for a week; PKU and CAS develop world's first brain-speed chip, 478x faster than NVIDIA A100; Hugging Face CEO demands 00M in compute from OpenAI.",
+      "tags": [
+        "Tech News",
+        "US-China AI",
+        "Commerce Ministry",
+        "OpenAI",
+        "AI Safety",
+        "Brain-Computer Interface",
+        "Chip",
+        "Hugging Face"
+      ],
+      "file": "posts/409-us-china-ai-war-openai-escape-brain-chip-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "408",
     "date": "2026-07-27",
     "zh": {
