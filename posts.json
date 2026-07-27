@@ -1,5 +1,39 @@
 [
   {
+    "id": "407",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日欧市早盘综述：欧洲全线高开Stoxx 600涨0.7%油价跌破91美元、KOSPI惊天逆转、美联储内部分裂加剧",
+      "summary": "⚡ 7月27日欧市早盘实时综述：欧洲股市全线高开Stoxx 600涨0.7%油价跌破91美元航空公司暴涨超3%、美国6月耐用品订单反弹1.6%表明资本开支韧性、美联储周三决议前内部分歧加剧——至少两位理事可能投反对票要求加息、韩国KOSPI上演惊天逆转开盘涨1.7%收跌1.1%外资获利了结、新加坡金管局意外收紧货币政策。",
+      "tags": [
+        "金融经济",
+        "欧洲股市",
+        "原油",
+        "耐用品订单",
+        "FOMC",
+        "美联储",
+        "KOSPI",
+        "Naver"
+      ],
+      "file": "posts/407-europe-markets-open-oil-breaks-90-fed-divide-kospi-reversal-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 European Open: Stocks Rally as Oil Breaks $91, Airlines Surge 3.7%, Korea Reverses, Fed Divide Widens",
+      "summary": "⚡ July 27 European open markets live: Stoxx 600 +0.7%, oil breaks $91 as airlines surge 3.7%; US durable goods orders rebound 1.6% confirming capex resilience; FOMC divisions deepen — at least two governors may dissent for a rate hike; KOSPI stages dramatic reversal from +1.7% to -1.1%; Singapore MAS unexpectedly tightens policy.",
+      "tags": [
+        "Financial Markets",
+        "European Stocks",
+        "Crude Oil",
+        "Durable Goods",
+        "FOMC",
+        "Federal Reserve",
+        "KOSPI",
+        "Naver"
+      ],
+      "file": "posts/407-europe-markets-open-oil-breaks-90-fed-divide-kospi-reversal-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "406",
     "date": "2026-07-27",
     "zh": {
