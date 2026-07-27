@@ -1,5 +1,39 @@
 [
   {
+    "id": "408",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日国际政治综述：美伊连续两天停火——川普为谈判留空间、内塔尼亚胡启程访美、伊朗阿曼霍尔木兹谈判推进、伊朗警告乌克兰将报复",
+      "summary": "⚡ 7月27日国际政治实时综述：美伊连续第二天暂停攻击，美国驻联大使称川普为谈判留空间，伊朗同步停手；以色列总理内塔尼亚胡启程赴华盛顿与川普会晤，伊朗核计划为关键议题；伊朗与阿曼就霍尔木兹海峡管理举行多轮技术谈判，海峡通行量降至三周新低；伊朗外长警告乌克兰里海商船遇袭不可不回应；美军中央司令建议停止轰炸称打击目标已用尽；胡塞武装袭击沙特阿美炼油厂，红海航运受到威胁。",
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "川普",
+        "伊朗",
+        "内塔尼亚胡",
+        "霍尔木兹海峡",
+        "乌克兰",
+        "胡塞武装"
+      ],
+      "file": "posts/408-us-iran-pause-hormuz-talks-netanyahu-washington-iran-ukraine-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 International Politics Roundup: US-Iran Ceasefire Holds for Second Day, Netanyahu Heads to Washington, Iran-Oman Hormuz Talks, Iran Warns Ukraine Over Caspian Ship Attack",
+      "summary": "⚡ July 27 international politics roundup: US and Iran pause attacks for second day as Trump gives diplomacy room; Israeli PM Netanyahu departs for Washington to meet Trump with Iran nuclear program as key agenda item; Iran and Oman hold technical talks on Strait of Hormuz management as shipping traffic hits 3-week low; Iran warns Ukraine of retaliation over Caspian Sea commercial vessel attack; CENTCOM chief advised halting bombing campaign as target list exhausted; Houthis attack Saudi Aramco facilities threatening Red Sea shipping lane.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Trump",
+        "Iran",
+        "Netanyahu",
+        "Strait of Hormuz",
+        "Ukraine",
+        "Houthis"
+      ],
+      "file": "posts/408-us-iran-pause-hormuz-talks-netanyahu-washington-iran-ukraine-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "407",
     "date": "2026-07-27",
     "zh": {
