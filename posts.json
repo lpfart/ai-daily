@@ -1,5 +1,39 @@
 [
   {
+    "id": "411",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 超级周火热开局：美伊停火持续油价暴跌7%、耐用品订单远逊预期、长鑫科技首日涨466%登顶A股",
+      "summary": "⚡ 7月27日超级周首日金融综述：美伊连续两晚暂停打击，布伦特原油暴跌7.4%跌破89美元；美国6月耐用品订单仅增0.3%远逊预期；长鑫科技科创板首日暴涨465.82%，成交额超1400亿创A股纪录；欧洲全线反弹，德国DAX涨1.36%；新加坡金管局意外收紧货币政策；中国上半年工业利润增长15.1%。超级周决战开幕——美联储FOMC周三决议、微软Meta苹果亚马逊四巨头财报连环轰炸。",
+      "tags": [
+        "金融经济",
+        "超级周",
+        "耐用品订单",
+        "长鑫科技",
+        "原油暴跌",
+        "FOMC",
+        "美联储",
+        "欧洲股市"
+      ],
+      "file": "posts/411-super-week-opening-durable-goods-miss-cxmt-record-rally-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Super Week Opens with a Bang: Oil Crashes 7% on US-Iran Truce, Durable Goods Miss, CXMT Soars 466% in Record Debut",
+      "summary": "⚡ July 27 Super Week opening roundup: US-Iran pause holds for second night, Brent crude plunges 7.4% below $89; US durable goods orders rise just 0.3% vs 1.6% expected — biggest miss in months; CXMT debuts on Shanghai STAR Market at +465.82%, record $205B trading volume, becomes China's most valuable listed company; European stocks rally with DAX +1.36%; Singapore MAS unexpectedly tightens; China June industrial profits +15.1% YoY. All eyes on FOMC Wednesday and Big Tech earnings from Microsoft, Meta, Apple and Amazon.",
+      "tags": [
+        "Financial Markets",
+        "Super Week",
+        "Durable Goods",
+        "CXMT",
+        "Oil Crash",
+        "FOMC",
+        "Federal Reserve",
+        "European Stocks"
+      ],
+      "file": "posts/411-super-week-opening-durable-goods-miss-cxmt-record-rally-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "410",
     "date": "2026-07-27",
     "zh": {
