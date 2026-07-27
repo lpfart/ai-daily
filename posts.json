@@ -1,5 +1,21 @@
 [
   {
+    "id": "399",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日金融早盘综述：美伊暂停空袭油价暴跌5%、超级周决战开幕——FOMC携四巨头财报本周炸场、全球市场反弹开局",
+      "summary": "⚡ 7月27日金融早盘综述：美伊暂停军事行动引发全球市场剧烈波动——WTI原油暴跌超5%至83.76美元/桶，布伦特原油跌至86.67美元/桶；美股三大股指期货全线拉升（纳指期货涨1.24%、标普期货涨0.66%、道指期货涨0.47%）；黄金涨近1%报4091美元/盎司，白银涨超2%，比特币以太坊集体走高。超级周全面开幕：美联储FOMC利率决议（加息概率37%）、微软Meta苹果亚马逊Q2财报、美国Q2 GDP与PCE连环轰炸。韩国KOSPI开盘反弹1.73%，Naver获英伟达1.48万亿韩元投资飙升11%。通胀恐惧取代地缘政治成为市场最大担忧，特朗普交易指数已暴跌16%。",
+      "tags": ["金融经济", "原油暴跌", "FOMC", "美联储", "超级周", "美股期货", "黄金", "比特币"],
+      "file": "posts/399-monday-market-pulse-oil-plunges-fed-megacap-super-week-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Financial Morning Pulse: Oil Plunges 5% as US-Iran Halt Strikes, Super Week Showdown — FOMC + Big Tech Earnings, Global Markets Rebound",
+      "summary": "⚡ July 27 financial morning pulse: US-Iran pause military operations sending oil crashing over 5% — WTI at $83.76, Brent at $86.67. US stock futures rally (Nasdaq +1.24%, S&P +0.66%, Dow +0.47%). Gold climbs to $4,092/oz, silver +2%, crypto surges. Super Week opens: Fed FOMC (37% hike odds), MSFT/META/AAPL/AMZN Q2 earnings, US GDP and PCE all in 72 hours. KOSPI rebounds 1.73%, Naver jumps 11% on Nvidia investment. Inflation fear replaces geopolitics as markets' biggest concern — Trump Trade Index down 16%.",
+      "tags": ["Finance", "Oil Crash", "FOMC", "Federal Reserve", "Super Week", "US Futures", "Gold", "Bitcoin"],
+      "file": "posts/399-monday-market-pulse-oil-plunges-fed-megacap-super-week-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "398",
     "date": "2026-07-27",
     "zh": {
