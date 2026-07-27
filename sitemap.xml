@@ -4197,4 +4197,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/419-us-iran-ceasefire-talks-trump-zelensky-ukraine-air-ceasefire-july-28-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/419-us-iran-ceasefire-talks-trump-zelensky-ukraine-air-ceasefire-july-28-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
