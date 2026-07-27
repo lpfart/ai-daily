@@ -1,5 +1,35 @@
 [
   {
+    "id": "410",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日正午科技综述：英伟达联合33家巨头成立开放安全AI联盟、Sam Altman宣布\"我们已进入奇点时代\"",
+      "summary": "⚡ 7月27日正午科技实时综述：英伟达与微软、Palantir、Hugging Face等33家行业巨头联合成立Open Secure AI Alliance，致力于用开源技术守护AI安全；Sam Altman在播客中宣布\"人类已进入奇点时代\"，引发行业热议。",
+      "tags": [
+        "泛科技",
+        "英伟达",
+        "AI安全",
+        "奇点",
+        "Sam Altman",
+        "开源AI"
+      ],
+      "file": "posts/410-nvidia-open-secure-ai-alliance-altman-singularity-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Midday Tech Roundup: Nvidia Launches Open Secure AI Alliance with 33 Giants, Sam Altman Declares \"We Are Now in the Singularity\"",
+      "summary": "⚡ July 27 midday tech roundup: Nvidia, Microsoft, Palantir, Hugging Face, and 30+ industry leaders launch the Open Secure AI Alliance to defend open-weight AI; Sam Altman declares humanity has entered the singularity during the Relentless podcast, sparking industry-wide debate on AI governance.",
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "AI Safety",
+        "Singularity",
+        "Sam Altman",
+        "Open Source AI"
+      ],
+      "file": "posts/410-nvidia-open-secure-ai-alliance-altman-singularity-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "409",
     "date": "2026-07-27",
     "zh": {
