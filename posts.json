@@ -1,5 +1,21 @@
 [
   {
+    "id": "412",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日国际政治综述：美伊停火持续油价暴跌8%跌破88美元、伊朗称\"不寻求谈判\"、内塔尼亚胡秘密启程、乌克兰远程打击重创俄罗斯石油设施",
+      "summary": "⚡ 7月27日国际政治实时综述：美伊连续第三天暂停攻击，布伦特原油暴跌8%跌破88美元；伊朗外交部称\"目前没有与美国谈判\"并仍控制霍尔木兹海峡；内塔尼亚胡秘密启程飞往华盛顿与川普会晤，行踪高度保密；伊朗高级议员警告乌克兰将面临报复；乌克兰无人机夜袭罗斯托夫港和俄罗斯石油设施，乌军展示跨区域纵深打击能力。",
+      "tags": ["国际政治", "美伊战争", "油价暴跌", "伊朗", "内塔尼亚胡", "乌克兰", "霍尔木兹海峡", "罗斯托夫"],
+      "file": "posts/412-oil-crash-iran-pause-netanyahu-washington-ukraine-strike-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 International Roundup: Oil Crashes 8% Below $88 as US-Iran Truce Holds, Iran Says Not Seeking Talks, Netanyahu Departs for Washington, Ukraine Strikes Deep into Russia",
+      "summary": "⚡ July 27 international roundup: US and Iran hold fire for third day, Brent crude plunges 8% below $88; Iran says not seeking talks with US, still controls Strait of Hormuz; Netanyahu departs for Washington under secrecy to meet Trump; senior Iranian lawmaker warns Ukraine will face retaliation; Ukraine strikes Rostov port and Russian oil infrastructure in massive deep strike operation.",
+      "tags": ["International Politics", "US-Iran War", "Oil Crash", "Iran", "Netanyahu", "Ukraine", "Strait of Hormuz", "Rostov"],
+      "file": "posts/412-oil-crash-iran-pause-netanyahu-washington-ukraine-strike-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "411",
     "date": "2026-07-27",
     "zh": {
