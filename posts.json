@@ -1,5 +1,21 @@
 [
   {
+    "id": "416",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技重磅：微软发布首款安全AI模型MAI-Cyber-1-Flash，Project Perception自主Agent平台全面上线",
+      "summary": "⚡ 7月27日科技重磅：微软在旧金山发布首款自研网络安全AI模型MAI-Cyber-1-Flash，CyberGym基准95.95%超越OpenAI和Anthropic；同步推出Project Perception自主化安全Agent平台，红蓝绿三色Agent团队实现从漏洞发现到代码修复全自动化。Kimi K3 32个Agent自主发现19个Redis零日漏洞，27分钟生成完整利用链。AI Kill Switch Act立法加速推进，AI安全进入AI vs AI时代。",
+      "tags": ["科技新闻", "微软", "AI安全", "网络安全", "自主Agent", "Kimi K3", "Redis", "零日漏洞"],
+      "file": "posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Tech Mega: Microsoft Debuts First Cybersecurity AI Model MAI-Cyber-1-Flash, Project Perception Goes Live",
+      "summary": "⚡ July 27 tech mega: Microsoft unveils MAI-Cyber-1-Flash scoring 95.95% on CyberGym, surpassing OpenAI and Anthropic; launches Project Perception with Red/Blue/Green agent teams for automated vulnerability-to-patch workflow. Kimi K3 swarm of 32 agents finds 19 Redis zero-days in 90 minutes with full exploit chain in 27 minutes. AI Kill Switch Act legislation accelerates as AI security enters the AI vs AI era.",
+      "tags": ["Tech News", "Microsoft", "AI Security", "Cybersecurity", "Autonomous Agent", "Kimi K3", "Redis", "Zero-Day"],
+      "file": "posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "415",
     "date": "2026-07-27",
     "zh": {
