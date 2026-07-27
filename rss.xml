@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 27 Jul 2026 14:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 07:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月27日泛科技综述：腾讯QQ宠物AI回归接入混元Hy3——停运八年复活；美团LongCat-2.0万亿参数大模型开源；小米澎程SUV定档7月30日</title>
+      <link>https://ai-daily.cc.cd/posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.zh.html</link>
+      <description>⚡ 7月27日泛科技综述：腾讯QQ宠物停运八年后正式回归接入混元Hy3大模型实现AI人格化对话；美团开源LongCat-2.0万亿参数MoE大模型专为Agentic Coding与国产算力优化；雷军官宣小米澎程N90/N70 SUV将于7月30日技术发布会；腾讯混元3正式版发布元宝免费Agent上线一周调用量暴涨68倍。</description>
+      <pubDate>Mon, 27 Jul 2026 07:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/405-tencent-qq-pet-ai-meituan-model-xiaomi-ev-july-27-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月27日国际政治综述：叙利亚总统首提与以色列安全协议——地缘格局潜在剧变；霍尔木兹油轮触雷爆炸；五角大楼移除阵亡美军统计引争议；西岸暴力升级</title>
