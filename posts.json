@@ -1,17 +1,69 @@
 [
   {
+    "id": "417",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日科技晚间综述：Xbox大范围宕机实体光盘也无法游玩、苹果因App Store假钱包诈骗被起诉、Antares融资4.7亿美元为美军建造核反应堆",
+      "summary": "⚡ 7月27日科技晚间综述：Xbox服务中断超20小时，实体光盘游戏因DRM验证受阻无法游玩；苹果因假Sparrow Wallet加密钱包应用致用户损失180万美元被起诉，直指App Store安全审核漏洞；核能初创公司Antares获4.7亿美元C轮融资，为美军基地建造微型核反应堆，计划2028年部署。",
+      "tags": [
+        "科技新闻",
+        "Xbox",
+        "苹果",
+        "App Store",
+        "加密货币",
+        "核能",
+        "Antares",
+        "美军"
+      ],
+      "file": "posts/417-tech-news-roundup-xbox-outage-apple-lawsuit-antares-nuclear-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Evening Tech Roundup: Xbox Outage Blocks Disc Games, Apple Sued Over $1.8M Crypto Scam, Antares Raises $470M for Nuclear Microreactors",
+      "summary": "⚡ July 27 evening tech roundup: Xbox service outage exceeds 20 hours, blocking disc-based games due to DRM authentication failure; Apple sued over fake Sparrow Wallet crypto app causing $1.8M in user losses, challenging App Store security claims; Nuclear startup Antares raises $470M Series C to build microreactors for US military bases with 2028 deployment target.",
+      "tags": [
+        "Tech News",
+        "Xbox",
+        "Apple",
+        "App Store",
+        "Cryptocurrency",
+        "Nuclear Energy",
+        "Antares",
+        "US Military"
+      ],
+      "file": "posts/417-tech-news-roundup-xbox-outage-apple-lawsuit-antares-nuclear-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "416",
     "date": "2026-07-27",
     "zh": {
       "title": "⚡ 7月27日科技重磅：微软发布首款安全AI模型MAI-Cyber-1-Flash，Project Perception自主Agent平台全面上线",
       "summary": "⚡ 7月27日科技重磅：微软在旧金山发布首款自研网络安全AI模型MAI-Cyber-1-Flash，CyberGym基准95.95%超越OpenAI和Anthropic；同步推出Project Perception自主化安全Agent平台，红蓝绿三色Agent团队实现从漏洞发现到代码修复全自动化。Kimi K3 32个Agent自主发现19个Redis零日漏洞，27分钟生成完整利用链。AI Kill Switch Act立法加速推进，AI安全进入AI vs AI时代。",
-      "tags": ["科技新闻", "微软", "AI安全", "网络安全", "自主Agent", "Kimi K3", "Redis", "零日漏洞"],
+      "tags": [
+        "科技新闻",
+        "微软",
+        "AI安全",
+        "网络安全",
+        "自主Agent",
+        "Kimi K3",
+        "Redis",
+        "零日漏洞"
+      ],
       "file": "posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 27 Tech Mega: Microsoft Debuts First Cybersecurity AI Model MAI-Cyber-1-Flash, Project Perception Goes Live",
       "summary": "⚡ July 27 tech mega: Microsoft unveils MAI-Cyber-1-Flash scoring 95.95% on CyberGym, surpassing OpenAI and Anthropic; launches Project Perception with Red/Blue/Green agent teams for automated vulnerability-to-patch workflow. Kimi K3 swarm of 32 agents finds 19 Redis zero-days in 90 minutes with full exploit chain in 27 minutes. AI Kill Switch Act legislation accelerates as AI security enters the AI vs AI era.",
-      "tags": ["Tech News", "Microsoft", "AI Security", "Cybersecurity", "Autonomous Agent", "Kimi K3", "Redis", "Zero-Day"],
+      "tags": [
+        "Tech News",
+        "Microsoft",
+        "AI Security",
+        "Cybersecurity",
+        "Autonomous Agent",
+        "Kimi K3",
+        "Redis",
+        "Zero-Day"
+      ],
       "file": "posts/416-microsoft-mai-cyber-flash-perception-project-redis-zero-day-july-27-2026.en.html"
     }
   },
