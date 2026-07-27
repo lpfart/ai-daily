@@ -4177,4 +4177,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/417-tech-news-roundup-xbox-outage-apple-lawsuit-antares-nuclear-july-27-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/417-tech-news-roundup-xbox-outage-apple-lawsuit-antares-nuclear-july-27-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
