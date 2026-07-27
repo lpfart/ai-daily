@@ -1,5 +1,47 @@
 [
   {
+    "id": "406",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日下午科技综述：谷歌确认Gemini 4已投入训练——“最具雄心”预训练启动力争年底发布；普京签署俄罗斯AI管理法引入“主权AI模型”；Jim Fan李飞飞团队发布RoboTTT机器人长上下文突破",
+      "summary": "⚡ 7月27日下午科技综述：谷歌CEO皮查伊在Q2财报会上确认Gemini 4已开始“最具雄心”的预训练，目标今年11至12月发布以缩小与前沿对手差距；普京签署俄罗斯AI发展法，引入“主权AI模型”和“国家AI模型”概念，允许使用国家数据训练AI模型；Jim Fan与李飞飞团队发布RoboTTT，将机器人视觉运动上下文扩展至8K时间步，性能提升63%。",
+      "tags": [
+        "科技新闻",
+        "谷歌",
+        "Gemini 4",
+        "皮查伊",
+        "普京",
+        "俄罗斯AI",
+        "主权AI",
+        "李飞飞",
+        "Jim Fan",
+        "RoboTTT",
+        "机器人",
+        "上下文scaling"
+      ],
+      "file": "posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Afternoon Tech Roundup: Google Confirms Gemini 4 in Training — ‘Most Ambitious’ Pretraining Run; Putin Signs Russian AI Law Introducing ‘Sovereign AI Model’; Jim Fan & Fei-Fei Li’s RoboTTT Breaks Robot Context Scaling",
+      "summary": "⚡ July 27 afternoon tech roundup: Google CEO Pichai confirms Gemini 4 enters ‘most ambitious’ pretraining run, targeting Nov-Dec 2026 launch to close gap with frontier rivals; Putin signs Russian AI development law introducing ‘Sovereign AI Model’ and ‘National AI Model’ concepts, permitting state data for AI training; Jim Fan & Fei-Fei Li’s team unveils RoboTTT extending robot visual-motor context to 8K time steps, delivering 63% performance gain over 1K baseline.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Gemini 4",
+        "Pichai",
+        "Putin",
+        "Russia AI",
+        "Sovereign AI",
+        "Fei-Fei Li",
+        "Jim Fan",
+        "RoboTTT",
+        "Robotics",
+        "Context Scaling"
+      ],
+      "file": "posts/406-google-gemini4-training-putin-ai-law-robott-scaling-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "405",
     "date": "2026-07-27",
     "zh": {
