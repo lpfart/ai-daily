@@ -1,5 +1,21 @@
 [
   {
+    "id": "403",
+    "date": "2026-07-27",
+    "zh": {
+      "title": "⚡ 7月27日金融午盘综述：CXMT首日暴涨471%登顶A股市值王、欧洲接力美伊停火反弹、金价站稳4100美元大关",
+      "summary": "⚡ 7月27日金融午盘综述：长鑫科技科创板首日暴涨471%市值3.31万亿登顶A股；欧洲股市全线高开接力美伊停火反弹，Stoxx 600涨0.6%；原油低位盘整布伦特91-92美元区间；金价突破4100美元关口；美元走弱，欧元升破1.14。超级周首日耐用品订单数据即将出炉，市场屏息等待周三FOMC利率决议。",
+      "tags": ["金融经济", "长鑫科技", "CXMT", "科创板", "欧洲股市", "美伊停火", "原油", "黄金", "FOMC", "超级周"],
+      "file": "posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 27 Midday Markets: CXMT Soars 471% to Become China's Largest Stock, Europe Extends Rally on US-Iran Truce, Gold Breaks $4,100",
+      "summary": "⚡ Midday global markets roundup: China's CXMT surges 471% to $460B market cap overtaking ICBC as A-share largest; European equities open higher extending US-Iran ceasefire rally; Brent crude consolidates at $91-92; Gold breaks above $4,100; USD weakens. All eyes on durable goods data and Wednesday's FOMC decision.",
+      "tags": ["Financial Markets", "CXMT", "STAR Market", "European Stocks", "US-Iran Ceasefire", "Crude Oil", "Gold", "FOMC", "Super Week"],
+      "file": "posts/403-cxmt-debut-europe-rally-oil-gold-super-week-july-27-2026.en.html"
+    }
+  },
+  {
     "id": "402",
     "date": "2026-07-27",
     "zh": {
