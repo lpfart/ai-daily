@@ -1,5 +1,21 @@
 [
   {
+    "id": "422",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日国际政治要闻：美伊60天谅解备忘录框架达成、特朗普将乌克兰和谈期限缩至10-12天、内塔尼亚胡秘密赴美会晤、普京称俄罗斯处于「命运攸关之际」",
+      "summary": "⚡ 7月28日国际政治要闻：美国与伊朗谈判代表就60天谅解备忘录达成协议框架，霍尔木兹海峡将恢复无限制通行；特朗普在苏格兰宣布将乌克兰和谈50天期限缩短至10-12天，称「已知道答案」；以色列总理内塔尼亚胡因伊朗威胁秘密从军事基地赴美；普京在统一俄罗斯党大会上称国家处于「命运攸关之际」；布伦特原油暴跌9%。",
+      "tags": ["国际政治", "美伊谈判", "特朗普", "普京", "内塔尼亚胡", "乌克兰", "霍尔木兹海峡", "原油"],
+      "file": "posts/422-us-iran-mou-trump-ukraine-deadline-netanyahu-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Geopolitical Update: US-Iran Reach 60-Day MoU Framework, Trump Slashes Ukraine Peace Deadline to 10-12 Days, Netanyahu Secretly Departs for US, Putin Says Russia at 'Fateful Moment'",
+      "summary": "⚡ July 28 breaking: US and Iranian negotiators agree on 60-day memorandum of understanding framework to reopen Strait of Hormuz; Trump shortens Ukraine peace deadline from 50 days to 10-12 days; Netanyahu secretly departs Israel from military airbase due to Iran threats; Putin calls it a 'fateful moment' for Russia; Brent crude plunges 9%.",
+      "tags": ["Geopolitics", "US-Iran Talks", "Trump", "Putin", "Netanyahu", "Ukraine", "Strait of Hormuz", "Oil"],
+      "file": "posts/422-us-iran-mou-trump-ukraine-deadline-netanyahu-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "421",
     "date": "2026-07-28",
     "zh": {
