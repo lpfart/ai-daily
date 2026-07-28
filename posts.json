@@ -1,5 +1,21 @@
 [
   {
+    "id": "427",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日科技隐私风暴：Anthropic用户Claude共享聊天记录被Google索引，医疗档案与公司机密全部曝光",
+      "summary": "⚡ 7月28日科技隐私重磅：Anthropic旗下Claude AI用户的共享聊天记录被Google搜索全面索引，数百篇对话曝光。涉及敏感内容包括患者医疗档案、公司内部机密文件、加密货币密钥、儿童个人信息等。Anthropic归责于用户但技术分析揭示其robots.txt与noindex配置冲突导致漏洞。这是Anthropic一年内第二次同类隐私事件。",
+      "tags": ["隐私", "Anthropic", "Claude", "数据安全", "AI安全", "Google"],
+      "file": "posts/427-claude-ai-privacy-leak-shared-chats-google-indexed-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Privacy Storm: Anthropic Claude Shared Chats Indexed by Google — Medical Records and Corporate Secrets Exposed",
+      "summary": "⚡ July 28 privacy bombshell: Hundreds of Anthropic Claude users' shared conversations indexed by Google Search, exposing medical records, confidential corporate documents, crypto wallet keys, and children's personal data. Anthropic blames users but technical analysis reveals robots.txt/noindex configuration flaw. This marks Anthropic's second such privacy incident within a year.",
+      "tags": ["Privacy", "Anthropic", "Claude", "Data Security", "AI Safety", "Google"],
+      "file": "posts/427-claude-ai-privacy-leak-shared-chats-google-indexed-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "426",
     "date": "2026-07-28",
     "zh": {
