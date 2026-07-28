@@ -1,5 +1,31 @@
 [
   {
+    "id": "430",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日国际政治要闻：特朗普白宫会晤内塔尼亚胡聚焦伊朗、阿曼提出霍尔木兹联合管理方案、乌克兰390架无人机大规模袭击莫斯科",
+      "summary": "⚡ 7月28日国际政治要闻：特朗普与内塔尼亚胡时隔五个月首次面对面会晤谈伊朗战争，阿曼提出霍尔木兹海峡联合管理方案获地区支持，美伊停火进入第三天，乌克兰出动390余架无人机大规模袭击莫斯科多地机场关闭，伊朗首次披露战争损失：布什尔机场瘫痪、天然气产能损失2.3亿立方米。",
+      "tags": [
+        "国际政治",
+        "中东局势",
+        "美伊冲突",
+        "俄乌战争"
+      ],
+      "file": "posts/430-trump-netanyahu-white-house-oman-hormuz-proposal-ukraine-moscow-drone-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Geopolitical Update: Trump Meets Netanyahu at White House as Oman Proposes Joint Hormuz Management, Ukraine Strikes Moscow with 390+ Drones",
+      "summary": "⚡ July 28 World Affairs: Trump and Netanyahu hold first face-to-face meeting in five months as Iran war tensions simmer; Oman presents regional mechanism for Strait of Hormuz with regional backing; Ukraine launches 390+ drones on Moscow disrupting airports; Iran reveals Bushehr Airport destroyed, 230M cm gas capacity lost from U.S. strikes.",
+      "tags": [
+        "World Affairs",
+        "Middle East",
+        "US-Iran Conflict",
+        "Ukraine War"
+      ],
+      "file": "posts/430-trump-netanyahu-white-house-oman-hormuz-proposal-ukraine-moscow-drone-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "429",
     "date": "2026-07-28",
     "zh": {
