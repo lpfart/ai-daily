@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 28 Jul 2026 23:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:05:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月28日泛科技晚间要闻：中国量产浸没式DUV光刻机ASML暴跌8%、英伟达2500亿美元担保OpenAI引循环融资恐慌、微软发布MAI-Cyber-1-Flash安全AI模型</title>
+      <link>https://ai-daily.cc.cd/posts/436-china-duv-lithography-nvidia-openai-guarantee-microsoft-perception-july-28-2026.zh.html</link>
+      <description>⚡ 7月28日泛科技晚间要闻：中国上海埃盛纳电子科技集团开始量产浸没式DUV光刻机，2026年交付5台，ASML股价暴跌8.3%；英伟达与OpenAI洽谈2500亿美元数据中心融资担保，NVDA跌破200美元关口；微软发布Project Perception和MAI-Cyber-1-Flash安全AI模型，CyberGym基准96%性能超竞品，成本降50%。</description>
+      <pubDate>Wed, 29 Jul 2026 00:05:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/436-china-duv-lithography-nvidia-openai-guarantee-microsoft-perception-july-28-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月28日泛科技晚间要闻：Anthropic CEO首度回应开源模型争议称"从未主张封禁"、中国商务部批美"AI霸权"警告反制、Enigma 7100万美元打造公共机器人平台、苹果反超英伟达重夺市值第一</title>
