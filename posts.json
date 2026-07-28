@@ -1,17 +1,69 @@
 [
   {
+    "id": "434",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日国际政治要闻：泽连斯基白宫会晤特朗普促防空系统、内塔尼亚胡抵美协调伊朗战事、黎以罗马和谈下月登场、乍得退出国际刑事法院",
+      "summary": "⚡ 7月28日国际政治要闻：乌克兰总统泽连斯基于白宫与特朗普会晤，敦促联合生产爱国者防空导弹系统；以色列总理内塔尼亚胡抵达华盛顿协调对伊朗下一步行动；美方宣布黎巴嫩与以色列下一轮罗马和谈定于8月4日至6日举行；乍得宣布退出国际刑事法院，系美国全球\"拆院\"运动最新成果。",
+      "tags": [
+        "国际政治",
+        "泽连斯基",
+        "特朗普",
+        "内塔尼亚胡",
+        "伊朗战争",
+        "黎以和谈",
+        "乍得",
+        "ICC"
+      ],
+      "file": "posts/434-trump-zelensky-netanyahu-washington-lebanon-israel-talks-chad-icc-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 World Affairs: Zelenskyy Meets Trump at White House for Air Defense Talks, Netanyahu Arrives for Iran War Coordination, Lebanon-Israel Rome Peace Talks Set, Chad Quits ICC",
+      "summary": "⚡ July 28 geopolitical roundup: Ukraine's Zelenskyy meets Trump at White House pressing for joint Patriot missile production; Netanyahu arrives in Washington to coordinate next steps on Iran war; US announces next round of Lebanon-Israel talks in Rome August 4-6; Chad withdraws from International Criminal Court as US campaign to dismantle the ICC gains momentum.",
+      "tags": [
+        "World Affairs",
+        "Zelenskyy",
+        "Trump",
+        "Netanyahu",
+        "Iran War",
+        "Lebanon-Israel Talks",
+        "Chad",
+        "ICC"
+      ],
+      "file": "posts/434-trump-zelensky-netanyahu-washington-lebanon-israel-talks-chad-icc-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "433",
     "date": "2026-07-28",
     "zh": {
       "title": "⚡ FOMC第二天开幕悬念空前：加息概率飙至38%创两年最大分歧，可口可乐业绩超预期上调指引，波音亏损收窄但不及预期",
       "summary": "⚡ 7月28日财经要闻：FOMC第二天开幕，市场对加息概率定价达38%，为2024年9月以来最大分歧。Citadel押注意外加息，104位经济学家预期按兵不动。可口可乐Q2业绩超预期并上调全年指引，可比EPS 0.97美元超预期。波音营收246亿美元增8%，但核心每股亏损0.76美元不及预期。美股期货分化：纳指期货跌近1%，道指期货涨0.6%。",
-      "tags": ["金融经济", "FOMC", "美联储", "加息", "可口可乐", "波音", "美股", "原油"],
+      "tags": [
+        "金融经济",
+        "FOMC",
+        "美联储",
+        "加息",
+        "可口可乐",
+        "波音",
+        "美股",
+        "原油"
+      ],
       "file": "posts/433-fomc-day2-coca-cola-boeing-earnings-pre-market-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ FOMC Day 2: Maximum Uncertainty in Years — 38% Rate Hike Odds, Coca-Cola Beats and Raises Guidance, Boeing Loss Narrows But Misses",
       "summary": "⚡ July 28 financial roundup: FOMC Day 2 begins with 38% probability of surprise rate hike — biggest policy uncertainty since September 2024. Citadel Securities bets on hike while 104 economists expect no change. Coca-Cola Q2 beats estimates and raises full-year guidance. Boeing revenue grows 8% but core loss per share of ($0.76) misses estimates. US pre-market mixed: Nasdaq futures -1%, Dow futures +0.6%.",
-      "tags": ["Financial Markets", "FOMC", "Federal Reserve", "Rate Hike", "Coca-Cola", "Boeing", "Stock Futures", "Oil"],
+      "tags": [
+        "Financial Markets",
+        "FOMC",
+        "Federal Reserve",
+        "Rate Hike",
+        "Coca-Cola",
+        "Boeing",
+        "Stock Futures",
+        "Oil"
+      ],
       "file": "posts/433-fomc-day2-coca-cola-boeing-earnings-pre-market-july-28-2026.en.html"
     }
   },
