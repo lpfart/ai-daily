@@ -1,5 +1,21 @@
 [
   {
+    "id": "436",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日泛科技晚间要闻：中国量产浸没式DUV光刻机ASML暴跌8%、英伟达2500亿美元担保OpenAI引循环融资恐慌、微软发布MAI-Cyber-1-Flash安全AI模型",
+      "summary": "⚡ 7月28日泛科技晚间要闻：中国上海埃盛纳电子科技集团开始量产浸没式DUV光刻机，2026年交付5台，ASML股价暴跌8.3%；英伟达与OpenAI洽谈2500亿美元数据中心融资担保，NVDA跌破200美元关口；微软发布Project Perception和MAI-Cyber-1-Flash安全AI模型，CyberGym基准96%性能超Anthropic Mythos/Google Gemini/OpenAI GPT，成本降50%。",
+      "tags": ["泛科技", "光刻机", "DUV", "ASML", "英伟达", "OpenAI", "微软", "网络安全", "AI模型"],
+      "file": "posts/436-china-duv-lithography-nvidia-openai-guarantee-microsoft-perception-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Evening Tech Roundup: China Mass-Produces DUV Lithography — ASML Plunges 8%, Nvidia's $250B OpenAI Guarantee Sparks Concerns, Microsoft Launches Cyber AI",
+      "summary": "⚡ July 28 evening tech roundup: China's Shanghai Aishengna begins mass production of immersion DUV lithography machines, ASML shares plummet 8.3%; Nvidia in talks to guarantee $250B for OpenAI's Ohio data center, NVDA falls below $200; Microsoft unveils Project Perception and MAI-Cyber-1-Flash, achieving 96% on CyberGym benchmark at half the cost.",
+      "tags": ["Tech", "Lithography", "DUV", "ASML", "Nvidia", "OpenAI", "Microsoft", "Cybersecurity", "AI"],
+      "file": "posts/436-china-duv-lithography-nvidia-openai-guarantee-microsoft-perception-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "435",
     "date": "2026-07-28",
     "zh": {
