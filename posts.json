@@ -1,5 +1,41 @@
 [
   {
+    "id": "435",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日泛科技晚间要闻：Anthropic CEO首度回应开源模型争议称\u201c从未主张封禁\u201d、中国商务部批美\u201cAI霸权\u201d警告反制、Enigma 7100万美元打造公共机器人平台、苹果反超英伟达重夺市值第一",
+      "summary": "⚡ 7月28日泛科技晚间要闻：Anthropic CEO Dario Amodei打破沉默正式声明从未主张封禁开放权重模型，称不具备危险能力的开放权重模型是\u201c公共产品\u201d但不同意开源让防御方占优；中国商务部批美国\u201cAI霸权主义\u201d警告将反制；17岁微软神童创Enigma Robotics获7100万美元种子轮融资推出全球首个公共AI机器人体验平台Robots.online；苹果市值4.95万亿美元反超英伟达4.78万亿美元重夺全球市值第一。",
+      "tags": [
+        "泛科技",
+        "Anthropic",
+        "开放权重",
+        "中国商务部",
+        "AI监管",
+        "Enigma",
+        "机器人",
+        "苹果",
+        "英伟达"
+      ],
+      "file": "posts/435-anthropic-open-weights-china-ai-hegemonism-enigma-robotics-apple-nvidia-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Evening Tech Roundup: Anthropic CEO Breaks Silence \u2014 \u201cNever Advocated for Ban on Open-Weight Models,\u201d China Accuses US of \u201cAI Hegemonism,\u201d Enigma Robotics Raises $71M, Apple Reclaims Market Cap Crown",
+      "summary": "⚡ July 28 evening tech roundup: Anthropic CEO Dario Amodei breaks silence stating he has never advocated for banning open-weight models, calls non-dangerous open models a \u201cpublic good\u201d but rejects claim that openness favors defenders; China commerce ministry accuses US of \u201cAI hegemonism\u201d threatening countermeasures; Enigma Robotics founded by 17-year-old Microsoft prodigy raises $71M seed round launching Robots.online \u2014 world\u2019s first public AI robotics experience; Apple reclaims global No. 1 at $4.95T market cap surpassing Nvidia\u2019s $4.78T.",
+      "tags": [
+        "Tech",
+        "Anthropic",
+        "Open Weight",
+        "AI Regulation",
+        "China",
+        "Enigma",
+        "Robotics",
+        "Apple",
+        "Nvidia"
+      ],
+      "file": "posts/435-anthropic-open-weights-china-ai-hegemonism-enigma-robotics-apple-nvidia-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "434",
     "date": "2026-07-28",
     "zh": {
