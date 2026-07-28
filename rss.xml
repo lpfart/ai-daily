@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 28 Jul 2026 03:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 04:04:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月28日泛科技三重奏：AI芯片封装成新瓶颈、中国量产硅-28量子材料、智源发布悟界世界模型</title>
+      <link>https://ai-daily.cc.cd/posts/424-ats-packaging-bottleneck-silicon28-quantum-baai-world-model-july-28-2026.zh.html</link>
+      <description>⚡ 7月28日泛科技多重要闻：AT&S CEO警告AI芯片需求将先进封装和基板供应推向瓶颈，产能跟不上AI爆发式增长；中核集团宣布硅-28同位素实现99.99%丰度自主量产，为硅基量子芯片提供核心材料；北京智源发布悟界·RoboBrain Orca世界模型，首次实现AI对整体世界状态的前后演化推演。</description>
+      <pubDate>Tue, 28 Jul 2026 04:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/424-ats-packaging-bottleneck-silicon28-quantum-baai-world-model-july-28-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月28日半导体重磅：中国突破DUV光刻机量产，ASML暴跌7%芯片股集体承压</title>
