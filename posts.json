@@ -1,5 +1,21 @@
 [
   {
+    "id": "423",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日半导体重磅：中国突破DUV光刻机量产，ASML暴跌7%芯片股集体承压",
+      "summary": "⚡ 7月28日半导体重磅突破：中国自主浸没式DUV光刻机实现量产，上海企业（华为关联公司御两生科技）已开始生产。消息引发华尔街地震，ASML暴跌超7%，美国半导体设备股集体下挫。中国28nm芯片全产业链自主化迈出关键一步。",
+      "tags": ["半导体", "光刻机", "DUV", "中国芯片", "ASML", "国产替代"],
+      "file": "posts/423-china-duv-lithography-breakthrough-asml-chip-stocks-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Semiconductor Bombshell: China Begins Mass Production of Homegrown DUV Lithography Machines, ASML Plunges 7%",
+      "summary": "⚡ July 28 semiconductor bombshell: China begins mass production of domestic immersion DUV lithography machines. Shanghai-based Yuliangsheng Technology starts commercial manufacturing. ASML stock crashes 7%, US chip equipment makers rout. A landmark step in China's semiconductor self-sufficiency drive.",
+      "tags": ["Semiconductor", "DUV", "Lithography", "China Tech", "ASML", "SMIC", "Chip Self-Sufficiency"],
+      "file": "posts/423-china-duv-lithography-breakthrough-asml-chip-stocks-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "422",
     "date": "2026-07-28",
     "zh": {
