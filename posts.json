@@ -1,5 +1,21 @@
 [
   {
+    "id": "424",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日泛科技三重奏：AI芯片封装成新瓶颈、中国量产硅-28量子材料、智源发布悟界世界模型",
+      "summary": "⚡ 7月28日泛科技多重要闻：AT&S CEO警告AI芯片需求将先进封装和基板供应推向瓶颈，产能跟不上AI爆发式增长；中核集团宣布硅-28同位素实现99.99%丰度自主量产，为硅基量子芯片提供核心材料；北京智源发布悟界·RoboBrain Orca世界模型，首次实现AI对整体世界状态的前后演化推演。",
+      "tags": ["半导体", "先进封装", "量子计算", "世界模型", "智源", "AI芯片", "国产材料"],
+      "file": "posts/424-ats-packaging-bottleneck-silicon28-quantum-baai-world-model-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Tech Triple: AI Chip Packaging Hits Bottleneck, China Mass-Produces Silicon-28 for Quantum Chips, BAAI Unveils RoboBrain World Model",
+      "summary": "⚡ July 28 multi-domain tech update: AT&S CEO warns AI chip demand shifts bottleneck to advanced packaging and substrates; China's CNNC achieves mass production of 99.99% purity silicon-28 isotopes for silicon-based quantum chips; Beijing Academy of AI (BAAI) releases Wujie RoboBrain Orca world model, achieving AI's first global state evolution reasoning capability.",
+      "tags": ["Semiconductor", "Advanced Packaging", "Quantum Computing", "World Model", "BAAI", "AI Chip", "China Tech"],
+      "file": "posts/424-ats-packaging-bottleneck-silicon28-quantum-baai-world-model-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "423",
     "date": "2026-07-28",
     "zh": {
