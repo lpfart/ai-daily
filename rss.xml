@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 28 Jul 2026 11:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月28日泛科技要闻：AMD与Anthropic签数百亿美元AI芯片大单、Claude周末自动征服AMD芯片、硅芯科技发布推理芯片、EU AI Act进入生效倒计时</title>
+      <link>https://ai-daily.cc.cd/posts/432-amd-anthropic-ai-chip-silicon-inference-eu-ai-act-july-28-2026.zh.html</link>
+      <description>⚡ 7月28日泛科技要闻：AMD与Anthropic签署数百亿美元AI服务器合作协议，Anthropic采购2GW MI450芯片，AMD投资50亿美元；Claude模型一个周末自动完成AMD ROCm平台全套适配，CUDA生态护城河首次被AI自身攻破；硅芯科技发布BALLBET贝博注册AI推理芯片，6nm制程推理吞吐量提升3.2倍、功耗降低45%、TCO降40%；EU AI Act Omnibus于7月27日正式生效，Article 50透明度条款8月2日起适用，违者最高罚1500万欧元或全球年营收3%。</description>
+      <pubDate>Tue, 28 Jul 2026 12:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/432-amd-anthropic-ai-chip-silicon-inference-eu-ai-act-july-28-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月28日泛科技要闻：Hugging Face被曝系统化深度伪造漏洞、MIT微型飞行机器人速度提升450%、中国商务部强硬回击AI蒸馏指控</title>
