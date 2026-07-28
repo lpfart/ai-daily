@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 28 Jul 2026 06:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月28日科技隐私风暴：Anthropic用户Claude共享聊天记录被Google索引，医疗档案与公司机密全部曝光</title>
+      <link>https://ai-daily.cc.cd/posts/427-claude-ai-privacy-leak-shared-chats-google-indexed-july-28-2026.zh.html</link>
+      <description>⚡ 7月28日科技隐私重磅：Anthropic旗下Claude AI用户的共享聊天记录被Google搜索全面索引，数百篇对话曝光，涉医疗档案、公司机密、加密货币密钥等。Anthropic归责于用户但技术分析揭示robots.txt与noindex配置冲突。一年内第二次同类事件。</description>
+      <pubDate>Tue, 28 Jul 2026 07:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/427-claude-ai-privacy-leak-shared-chats-google-indexed-july-28-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月28日国际政治要闻：特朗普会晤内塔尼亚胡谈伊朗核问题、伊朗无人机袭击埃尔比勒近美领馆、对俄和谈最后期限缩短至12天</title>
