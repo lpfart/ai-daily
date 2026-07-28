@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 28 Jul 2026 00:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:21:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月28日财经要闻：韩国KOSPI开盘暴跌6.8%触发熔断、美联储利率决议进入倒计时、国际油价重挫7%</title>
+      <link>https://ai-daily.cc.cd/posts/421-kospi-crash-circuit-breaker-oil-fomc-july-28-2026.zh.html</link>
+      <description>⚡ 7月28日财经动态：韩国股市开盘暴跌超5%，KOSPI指数跌破6400点触发卖盘侧电路断路器，三星电子跌8.27%、SK海力士跌近10%；美联储7月28-29日召开FOMC议息会议，市场加息概率升至38%；国际油价大幅回落逾7%，美伊暂停打击第三天推动地缘溢价回吐；苹果市值逼近5万亿美元重新登顶全球第一。</description>
+      <pubDate>Tue, 28 Jul 2026 01:21:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/421-kospi-crash-circuit-breaker-oil-fomc-july-28-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ MCP协议史上最大更新今日发布：取消握手会话全面无状态化；深鉴科技神经形态芯片能效超GPU百倍</title>
