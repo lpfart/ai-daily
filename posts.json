@@ -1,5 +1,21 @@
 [
   {
+    "id": "425",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日财经要闻：FOMC首日登场加息概率升至36%、国际油价续跌布伦特跌破87美元、韩指暴跌8%触发熔断",
+      "summary": "⚡ 7月28日财经重磅：美联储FOMC利率会议首日，市场加息概率升至36%；布伦特原油跌破87美元，美伊停火谈判持续；韩国KOSPI暴跌8%触发年内第八次熔断；美元指数创一个月新高，日元逼近40年低点。",
+      "tags": ["金融经济", "美联储", "油价", "韩股", "美元", "外汇"],
+      "file": "posts/425-fomc-day-1-oil-collapse-dollar-yen-kospi-circuit-breaker-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Financial Roundup: FOMC Day 1 — Rate Hike Odds Jump to 36%, Oil Collapses Below $87, KOSPI Triggers Circuit Breaker",
+      "summary": "⚡ July 28 financial roundup: FOMC two-day meeting kicks off with rate hike probability surging to 36%; Brent crude falls below $87 as US-Iran ceasefire talks progress; South Korea's KOSPI plunges 8% triggering 8th circuit breaker of 2026; Dollar hits one-month high, yen near 40-year lows.",
+      "tags": ["Financial Markets", "Federal Reserve", "Oil", "KOSPI", "US Dollar", "Forex"],
+      "file": "posts/425-fomc-day-1-oil-collapse-dollar-yen-kospi-circuit-breaker-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "424",
     "date": "2026-07-28",
     "zh": {
