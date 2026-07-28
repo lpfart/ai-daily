@@ -1,5 +1,21 @@
 [
   {
+    "id": "421",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日财经要闻：韩国KOSPI开盘暴跌6.8%触发熔断、美联储利率决议进入倒计时、国际油价重挫7%",
+      "summary": "⚡ 7月28日财经动态：韩国股市开盘暴跌超5%，KOSPI指数跌破6400点触发卖盘侧电路断路器，三星电子跌8.27%、SK海力士跌近10%；美联储7月28-29日召开FOMC议息会议，市场加息概率升至38%；国际油价大幅回落逾7%，美伊暂停打击第三天推动地缘溢价回吐；苹果市值逼近5万亿美元重新登顶全球第一。",
+      "tags": ["金融经济", "韩国股市", "美联储", "国际油价", "KOSPI", "苹果"],
+      "file": "posts/421-kospi-crash-circuit-breaker-oil-fomc-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Financial Wrap: KOSPI Crashes 6.8% at Open Triggering Circuit Breaker; Fed FOMC Meeting in Focus; Oil Plunges 7%",
+      "summary": "⚡ July 28 financial highlights: South Korea's KOSPI crashes 6.84% at open as Samsung drops 8.27% and SK Hynix falls 10%; Fed begins July FOMC meeting with rate hike probability surging to 38%; oil prices tumble 7%+ on US-Iran pause extending to third day; Apple's market cap nears $5 trillion, reclaims global No. 1.",
+      "tags": ["Finance", "KOSPI", "Federal Reserve", "FOMC", "Oil", "Apple"],
+      "file": "posts/421-kospi-crash-circuit-breaker-oil-fomc-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "420",
     "date": "2026-07-28",
     "zh": {
