@@ -1,5 +1,39 @@
 [
   {
+    "id": "429",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日亚洲金融风暴：KOSPI暴跌10.84%触发熔断、日经重挫4%芯片雪崩、FOMC首日开幕加息概率38%、油价暴跌8%",
+      "summary": "⚡ 7月28日亚洲金融风暴全面爆发：韩国KOSPI暴跌10.84%收于6,023.66触发年内第八次熔断，三星跌9.84%、SK海力士跌11.67%；日本日经指数重挫4.11%收62,262，Kioxia暴跌18%；FOMC首日开幕加息概率从10%飙至38%，Citadel押注意外加息；布伦特原油8.7%暴跌至88.36美元；苹果重夺全球市值第一。",
+      "tags": [
+        "金融经济",
+        "亚洲股市",
+        "KOSPI",
+        "日经225",
+        "半导体",
+        "美联储",
+        "原油",
+        "熔断"
+      ],
+      "file": "posts/429-asian-market-crash-kospi-circuit-breaker-nikkei-chip-selloff-fomc-oil-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Asian Market Meltdown: KOSPI Plunges 10.84% Triggering Circuit Breaker, Nikkei Drops 4%, Chip Stocks Decimated, FOMC Day 1 with 38% Rate Hike Odds, Oil Crashes 8%",
+      "summary": "⚡ July 28 Asian financial bloodbath: South Korea's KOSPI crashes 10.84% to close at 6,023.66 — 8th circuit breaker of 2026, Samsung -9.84%, SK Hynix -11.67%; Japan's Nikkei plunges 4.11% to 62,262, Kioxia -18%; FOMC Day 1 opens with rate hike probability surging to 38% as Citadel Securities bets on surprise hike; Brent crude crashes 8.7% to $88.36; Apple retakes world's most valuable company title.",
+      "tags": [
+        "Financial Markets",
+        "Asian Stocks",
+        "KOSPI",
+        "Nikkei 225",
+        "Semiconductor",
+        "Federal Reserve",
+        "Crude Oil",
+        "Circuit Breaker"
+      ],
+      "file": "posts/429-asian-market-crash-kospi-circuit-breaker-nikkei-chip-selloff-fomc-oil-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "428",
     "date": "2026-07-28",
     "zh": {
