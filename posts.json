@@ -1,5 +1,21 @@
 [
   {
+    "id": "439",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日泛科技要闻：Meta与贝莱德140亿美元合建AI数据中心、三星急扩内存产线防苹果转购中国芯片、T-Mobile大宕机全面恢复",
+      "summary": "⚡ 7月29日泛科技要闻：Meta与贝莱德宣布合资在德州埃尔帕索建设1吉瓦AI数据中心，总投资约140亿美元，BlackRock持股80%2028年投运；三星紧急新建内存产线防止苹果在华采购CXMT DRAM，RAMageddon持续推高存储芯片价格；T-Mobile周一以来大规模宕机已全面恢复服务。",
+      "tags": ["泛科技", "Meta", "AI基础设施", "三星", "存储芯片", "CXMT", "T-Mobile", "数据中心"],
+      "file": "posts/439-meta-blackrock-data-center-samsung-ram-cxmt-tmobile-outage-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Tech Roundup: Meta & BlackRock Form $14B Venture for 1 GW AI Data Center, Samsung Rushes RAM Lines to Block Apple from Buying Chinese CXMT, T-Mobile Outage Fully Resolved",
+      "summary": "⚡ July 29 tech roundup: Meta and BlackRock announce $14B joint venture for 1 GW AI data center in El Paso, Texas — BlackRock holds 80%, Meta retains 20%, coming online in 2028; Samsung reportedly rushing new DRAM production lines to prevent Apple from sourcing from China's CXMT amid RAMageddon; T-Mobile fully restores service after multi-day outage.",
+      "tags": ["Tech News", "Meta", "AI Infrastructure", "Samsung", "DRAM", "CXMT", "T-Mobile", "Data Center"],
+      "file": "posts/439-meta-blackrock-data-center-samsung-ram-cxmt-tmobile-outage-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "438",
     "date": "2026-07-29",
     "zh": {
