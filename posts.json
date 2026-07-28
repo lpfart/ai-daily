@@ -1,5 +1,21 @@
 [
   {
+    "id": "437",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ FOMC决议日：美联储加息概率34%悬念空前、SK海力士营业利润创64万亿韩元历史新高、KOSPI暴跌10%触发熔断后能否企稳",
+      "summary": "⚡ 7月29日金融重磅：美联储FOMC利率决议今日揭晓，市场加息概率34%分歧为近两年之最；SK海力士Q2营业利润预计达64万亿韩元创历史新高，HBM领先优势支撑77%毛利率；KOSPI暴跌10.84%触发年内第八次熔断后今日SK海力士财报或定生死；布伦特原油跌破84美元创三周新低；Meta与微软财报今夜登场。",
+      "tags": ["金融经济", "美联储", "SK海力士", "KOSPI", "芯片股", "油价", "FOMC", "加息"],
+      "file": "posts/437-fomc-fed-decision-sk-hynix-record-earnings-kospi-crash-oil-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ FOMC Decision Day: Fed Faces Biggest Policy Uncertainty in 2 Years, SK Hynix Set to Report Record Q2 Profit, KOSPI Crashes 10% — Can Chip Stocks Recover?",
+      "summary": "⚡ July 29 financial mega-day: Fed FOMC rate decision with 34% hike odds — biggest policy divide since 2024; SK Hynix expected to post record Q2 operating profit of 64 trillion won with 77% margin; KOSPI plunges 10.84% triggering 8th circuit breaker; Brent crude falls below $84; Meta and Microsoft earnings after the bell today.",
+      "tags": ["Financial Markets", "Federal Reserve", "SK Hynix", "KOSPI", "Semiconductors", "Oil", "FOMC", "Earnings"],
+      "file": "posts/437-fomc-fed-decision-sk-hynix-record-earnings-kospi-crash-oil-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "436",
     "date": "2026-07-28",
     "zh": {
