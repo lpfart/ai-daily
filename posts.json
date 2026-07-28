@@ -1,5 +1,39 @@
 [
   {
+    "id": "432",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日泛科技要闻：AMD与Anthropic签数百亿美元AI芯片大单、Claude周末自动征服AMD芯片、硅芯科技发布推理芯片、EU AI Act进入生效倒计时",
+      "summary": "⚡ 7月28日泛科技要闻：AMD与Anthropic签署数百亿美元AI服务器合作协议，Anthropic采购2GW MI450芯片，AMD投资50亿美元；Claude模型一个周末自动完成AMD ROCm平台全套适配，CUDA生态护城河首次被AI自身攻破；硅芯科技发布BALLBET贝博注册AI推理芯片，6nm制程推理吞吐量提升3.2倍、功耗降低45%、TCO降40%；EU AI Act Omnibus于7月27日正式生效，Article 50透明度条款8月2日起适用，违者最高罚1500万欧元或全球年营收3%。",
+      "tags": [
+        "泛科技",
+        "AMD",
+        "AI芯片",
+        "Anthropic",
+        "英伟达",
+        "硅芯科技",
+        "EU AI Act",
+        "推理芯片"
+      ],
+      "file": "posts/432-amd-anthropic-ai-chip-silicon-inference-eu-ai-act-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Tech Update: AMD & Anthropic Sign $30B+ AI Chip Deal, Claude Breaks CUDA Lock-In in One Weekend, Silicon Core Tech Launches Inference Chip, EU AI Act Countdown",
+      "summary": "⚡ July 28 tech update: AMD and Anthropic sign multi-billion dollar AI server deal — Anthropic purchases 2GW of MI450 chips, AMD invests $5B; Claude auto-adapts AMD ROCm platform in a single weekend, marking the first time AI itself breaks CUDA ecosystem moat; Silicon Core Technology unveils BALLBET inference chip with 3.2x throughput, 45% lower power, 40% lower TCO; EU AI Act Omnibus enters force July 27, Article 50 transparency obligations apply from August 2 with fines up to €15M or 3% of global turnover.",
+      "tags": [
+        "Tech",
+        "AMD",
+        "AI Chip",
+        "Anthropic",
+        "Nvidia",
+        "Silicon Core",
+        "EU AI Act",
+        "Inference"
+      ],
+      "file": "posts/432-amd-anthropic-ai-chip-silicon-inference-eu-ai-act-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "431",
     "date": "2026-07-28",
     "zh": {
