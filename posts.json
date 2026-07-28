@@ -1,17 +1,63 @@
 [
   {
+    "id": "426",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日国际政治要闻：特朗普会晤内塔尼亚胡谈伊朗核问题、伊朗无人机袭击埃尔比勒近美领馆、对俄和谈最后期限缩短至12天",
+      "summary": "⚡ 7月28日国际政治重磅：特朗普在白宫会晤以色列总理内塔尼亚胡，聚焦伊朗核计划与霍尔木兹海峡安全；伊朗无人机袭击伊拉克埃尔比勒，美国领事馆附近发生多起爆炸；特朗普宣布将普京和谈期限从50天缩短至10-12天，称已知道答案；布伦特原油跌破87美元创8日新低；叙利亚寻求与以色列达成安全协议，中东版图或历史性重组。",
+      "tags": [
+        "国际政治",
+        "美以关系",
+        "伊朗核问题",
+        "地缘政治",
+        "无人机",
+        "俄乌战争",
+        "油价"
+      ],
+      "file": "posts/426-trump-netanyahu-summit-iran-drone-erbil-ukraine-deadline-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 World Affairs: Trump Meets Netanyahu on Iran Nuclear Program, Iranian Drones Strike Erbil Near US Consulate, Ukraine Peace Deadline Slashed to 12 Days",
+      "summary": "⚡ July 28 international affairs roundup: Trump hosts Netanyahu at White House with Iran nuclear program and Strait of Hormuz on agenda; Iranian drones strike Erbil near US Consulate triggering multiple explosions; Trump slashes Putin peace deadline from 50 to 10-12 days, says 'I already know the answer'; Brent crude falls below 7 to 8-day low; Syria pursues security deal with Israel in potential historic realignment.",
+      "tags": [
+        "World Affairs",
+        "US-Israel",
+        "Iran Nuclear",
+        "Geopolitics",
+        "Drones",
+        "Ukraine War",
+        "Oil"
+      ],
+      "file": "posts/426-trump-netanyahu-summit-iran-drone-erbil-ukraine-deadline-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "425",
     "date": "2026-07-28",
     "zh": {
       "title": "⚡ 7月28日财经要闻：FOMC首日登场加息概率升至36%、国际油价续跌布伦特跌破87美元、韩指暴跌8%触发熔断",
       "summary": "⚡ 7月28日财经重磅：美联储FOMC利率会议首日，市场加息概率升至36%；布伦特原油跌破87美元，美伊停火谈判持续；韩国KOSPI暴跌8%触发年内第八次熔断；美元指数创一个月新高，日元逼近40年低点。",
-      "tags": ["金融经济", "美联储", "油价", "韩股", "美元", "外汇"],
+      "tags": [
+        "金融经济",
+        "美联储",
+        "油价",
+        "韩股",
+        "美元",
+        "外汇"
+      ],
       "file": "posts/425-fomc-day-1-oil-collapse-dollar-yen-kospi-circuit-breaker-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 28 Financial Roundup: FOMC Day 1 — Rate Hike Odds Jump to 36%, Oil Collapses Below $87, KOSPI Triggers Circuit Breaker",
       "summary": "⚡ July 28 financial roundup: FOMC two-day meeting kicks off with rate hike probability surging to 36%; Brent crude falls below $87 as US-Iran ceasefire talks progress; South Korea's KOSPI plunges 8% triggering 8th circuit breaker of 2026; Dollar hits one-month high, yen near 40-year lows.",
-      "tags": ["Financial Markets", "Federal Reserve", "Oil", "KOSPI", "US Dollar", "Forex"],
+      "tags": [
+        "Financial Markets",
+        "Federal Reserve",
+        "Oil",
+        "KOSPI",
+        "US Dollar",
+        "Forex"
+      ],
       "file": "posts/425-fomc-day-1-oil-collapse-dollar-yen-kospi-circuit-breaker-july-28-2026.en.html"
     }
   },
@@ -21,13 +67,29 @@
     "zh": {
       "title": "⚡ 7月28日泛科技三重奏：AI芯片封装成新瓶颈、中国量产硅-28量子材料、智源发布悟界世界模型",
       "summary": "⚡ 7月28日泛科技多重要闻：AT&S CEO警告AI芯片需求将先进封装和基板供应推向瓶颈，产能跟不上AI爆发式增长；中核集团宣布硅-28同位素实现99.99%丰度自主量产，为硅基量子芯片提供核心材料；北京智源发布悟界·RoboBrain Orca世界模型，首次实现AI对整体世界状态的前后演化推演。",
-      "tags": ["半导体", "先进封装", "量子计算", "世界模型", "智源", "AI芯片", "国产材料"],
+      "tags": [
+        "半导体",
+        "先进封装",
+        "量子计算",
+        "世界模型",
+        "智源",
+        "AI芯片",
+        "国产材料"
+      ],
       "file": "posts/424-ats-packaging-bottleneck-silicon28-quantum-baai-world-model-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 28 Tech Triple: AI Chip Packaging Hits Bottleneck, China Mass-Produces Silicon-28 for Quantum Chips, BAAI Unveils RoboBrain World Model",
       "summary": "⚡ July 28 multi-domain tech update: AT&S CEO warns AI chip demand shifts bottleneck to advanced packaging and substrates; China's CNNC achieves mass production of 99.99% purity silicon-28 isotopes for silicon-based quantum chips; Beijing Academy of AI (BAAI) releases Wujie RoboBrain Orca world model, achieving AI's first global state evolution reasoning capability.",
-      "tags": ["Semiconductor", "Advanced Packaging", "Quantum Computing", "World Model", "BAAI", "AI Chip", "China Tech"],
+      "tags": [
+        "Semiconductor",
+        "Advanced Packaging",
+        "Quantum Computing",
+        "World Model",
+        "BAAI",
+        "AI Chip",
+        "China Tech"
+      ],
       "file": "posts/424-ats-packaging-bottleneck-silicon28-quantum-baai-world-model-july-28-2026.en.html"
     }
   },
@@ -37,13 +99,28 @@
     "zh": {
       "title": "⚡ 7月28日半导体重磅：中国突破DUV光刻机量产，ASML暴跌7%芯片股集体承压",
       "summary": "⚡ 7月28日半导体重磅突破：中国自主浸没式DUV光刻机实现量产，上海企业（华为关联公司御两生科技）已开始生产。消息引发华尔街地震，ASML暴跌超7%，美国半导体设备股集体下挫。中国28nm芯片全产业链自主化迈出关键一步。",
-      "tags": ["半导体", "光刻机", "DUV", "中国芯片", "ASML", "国产替代"],
+      "tags": [
+        "半导体",
+        "光刻机",
+        "DUV",
+        "中国芯片",
+        "ASML",
+        "国产替代"
+      ],
       "file": "posts/423-china-duv-lithography-breakthrough-asml-chip-stocks-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 28 Semiconductor Bombshell: China Begins Mass Production of Homegrown DUV Lithography Machines, ASML Plunges 7%",
       "summary": "⚡ July 28 semiconductor bombshell: China begins mass production of domestic immersion DUV lithography machines. Shanghai-based Yuliangsheng Technology starts commercial manufacturing. ASML stock crashes 7%, US chip equipment makers rout. A landmark step in China's semiconductor self-sufficiency drive.",
-      "tags": ["Semiconductor", "DUV", "Lithography", "China Tech", "ASML", "SMIC", "Chip Self-Sufficiency"],
+      "tags": [
+        "Semiconductor",
+        "DUV",
+        "Lithography",
+        "China Tech",
+        "ASML",
+        "SMIC",
+        "Chip Self-Sufficiency"
+      ],
       "file": "posts/423-china-duv-lithography-breakthrough-asml-chip-stocks-july-28-2026.en.html"
     }
   },
@@ -53,13 +130,31 @@
     "zh": {
       "title": "⚡ 7月28日国际政治要闻：美伊60天谅解备忘录框架达成、特朗普将乌克兰和谈期限缩至10-12天、内塔尼亚胡秘密赴美会晤、普京称俄罗斯处于「命运攸关之际」",
       "summary": "⚡ 7月28日国际政治要闻：美国与伊朗谈判代表就60天谅解备忘录达成协议框架，霍尔木兹海峡将恢复无限制通行；特朗普在苏格兰宣布将乌克兰和谈50天期限缩短至10-12天，称「已知道答案」；以色列总理内塔尼亚胡因伊朗威胁秘密从军事基地赴美；普京在统一俄罗斯党大会上称国家处于「命运攸关之际」；布伦特原油暴跌9%。",
-      "tags": ["国际政治", "美伊谈判", "特朗普", "普京", "内塔尼亚胡", "乌克兰", "霍尔木兹海峡", "原油"],
+      "tags": [
+        "国际政治",
+        "美伊谈判",
+        "特朗普",
+        "普京",
+        "内塔尼亚胡",
+        "乌克兰",
+        "霍尔木兹海峡",
+        "原油"
+      ],
       "file": "posts/422-us-iran-mou-trump-ukraine-deadline-netanyahu-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 28 Geopolitical Update: US-Iran Reach 60-Day MoU Framework, Trump Slashes Ukraine Peace Deadline to 10-12 Days, Netanyahu Secretly Departs for US, Putin Says Russia at 'Fateful Moment'",
       "summary": "⚡ July 28 breaking: US and Iranian negotiators agree on 60-day memorandum of understanding framework to reopen Strait of Hormuz; Trump shortens Ukraine peace deadline from 50 days to 10-12 days; Netanyahu secretly departs Israel from military airbase due to Iran threats; Putin calls it a 'fateful moment' for Russia; Brent crude plunges 9%.",
-      "tags": ["Geopolitics", "US-Iran Talks", "Trump", "Putin", "Netanyahu", "Ukraine", "Strait of Hormuz", "Oil"],
+      "tags": [
+        "Geopolitics",
+        "US-Iran Talks",
+        "Trump",
+        "Putin",
+        "Netanyahu",
+        "Ukraine",
+        "Strait of Hormuz",
+        "Oil"
+      ],
       "file": "posts/422-us-iran-mou-trump-ukraine-deadline-netanyahu-july-28-2026.en.html"
     }
   },
@@ -69,13 +164,27 @@
     "zh": {
       "title": "⚡ 7月28日财经要闻：韩国KOSPI开盘暴跌6.8%触发熔断、美联储利率决议进入倒计时、国际油价重挫7%",
       "summary": "⚡ 7月28日财经动态：韩国股市开盘暴跌超5%，KOSPI指数跌破6400点触发卖盘侧电路断路器，三星电子跌8.27%、SK海力士跌近10%；美联储7月28-29日召开FOMC议息会议，市场加息概率升至38%；国际油价大幅回落逾7%，美伊暂停打击第三天推动地缘溢价回吐；苹果市值逼近5万亿美元重新登顶全球第一。",
-      "tags": ["金融经济", "韩国股市", "美联储", "国际油价", "KOSPI", "苹果"],
+      "tags": [
+        "金融经济",
+        "韩国股市",
+        "美联储",
+        "国际油价",
+        "KOSPI",
+        "苹果"
+      ],
       "file": "posts/421-kospi-crash-circuit-breaker-oil-fomc-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 28 Financial Wrap: KOSPI Crashes 6.8% at Open Triggering Circuit Breaker; Fed FOMC Meeting in Focus; Oil Plunges 7%",
       "summary": "⚡ July 28 financial highlights: South Korea's KOSPI crashes 6.84% at open as Samsung drops 8.27% and SK Hynix falls 10%; Fed begins July FOMC meeting with rate hike probability surging to 38%; oil prices tumble 7%+ on US-Iran pause extending to third day; Apple's market cap nears $5 trillion, reclaims global No. 1.",
-      "tags": ["Finance", "KOSPI", "Federal Reserve", "FOMC", "Oil", "Apple"],
+      "tags": [
+        "Finance",
+        "KOSPI",
+        "Federal Reserve",
+        "FOMC",
+        "Oil",
+        "Apple"
+      ],
       "file": "posts/421-kospi-crash-circuit-breaker-oil-fomc-july-28-2026.en.html"
     }
   },
@@ -85,13 +194,29 @@
     "zh": {
       "title": "⚡ MCP协议史上最大更新今日发布：取消握手会话全面无状态化；深鉴科技神经形态芯片能效超GPU百倍",
       "summary": "⚡ 7月28日凌晨重磅：MCP（Model Context Protocol）正式发布2026-07-28规格正式版，取消initialize握手和Mcp-Session-Id会话ID，全面转向无状态架构，AI Agent基础设施迎来历史性变革。同时，深鉴科技发布「博索」神经形态芯片，3D存算一体架构能效超GPU百倍，边缘AI计算进入超高能效时代。",
-      "tags": ["泛科技", "MCP", "AI Agent", "神经形态芯片", "深鉴科技", "存算一体", "忆阻器"],
+      "tags": [
+        "泛科技",
+        "MCP",
+        "AI Agent",
+        "神经形态芯片",
+        "深鉴科技",
+        "存算一体",
+        "忆阻器"
+      ],
       "file": "posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ MCP Ships Largest Spec Update Ever: Goes Fully Stateless; Shenjian Debuts Neuromorphic Chip 100x More Efficient Than GPU",
       "summary": "⚡ Breaking July 28: The Model Context Protocol (MCP) ships its largest revision since launch — removing the initialize handshake and session ID for a fully stateless architecture, fundamentally transforming AI Agent infrastructure. Also: Shenjian Technology unveils 'Bosuo' neuromorphic chip with 3D compute-in-memory delivering 100x better energy efficiency than GPUs, ushering edge AI into the ultra-efficient era.",
-      "tags": ["Tech News", "MCP", "AI Agent", "Neuromorphic Chip", "Shenjian Tech", "Compute-in-Memory", "Memristor"],
+      "tags": [
+        "Tech News",
+        "MCP",
+        "AI Agent",
+        "Neuromorphic Chip",
+        "Shenjian Tech",
+        "Compute-in-Memory",
+        "Memristor"
+      ],
       "file": "posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.en.html"
     }
   },
