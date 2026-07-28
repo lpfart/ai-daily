@@ -1,5 +1,21 @@
 [
   {
+    "id": "440",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ \"黑色星期二\"全球芯片股史诗级暴跌：KOSPI熔断、三星SK海力士跌超13%、AMD签140亿美元数据中心大单、Kimi K3开源引爆市值蒸发数千亿",
+      "summary": "⚡ 7月29日泛科技要闻：全球芯片股遭遇「黑色星期二」——KOSPI暴跌10.84%触发年内第八次熔断，三星电子-13.39%、SK海力士-14.65%，英伟达跌破200美元，费城半导体指数进入熊市；AMD与Core Scientific签140亿美元15年数据中心协议，锁定530兆瓦横跨五州AI算力；月之暗面正式开源Kimi K3 2.8万亿参数模型，18家美国企业火速部署，英伟达同日砸50亿美元投资SSI安全超级智能实验室。",
+      "tags": ["泛科技", "芯片", "KOSPI", "AMD", "AI基础设施", "Kimi K3", "开源AI", "英伟达"],
+      "file": "posts/440-black-tuesday-chip-meltdown-kospi-amd-corsc-kimi-k3-open-source-nvidia-ssi-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ \"Black Tuesday\": Global Chip Stocks Suffer Historic Rout — KOSPI Triggers 8th Circuit Breaker, AMD Signs $14B Data Center Deal, Kimi K3 Open Source Sparks $314B Market Shock",
+      "summary": "⚡ July 29 tech roundup: Global chip stocks hit by 'Black Tuesday' — KOSPI crashes 10.84% triggering 8th circuit breaker of 2026, Samsung -13.39%, SK Hynix -14.65%, Nvidia falls below $200, SOXX enters bear market; AMD signs $14B 15-year data center deal with Core Scientific for 2.5 GW AI capacity across five US states; Moonshot AI open-sources Kimi K3 — 2.8 trillion parameter model — 18 US companies deploy within hours, Nvidia invests $5B in SSI same day.",
+      "tags": ["Tech News", "Semiconductors", "KOSPI", "AMD", "AI Infrastructure", "Kimi K3", "Open Source AI", "Nvidia"],
+      "file": "posts/440-black-tuesday-chip-meltdown-kospi-amd-corsc-kimi-k3-open-source-nvidia-ssi-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "439",
     "date": "2026-07-29",
     "zh": {
