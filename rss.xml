@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 28 Jul 2026 06:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:07:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ MCP协议史上最大更新今日发布：取消握手会话全面无状态化；深鉴科技神经形态芯片能效超GPU百倍</title>
+      <link>https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.zh.html</link>
+      <description>⚡ 7月28日凌晨重磅：MCP正式发布2026-07-28规格正式版，取消initialize握手和Mcp-Session-Id会话ID，全面转向无状态架构。同时，深鉴科技发布「博索」神经形态芯片，3D存算一体能效超GPU百倍。</description>
+      <pubDate>Tue, 28 Jul 2026 00:07:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月28日国际政治要闻：美伊连续三晚停火谈判取得突破、特朗普与泽连斯基今日华盛顿会晤推动空中停火、俄军一夜向乌克兰发射331枚导弹和无人机</title>
