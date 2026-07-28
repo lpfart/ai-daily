@@ -1,5 +1,39 @@
 [
   {
+    "id": "431",
+    "date": "2026-07-28",
+    "zh": {
+      "title": "⚡ 7月28日泛科技要闻：Hugging Face被曝系统化深度伪造漏洞、MIT微型飞行机器人速度提升450%、中国商务部强硬回击AI蒸馏指控",
+      "summary": "⚡ 7月28日泛科技要闻：The Verge联合欧洲非营利组织AI Forensics发布调查报告，Hugging Face平台图像编辑模型被系统性用于生成非自愿深度伪造内容，73%蜜罐请求涉性、7%针对儿童；MIT研究团队开发AI驱动微型昆虫飞行机器人，速度提升447%、加速度提升255%，11秒内完成10次连续后空翻；中国商务部在媒体发布会上强硬回应美国AI蒸馏指控，反指美企也在蒸馏中国模型，并称将采取一切必要措施应对制裁。",
+      "tags": [
+        "泛科技",
+        "AI安全",
+        "Hugging Face",
+        "深度伪造",
+        "MIT",
+        "机器人",
+        "中国商务部",
+        "AI蒸馏"
+      ],
+      "file": "posts/431-hugging-face-deepfake-mit-flying-robot-china-ai-july-28-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 28 Tech Roundup: Hugging Face Deepfake Scandal Exposed, MIT's Insect Robot Flies 450% Faster, China Fires Back at AI Distillation Allegations",
+      "summary": "⚡ July 28 tech roundup: The Verge and AI Forensics expose systemic deepfake abuse on Hugging Face — 7 of 9 top image models generate nonconsensual intimate images, 73% of honeypot requests were sexual, 7% targeted children; MIT's AI-powered micro flying robot achieves 447% faster flight, 255% better acceleration, 10 consecutive backflips in 11 seconds; China's Ministry of Commerce vows 'all necessary measures' against US AI sanctions, counter-accusing US AI companies of distilling Chinese models.",
+      "tags": [
+        "Tech News",
+        "AI Safety",
+        "Hugging Face",
+        "Deepfake",
+        "MIT",
+        "Robotics",
+        "China",
+        "AI Distillation"
+      ],
+      "file": "posts/431-hugging-face-deepfake-mit-flying-robot-china-ai-july-28-2026.en.html"
+    }
+  },
+  {
     "id": "430",
     "date": "2026-07-28",
     "zh": {
