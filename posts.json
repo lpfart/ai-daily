@@ -1,5 +1,21 @@
 [
   {
+    "id": "441",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日泛科技三连击：英伟达发布Nemotron 3开源模型吞吐量4倍于前代、腾讯混元世界模型1.5开源、OpenAI推出GPT-5.6三档模型与ChatGPT Work",
+      "summary": "⚡ 7月29日泛科技要闻：英伟达发布Nemotron 3开源MoE模型系列——Nano/Super/Ultra三档规格，吞吐量达前代4倍，Palantir/Cursor/Perplexity等12家巨头首批接入；腾讯混元世界模型1.5正式开源，业界首个实时世界模型框架WorldPlay支持24FPS 720P流式生成，空间记忆能力突破；OpenAI推出GPT-5.6三档模型Sol/Terra/Luna，ChatGPT Work与Codex正式合体。",
+      "tags": ["泛科技", "AI模型", "英伟达", "腾讯混元", "OpenAI", "GPT-5.6", "世界模型", "开源"],
+      "file": "posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Tech Triple: Nvidia Launches Nemotron 3 Open-Source AI Models with 4x Throughput, Tencent Open-Sources Hunyuan World Model 1.5, OpenAI Debuts GPT-5.6 Trio and ChatGPT Work",
+      "summary": "⚡ July 29 tech triple: Nvidia unveils Nemotron 3 MoE model family — Nano/Super/Ultra with 4x throughput, adopted by EY, Cisco, Palantir, Perplexity, Cursor and more; Tencent Hunyuan open-sources World Model 1.5 (WorldPlay) — industry's first real-time world model framework with 24 FPS 720P streaming and spatial memory; OpenAI launches GPT-5.6 in three tiers with ChatGPT Work merging ChatGPT and Codex.",
+      "tags": ["Tech News", "AI Models", "Nvidia", "Tencent", "OpenAI", "GPT-5.6", "World Model", "Open Source"],
+      "file": "posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "440",
     "date": "2026-07-29",
     "zh": {
