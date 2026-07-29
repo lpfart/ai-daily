@@ -1,5 +1,21 @@
 [
   {
+    "id": "446",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日金融超级日：美联储决议日悬念空前、KOSPI再现熔断连跌两日创历史、亚洲芯片股继续崩跌、布伦特原油跌破84美元",
+      "summary": "⚡ 7月29日金融市场史诗级一日：美联储FOMC利率决议即将揭晓——加息概率24-38%为近两年最高分歧，新主席沃什面临「加息vs维稳」终极抉择；韩国KOSPI连续第二天触发熔断暴跌11.16%至5351点——史上首次主板科斯达克双市场连续两日同步熔断，三星电子跌11.32%、SK海力士跌16.58%；台湾TAIEX重挫4.65%创史上第三大跌幅；布伦特原油继续下探至83.80美元创三个月新低。超级日三线交织：货币政策、亚洲股市、原油市场。",
+      "tags": ["金融经济", "美联储", "FOMC", "利率决议", "KOSPI", "熔断", "亚洲股市", "芯片股", "油价"],
+      "file": "posts/446-fed-fomc-decision-day-kospi-circuit-breaker-asian-chip-rout-oil-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Financial Super Day: Fed FOMC Decision Day — Maximum Uncertainty in Two Years; KOSPI Triggers Historic Back-to-Back Circuit Breakers; Asian Chip Rout Deepens; Brent Crude Falls to Three-Month Low Below $84",
+      "summary": "⚡ July 29 financial mega-day: Fed FOMC rate decision with 24-38% probability of surprise hike — highest policy uncertainty in two years; South Korea's KOSPI crashes 11.16% triggering a second consecutive day of circuit breakers in both KOSPI and KOSDAQ — a historic first; Taiwan's TAIEX suffers 3rd-largest drop on record; Brent crude falls 5% to $83.80 hitting three-month low.",
+      "tags": ["Financial Markets", "Federal Reserve", "FOMC", "Rate Decision", "KOSPI", "Circuit Breaker", "Chip Stocks", "Oil"],
+      "file": "posts/446-fed-fomc-decision-day-kospi-circuit-breaker-asian-chip-rout-oil-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "445",
     "date": "2026-07-29",
     "zh": {
