@@ -4607,4 +4607,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/459-iran-ballistic-missile-jordan-us-saudi-strikes-trump-threat-oil-july-30-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/459-iran-ballistic-missile-jordan-us-saudi-strikes-trump-threat-oil-july-30-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
