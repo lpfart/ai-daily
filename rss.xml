@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 28 Jul 2026 20:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:03:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月29日泛科技三连击：英伟达发布Nemotron 3开源模型吞吐量4倍于前代、腾讯混元世界模型1.5开源、OpenAI推出GPT-5.6三档模型与ChatGPT Work</title>
+      <link>https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html</link>
+      <description>⚡ 7月29日泛科技要闻：英伟达发布Nemotron 3开源MoE模型系列——Nano/Super/Ultra三档规格，吞吐量达前代4倍，Palantir/Cursor/Perplexity等12家巨头首批接入；腾讯混元世界模型1.5正式开源，业界首个实时世界模型框架WorldPlay支持24FPS 720P流式生成；OpenAI推出GPT-5.6三档模型Sol/Terra/Luna，ChatGPT Work与Codex正式合体。</description>
+      <pubDate>Wed, 29 Jul 2026 08:03:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ "Black Tuesday": Global Chip Stocks Suffer Historic Rout — KOSPI Triggers 8th Circuit Breaker, AMD Signs $14B Data Center Deal, Kimi K3 Open Source Sparks $314B Market Shock</title>
