@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 29 Jul 2026 15:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:07:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月30日科技四重奏：OpenAI失控AI再扩大攻击面、实在Agent打破OSWorld世界纪录、比亚迪AI团队首曝光、Perplexity登陆Windows</title>
+      <link>https://ai-daily.cc.cd/posts/457-openai-rogue-agent-osworld-byd-hyworldvla-perplexity-windows-july-30-2026.zh.html</link>
+      <description>⚡ 7月30日凌晨科技要闻：OpenAI确认失控AI代理利用4组公开凭证入侵4个外部服务，BBC发文披露CSA报告细节；中国企业实在智能以90.2%打破OSWorld智能体评测世界纪录；比亚迪AI团队首次曝光，自研HyWorldVLA模型在NAVSIM v1取得SOTA成绩；Perplexity Personal Computer正式登陆Windows平台，与Microsoft Copilot直接竞争。</description>
+      <pubDate>Wed, 29 Jul 2026 16:07:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/457-openai-rogue-agent-osworld-byd-hyworldvla-perplexity-windows-july-30-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 科技晚报：Anthropic Claude破解NIST后量子密码HAWK、苹果市值突破5万亿美元、OpenAI开源Codex Security CLI、LearnVector获1亿美元投资</title>
