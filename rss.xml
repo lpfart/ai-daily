@@ -6,8 +6,24 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 29 Jul 2026 07:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月29日金融超级日：FOMC决议悬念创历史、伊朗突袭油价暴涨4%、韩指跌破6000二次熔断、欧股逆势走高</title>
+      <link>https://ai-daily.cc.cd/posts/450-fomc-decision-day-oil-surge-kospi-circuit-breaker-europe-markets-july-29-2026.zh.html</link>
+      <description>⚡ 7月29日全球金融市场史诗级一日：美联储FOMC利率决议日悬念空前，加息概率30%为近年之最；伊朗向美军发射弹道导弹油价暴涨4%布伦特重回87美元；韩国KOSPI跌破6000点连续第二日触发熔断；欧洲股市逆势走高FTSE 100涨0.6%能源股领涨。</description>
+      <pubDate>Wed, 29 Jul 2026 09:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/450-fomc-decision-day-oil-surge-kospi-circuit-breaker-europe-markets-july-29-2026.zh.html</guid>
+    </item>
+
+    <item>
+      <title>⚡ FCC正式禁止中国产人形机器人进口：Unitree确认存在后门漏洞，安全审查全面升级</title>
+      <link>https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.zh.html</link>
+      <description>⚡ 7月29日科技重磅：美国FCC正式将中国产人形机器人和四足机器人列入「受管制清单」，禁止新型号进口。此前安全研究人员已在Unitree机器人固件中发现CVE-2025-2894云后门和UniPwn蓝牙蠕虫漏洞，涉MIT、普林斯顿、卡内基梅隆等美国顶尖高校。Unitree全球人形机器人市场份额近20%，禁令将彻底改变行业格局。</description>
+      <pubDate>Wed, 29 Jul 2026 08:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ xAI公布Grok 4.6/4.7发布路线图：1.5万亿参数8月7日登场，2.1万亿参数版紧随其后</title>
