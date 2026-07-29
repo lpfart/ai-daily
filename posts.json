@@ -1,5 +1,39 @@
 [
   {
+    "id": "453",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日泛科技四重奏：海尔发布全自主AI炒菜机器人、闲鱼AI服务半年暴增157%、国家邮政局推进AI无人机、亚马逊减少Claude依赖控成本",
+      "summary": "⚡ 7月29日泛科技要闻：海尔智家联合橡鹿机器人发布全球首款全自主AI烹饪机器人CR3，全程无人干预智能炒菜；闲鱼AI服务上半年订单量达981.6万暴增157%，AI编程与建站增长1732%；国家邮政局发布「十五五」规划明确AI+邮政快递全面提速，无人机无人车加速落地；亚马逊内部文件曝光为降低Alexa运营成本已重新设计减少对Anthropic Claude依赖。",
+      "tags": [
+        "泛科技",
+        "消费电子",
+        "海尔",
+        "AI机器人",
+        "闲鱼",
+        "AI应用",
+        "邮政无人机",
+        "亚马逊"
+      ],
+      "file": "posts/453-haier-ai-cooking-robot-xianyu-ai-services-postal-drone-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Tech Roundup: Haier Launches Fully Autonomous AI Cooking Robot, Xianyu AI Services Surge 157%, China Post Pushes AI Drones, Amazon Redesigns Alexa to Cut Costs",
+      "summary": "⚡ July 29 tech roundup: Haier partners with Xionglu Robotics to launch CR3, the world's first fully autonomous AI cooking robot; Xianyu reports 981,600 AI service orders in H1 2026, up 157% YoY; China's State Post Bureau unveils 15th Five-Year Plan prioritizing AI-powered drone and autonomous vehicle delivery; internal Amazon documents reveal Alexa redesign to reduce reliance on Anthropic's Claude models amid cost pressures.",
+      "tags": [
+        "Tech News",
+        "Consumer Tech",
+        "Haier",
+        "AI Robot",
+        "Xianyu",
+        "AI Services",
+        "Amazon",
+        "Alexa"
+      ],
+      "file": "posts/453-haier-ai-cooking-robot-xianyu-ai-services-postal-drone-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "452",
     "date": "2026-07-29",
     "zh": {
