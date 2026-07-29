@@ -1,5 +1,21 @@
 [
   {
+    "id": "456",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 科技晚报：Anthropic Claude破解NIST后量子密码HAWK、苹果市值突破5万亿美元、OpenAI开源Codex Security CLI、LearnVector获1亿美元投资",
+      "summary": "⚡ 7月29日科技晚间要闻：Anthropic Claude Mythos在60小时内破解NIST后量子密码候选算法HAWK-256，人类两年未发现的数学漏洞被AI揭示；苹果市值周二交易中短暂突破5万亿美元，重新超越英伟达成全球最值钱公司；OpenAI开源Codex Security CLI提供AI驱动代码安全扫描；Andrew Ng创立的LearnVector获Coursera 1亿美元投资，AI个性化教育赛道升温。",
+      "tags": ["Anthropic", "后量子密码", "苹果", "OpenAI", "AI安全", "AI教育"],
+      "file": "posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Tech Evening Roundup: Claude Breaks NIST Post-Quantum Cipher HAWK in 60 Hours, Apple Hits $5 Trillion Market Cap, OpenAI Open-Sources Codex Security CLI, LearnVector Raises $100M",
+      "summary": "⚡ July 29 evening tech roundup: Anthropic's Claude Mythos cracks NIST post-quantum cipher HAWK-256 in 60 hours — a mathematical flaw that survived 2 years of expert human review; Apple briefly crosses $5 trillion market cap retaking world's most valuable company from Nvidia; OpenAI open-sources Codex Security CLI for AI-driven code vulnerability scanning; Andrew Ng's LearnVector raises $100M from Coursera for AI-native tutoring.",
+      "tags": ["Anthropic", "Post-Quantum Crypto", "Apple", "OpenAI", "AI Security", "AI Education"],
+      "file": "posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "455",
     "date": "2026-07-29",
     "zh": {
