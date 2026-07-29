@@ -1,5 +1,21 @@
 [
   {
+    "id": "442",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ SK海力士Q2财报出炉：营收79.3万亿韩元创历史新高，运营利润60.5万亿同比暴增557%，HBM4已大规模出货",
+      "summary": "⚡ 7月29日金融重磅：SK海力士发布Q2创纪录财报——营收79.31万亿韩元(+257% YoY)、运营利润60.54万亿韩元(+557% YoY)、净利润93.92万亿韩元(+1,242.5%)，运营利润率76%再创历史新高超越台积电。HBM4已开始大规模出货，HBM4E样品已交付客户。利润略低于市场预期64.1万亿韩元，但绝对值仍为历史最佳。财报发布后KOSPI反弹2.76%，SK海力士涨3.74%，三星电子涨4.55%，亚洲芯片股全面反弹。",
+      "tags": ["金融经济", "SK海力士", "财报", "HBM", "AI内存", "KOSPI", "半导体", "韩国股市", "芯片股反弹"],
+      "file": "posts/442-sk-hynix-q2-record-earnings-kospi-rebound-ai-chip-supercycle-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ SK Hynix Reports Record Q2 Earnings: Revenue Hits 79.3T Won, Operating Profit Surges 557% YoY, HBM4 Mass Shipments Begin",
+      "summary": "⚡ July 29 financial重磅: SK Hynix reports record Q2 2026 earnings — revenue 79.31T won (+257% YoY), operating profit 60.54T won (+557% YoY), net profit 93.92T won (+1,242.5% YoY). Operating margin hits record 76%, surpassing TSMC again. HBM4 mass shipments begin, HBM4E samples delivered to customers. Results slightly miss 64.1T won consensus but remain historic. KOSPI rebounds 2.76%, SK Hynix +3.74%, Samsung +4.55% as Asian chip stocks recover from Black Tuesday.",
+      "tags": ["Financial Markets", "SK Hynix", "Earnings", "HBM", "AI Memory", "KOSPI", "Semiconductors", "South Korea", "Chip Stocks"],
+      "file": "posts/442-sk-hynix-q2-record-earnings-kospi-rebound-ai-chip-supercycle-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "441",
     "date": "2026-07-29",
     "zh": {
