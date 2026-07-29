@@ -1,5 +1,21 @@
 [
   {
+    "id": "458",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日金融超级日：FOMC决议倒计时、伊朗导弹突袭引爆油价暴涨7%、KOSPI两天蒸发2万亿美元芯片股跌入熊市",
+      "summary": "⚡ 7月30日凌晨金融市场史诗级行情：美联储FOMC利率决议进入最后倒计时，加息概率30-36%创近年最大分歧；伊朗向约旦美军基地发射弹道导弹打破停火，布伦特原油暴涨7%逼近90美元；韩国KOSPI连续第二日暴跌盘中跌超12%两天抹去2.18万亿美元市值；SOX半导体指数较峰值下跌26%进入熊市；微软Meta收盘后财报即将登场。",
+      "tags": ["金融经济", "FOMC", "美联储", "油价", "KOSPI", "芯片股", "美股"],
+      "file": "posts/458-fed-decision-countdown-oil-surge-kospi-2t-rout-chip-bear-market-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Financial Super Day: FOMC Countdown, Iran Missile Attack Triggers 7% Oil Surge, KOSPI Loses $2 Trillion in Two Days, Chip Stocks Enter Bear Market",
+      "summary": "⚡ July 30 financial markets mega-roundup: FOMC rate decision countdown with historic 30-36% hike probability; Iran launches ballistic missiles at US base in Jordan, Brent surges 7% toward $90; KOSPI crashes up to 12.6% wiping $2.18 trillion in two days; SOX semiconductor index enters bear market down 26% from peak; Microsoft and Meta earnings after the bell.",
+      "tags": ["Financial Markets", "FOMC", "Federal Reserve", "Oil", "KOSPI", "Chip Stocks", "US Markets"],
+      "file": "posts/458-fed-decision-countdown-oil-surge-kospi-2t-rout-chip-bear-market-july-30-2026.en.html"
+    }
+  },
+  {
     "id": "457",
     "date": "2026-07-30",
     "zh": {
