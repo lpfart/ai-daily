@@ -1,5 +1,21 @@
 [
   {
+    "id": "444",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 硅谷逾1100名AI员工联名请愿\u201c给AI装刹车\u201d：奥特曼承认\u201c不得不控制发展速度\u201d，黄仁勋同日赴华盛顿捍卫开源",
+      "summary": "⚡ 7月29日科技重磅：来自OpenAI、Anthropic、谷歌、Meta等12家公司的1171名员工签署\u2018Pacing the Frontier\u2019请愿书，敦促美国政府支持建立国际机制控制AI发展速度。OpenAI CEO奥特曼在播客中承认\u2018我们可能不得不控制AI发展的速度\u2019，Hugging Face入侵事件成转折点。同日英伟达CEO黄仁勋亲赴华盛顿游说，力陈开放权重模型对AI安全的战略价值。AI安全风险从\u2018说错话\u2019升级到\u2018做错事\u2019，行业内部路线分歧全面爆发。",
+      "tags": ["泛科技", "AI安全", "OpenAI", "Anthropic", "请愿", "英伟达", "开源模型", "AI监管"],
+      "file": "posts/444-pacing-the-frontier-petition-altman-huang-washington-open-weights-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Over 1,100 AI Employees Sign \u2018Pacing the Frontier\u2019 Petition Urging US to Slow AI; Altman Admits \u2018We May Have to Pace the Rate\u2019; Jensen Huang Lobbies Washington on Open Weights Same Day",
+      "summary": "⚡ July 29 tech megastory: 1,171 employees from 12 AI companies sign \u2018Pacing the Frontier\u2019 petition urging US government to develop mechanisms for deliberately pacing frontier AI development. OpenAI CEO Sam Altman admits \u2018we may have to pace the rate of AI development\u2019 citing Hugging Face breach as turning point. Nvidia CEO Jensen Huang visits Washington same day to lobby Congress on open-weight models. The AI safety paradigm shifts from \u2018saying dangerous things\u2019 to \u2018doing dangerous things\u2019 as industry rift deepens.",
+      "tags": ["Tech News", "AI Safety", "OpenAI", "Anthropic", "Petition", "Nvidia", "Open Weights", "AI Regulation"],
+      "file": "posts/444-pacing-the-frontier-petition-altman-huang-washington-open-weights-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "443",
     "date": "2026-07-29",
     "zh": {
