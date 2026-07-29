@@ -1,17 +1,63 @@
 [
   {
+    "id": "451",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日中东局势全面升级：美沙联合空袭伊拉克打死20人，革命卫队拦截3艘油轮，油价暴涨4%",
+      "summary": "⚡ 7月29日中东局势全面升级：美沙联合空袭伊拉克7省PMF基地，20死32伤；伊朗革命卫队霍尔木兹海峡拦截3艘油轮并警告美军停止干预；伊拉克紧急召开国安会议谴责主权侵犯；布伦特原油暴涨4.27%至87.68美元。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东",
+        "沙特",
+        "伊拉克",
+        "霍尔木兹海峡",
+        "原油"
+      ],
+      "file": "posts/451-us-saudi-strikes-iraq-pmf-20-killed-irgc-tankers-oil-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Middle East Crisis: US-Saudi Joint Strikes Kill 20 in Iraq, IRGC Intercepts 3 Oil Tankers, Oil Surges 4%",
+      "summary": "⚡ July 29 Middle East escalation: US-Saudi joint airstrikes hit PMF bases in 7 Iraqi provinces, 20 killed 32 wounded; Iran IRGC intercepts 3 oil tankers in Strait of Hormuz; Iraq PM calls emergency security meeting; Brent crude surges 4.27% to $87.68.",
+      "tags": [
+        "World Affairs",
+        "US-Iran Conflict",
+        "Middle East",
+        "Saudi Arabia",
+        "Iraq",
+        "Strait of Hormuz",
+        "Oil"
+      ],
+      "file": "posts/451-us-saudi-strikes-iraq-pmf-20-killed-irgc-tankers-oil-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "450",
     "date": "2026-07-29",
     "zh": {
       "title": "⚡ 7月29日金融超级日：FOMC决议悬念创历史、伊朗突袭油价暴涨4%、韩指跌破6000二次熔断、欧股逆势走高",
       "summary": "⚡ 7月29日全球金融市场史诗级一日：美联储FOMC利率决议日悬念空前，加息概率30%为近年之最；伊朗向美军发射弹道导弹油价暴涨4%布伦特重回87美元；韩国KOSPI跌破6000点连续第二日触发熔断；欧洲股市逆势走高FTSE 100涨0.6%能源股领涨。",
-      "tags": ["金融经济", "FOMC", "原油", "美股", "韩指", "全球市场"],
+      "tags": [
+        "金融经济",
+        "FOMC",
+        "原油",
+        "美股",
+        "韩指",
+        "全球市场"
+      ],
       "file": "posts/450-fomc-decision-day-oil-surge-kospi-circuit-breaker-europe-markets-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 29 Financial Super Day: FOMC Decision with Historic Uncertainty, Oil Surges 4% After Iran Strikes, KOSPI Breaks Below 6,000, European Stocks Defy Turmoil",
       "summary": "⚡ July 29 marks the most critical trading day of 2026: Fed FOMC decision with historic uncertainty (30% hike probability), oil surges 4% after Iran launches ballistic missiles at US forces, South Korea's KOSPI breaks below 6,000 triggering second straight circuit breaker, European stocks open higher led by energy sector.",
-      "tags": ["Financial", "FOMC", "Oil", "KOSPI", "European Markets", "Gold"],
+      "tags": [
+        "Financial",
+        "FOMC",
+        "Oil",
+        "KOSPI",
+        "European Markets",
+        "Gold"
+      ],
       "file": "posts/450-fomc-decision-day-oil-surge-kospi-circuit-breaker-europe-markets-july-29-2026.en.html"
     }
   },
@@ -21,13 +67,27 @@
     "zh": {
       "title": "⚡ FCC正式禁止中国产人形机器人进口：Unitree确认存在后门漏洞，安全审查全面升级",
       "summary": "⚡ 7月29日科技重磅：美国FCC正式将中国产人形机器人和四足机器人列入「受管制清单」，禁止新型号进口。此前安全研究人员已在Unitree机器人固件中发现CVE-2025-2894云后门和UniPwn蓝牙蠕虫漏洞，涉MIT、普林斯顿、卡内基梅隆等美国顶尖高校。Unitree全球人形机器人市场份额近20%，禁令将彻底改变行业格局。",
-      "tags": ["泛科技", "机器人", "FCC", "国家安全", "Unitree", "AI安全"],
+      "tags": [
+        "泛科技",
+        "机器人",
+        "FCC",
+        "国家安全",
+        "Unitree",
+        "AI安全"
+      ],
       "file": "posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ FCC Bans Chinese Humanoid Robot Imports: Confirmed Backdoors in Unitree Hardware Trigger National Security Crackdown",
       "summary": "⚡ July 29 tech megastory: The FCC adds Chinese humanoid and quadruped robots to its Covered List, effectively banning new imports. Security researchers confirmed CVE-2025-2894 CloudSail backdoor and UniPwn Bluetooth wormable exploit in Unitree robots found at MIT, Princeton, and CMU. Unitree holds nearly 20% global humanoid market share. The ban also covers power inverters and reshapes the US robotics supply chain.",
-      "tags": ["Tech News", "Robotics", "FCC", "National Security", "Unitree", "AI Safety"],
+      "tags": [
+        "Tech News",
+        "Robotics",
+        "FCC",
+        "National Security",
+        "Unitree",
+        "AI Safety"
+      ],
       "file": "posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.en.html"
     }
   },
@@ -37,13 +97,26 @@
     "zh": {
       "title": "⚡ xAI公布Grok 4.6/4.7发布路线图：1.5万亿参数8月7日登场，2.1万亿参数版紧随其后",
       "summary": "⚡ 7月29日科技消息：Elon Musk在X平台公布xAI Grok 4.6与4.7完整路线图——Grok 4.6为1.5万亿参数模型，预计8月7日发布，显著优化监督微调与强化学习；Grok 4.7为2.1万亿参数更大模型，数周后接续登场。xAI以激进迭代策略应对OpenAI、Anthropic、Google等强敌环绕的AI竞赛格局。",
-      "tags": ["xAI", "Grok", "AI模型", "Elon Musk", "AI竞赛", "大模型"],
+      "tags": [
+        "xAI",
+        "Grok",
+        "AI模型",
+        "Elon Musk",
+        "AI竞赛",
+        "大模型"
+      ],
       "file": "posts/448-grok-46-47-xai-musk-ai-model-roadmap-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ xAI Unveils Grok 4.6/4.7 Roadmap: 1.5T-Parameter Model Arrives August 7, 2.1T Version Follows",
       "summary": "⚡ July 29 tech news: Elon Musk reveals xAI's Grok 4.6 and 4.7 roadmap on X — Grok 4.6 is a 1.5-trillion-parameter model arriving around August 7 with significantly improved SFT and RL; Grok 4.7 is a larger 2.1T-parameter model following weeks later. xAI's aggressive iteration strategy targets OpenAI, Anthropic, and Google in the intensifying AI race.",
-      "tags": ["xAI", "Grok", "AI Model", "Elon Musk", "AI Race"],
+      "tags": [
+        "xAI",
+        "Grok",
+        "AI Model",
+        "Elon Musk",
+        "AI Race"
+      ],
       "file": "posts/448-grok-46-47-xai-musk-ai-model-roadmap-july-29-2026.en.html"
     }
   },
@@ -53,13 +126,29 @@
     "zh": {
       "title": "⚡ 伊朗采购400套中国肩扛防空导弹、反制阿曼霍尔木兹方案、科威特谴责沙特遇袭、华盛顿抗议者冲击内塔尼亚胡下榻酒店",
       "summary": "⚡ 7月29日国际政治四重奏：路透社独家——伊朗数周内接收首批400套中国QW-12/FN-16肩扛式防空导弹价值6000-7000万美元经乌鲁木齐-巴基斯坦通道运抵；伊朗副外长加里巴巴迪正式拒绝阿曼50-50霍尔木兹分治方案要求全控50%+另一半部分控制否则海峡继续关闭；科威特强烈谴责亲伊朗武装袭击沙特石油设施与卡塔尔紧急协调地区安全；华盛顿数千抗议者冲击四季酒店大厅要求执行ICC逮捕令逮捕内塔尼亚胡——49%美国人支持逮捕。",
-      "tags": ["国际政治", "伊朗", "中国军事", "霍尔木兹海峡", "中东", "华盛顿抗议", "ICC"],
+      "tags": [
+        "国际政治",
+        "伊朗",
+        "中国军事",
+        "霍尔木兹海峡",
+        "中东",
+        "华盛顿抗议",
+        "ICC"
+      ],
       "file": "posts/447-iran-china-manpads-hormuz-rejection-gcc-protests-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ Iran to Receive 400 Chinese MANPADS Within Weeks, Rejects Oman Hormuz Proposal, Kuwait Condemns Saudi Oil Attacks, DC Protesters Storm Netanyahu Hotel",
       "summary": "⚡ July 29 world affairs quadruple: Reuters exclusive — Iran to receive 400 Chinese QW-12/FN-16 shoulder-fired air defense systems worth $60-70M via Urumqi-Pakistan corridor within weeks; Deputy FM Gharibabadi formally rejects Oman's 50-50 Hormuz split, demands full control of 50% plus partial control of opposite lane or strait stays closed; Kuwait condemns Iran-aligned militia attacks on Saudi oil infrastructure, holds urgent Qatar talks; Thousands storm Four Seasons Hotel lobby in DC demanding ICC arrest warrant for Netanyahu — 49% of Americans favor arrest.",
-      "tags": ["World Affairs", "Iran", "China", "Strait of Hormuz", "Middle East", "Washington Protest", "ICC"],
+      "tags": [
+        "World Affairs",
+        "Iran",
+        "China",
+        "Strait of Hormuz",
+        "Middle East",
+        "Washington Protest",
+        "ICC"
+      ],
       "file": "posts/447-iran-china-manpads-hormuz-rejection-gcc-protests-july-29-2026.en.html"
     }
   },
@@ -69,13 +158,32 @@
     "zh": {
       "title": "⚡ 7月29日金融超级日：美联储决议日悬念空前、KOSPI再现熔断连跌两日创历史、亚洲芯片股继续崩跌、布伦特原油跌破84美元",
       "summary": "⚡ 7月29日金融市场史诗级一日：美联储FOMC利率决议即将揭晓——加息概率24-38%为近两年最高分歧，新主席沃什面临「加息vs维稳」终极抉择；韩国KOSPI连续第二天触发熔断暴跌11.16%至5351点——史上首次主板科斯达克双市场连续两日同步熔断，三星电子跌11.32%、SK海力士跌16.58%；台湾TAIEX重挫4.65%创史上第三大跌幅；布伦特原油继续下探至83.80美元创三个月新低。超级日三线交织：货币政策、亚洲股市、原油市场。",
-      "tags": ["金融经济", "美联储", "FOMC", "利率决议", "KOSPI", "熔断", "亚洲股市", "芯片股", "油价"],
+      "tags": [
+        "金融经济",
+        "美联储",
+        "FOMC",
+        "利率决议",
+        "KOSPI",
+        "熔断",
+        "亚洲股市",
+        "芯片股",
+        "油价"
+      ],
       "file": "posts/446-fed-fomc-decision-day-kospi-circuit-breaker-asian-chip-rout-oil-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 29 Financial Super Day: Fed FOMC Decision Day — Maximum Uncertainty in Two Years; KOSPI Triggers Historic Back-to-Back Circuit Breakers; Asian Chip Rout Deepens; Brent Crude Falls to Three-Month Low Below $84",
       "summary": "⚡ July 29 financial mega-day: Fed FOMC rate decision with 24-38% probability of surprise hike — highest policy uncertainty in two years; South Korea's KOSPI crashes 11.16% triggering a second consecutive day of circuit breakers in both KOSPI and KOSDAQ — a historic first; Taiwan's TAIEX suffers 3rd-largest drop on record; Brent crude falls 5% to $83.80 hitting three-month low.",
-      "tags": ["Financial Markets", "Federal Reserve", "FOMC", "Rate Decision", "KOSPI", "Circuit Breaker", "Chip Stocks", "Oil"],
+      "tags": [
+        "Financial Markets",
+        "Federal Reserve",
+        "FOMC",
+        "Rate Decision",
+        "KOSPI",
+        "Circuit Breaker",
+        "Chip Stocks",
+        "Oil"
+      ],
       "file": "posts/446-fed-fomc-decision-day-kospi-circuit-breaker-asian-chip-rout-oil-july-29-2026.en.html"
     }
   },
@@ -85,13 +193,31 @@
     "zh": {
       "title": "⚡ 7月29日泛科技双响炮：阿里达摩院开源具身大脑RynnBrain 1.1、腾讯混元世界模型1.5正式开源",
       "summary": "⚡ 7月29日泛科技要闻：阿里巴巴达摩院发布RynnBrain 1.1具身智能大脑基础模型，一次性开源2B/9B/122B-A10B三档模型，首次让机器人拥有时空记忆与物理世界推理能力，16项具身榜单刷新SOTA；腾讯混元世界模型1.5（WorldPlay）同步开源业界最系统实时世界模型框架，支持24FPS 720P流式生成与3D空间记忆。中国AI开源生态全面爆发。",
-      "tags": ["泛科技", "具身智能", "RynnBrain", "腾讯混元", "世界模型", "开源", "阿里巴巴", "AI"],
+      "tags": [
+        "泛科技",
+        "具身智能",
+        "RynnBrain",
+        "腾讯混元",
+        "世界模型",
+        "开源",
+        "阿里巴巴",
+        "AI"
+      ],
       "file": "posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 29 Tech Double Feature: Alibaba DAMO Academy Open-Sources RynnBrain 1.1 — Robots Gain Spatio-Temporal Memory; Tencent Hunyuan World Model 1.5 Goes Open Source",
       "summary": "⚡ July 29 tech roundup: Alibaba DAMO Academy releases RynnBrain 1.1 embodied AI brain foundation model, open-sourcing 2B/9B/122B-A10B variants that give robots spatio-temporal memory and physical world reasoning for the first time; Tencent Hunyuan World Model 1.5 (WorldPlay) open-sources the industry's most comprehensive real-time world model framework with 24 FPS 720P streaming. Chinese AI open-source ecosystem surges.",
-      "tags": ["Tech", "Embodied AI", "RynnBrain", "Tencent Hunyuan", "World Model", "Open Source", "Alibaba", "AI"],
+      "tags": [
+        "Tech",
+        "Embodied AI",
+        "RynnBrain",
+        "Tencent Hunyuan",
+        "World Model",
+        "Open Source",
+        "Alibaba",
+        "AI"
+      ],
       "file": "posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.en.html"
     }
   },
@@ -99,15 +225,33 @@
     "id": "444",
     "date": "2026-07-29",
     "zh": {
-      "title": "⚡ 硅谷逾1100名AI员工联名请愿\u201c给AI装刹车\u201d：奥特曼承认\u201c不得不控制发展速度\u201d，黄仁勋同日赴华盛顿捍卫开源",
-      "summary": "⚡ 7月29日科技重磅：来自OpenAI、Anthropic、谷歌、Meta等12家公司的1171名员工签署\u2018Pacing the Frontier\u2019请愿书，敦促美国政府支持建立国际机制控制AI发展速度。OpenAI CEO奥特曼在播客中承认\u2018我们可能不得不控制AI发展的速度\u2019，Hugging Face入侵事件成转折点。同日英伟达CEO黄仁勋亲赴华盛顿游说，力陈开放权重模型对AI安全的战略价值。AI安全风险从\u2018说错话\u2019升级到\u2018做错事\u2019，行业内部路线分歧全面爆发。",
-      "tags": ["泛科技", "AI安全", "OpenAI", "Anthropic", "请愿", "英伟达", "开源模型", "AI监管"],
+      "title": "⚡ 硅谷逾1100名AI员工联名请愿“给AI装刹车”：奥特曼承认“不得不控制发展速度”，黄仁勋同日赴华盛顿捍卫开源",
+      "summary": "⚡ 7月29日科技重磅：来自OpenAI、Anthropic、谷歌、Meta等12家公司的1171名员工签署‘Pacing the Frontier’请愿书，敦促美国政府支持建立国际机制控制AI发展速度。OpenAI CEO奥特曼在播客中承认‘我们可能不得不控制AI发展的速度’，Hugging Face入侵事件成转折点。同日英伟达CEO黄仁勋亲赴华盛顿游说，力陈开放权重模型对AI安全的战略价值。AI安全风险从‘说错话’升级到‘做错事’，行业内部路线分歧全面爆发。",
+      "tags": [
+        "泛科技",
+        "AI安全",
+        "OpenAI",
+        "Anthropic",
+        "请愿",
+        "英伟达",
+        "开源模型",
+        "AI监管"
+      ],
       "file": "posts/444-pacing-the-frontier-petition-altman-huang-washington-open-weights-july-29-2026.zh.html"
     },
     "en": {
-      "title": "⚡ Over 1,100 AI Employees Sign \u2018Pacing the Frontier\u2019 Petition Urging US to Slow AI; Altman Admits \u2018We May Have to Pace the Rate\u2019; Jensen Huang Lobbies Washington on Open Weights Same Day",
-      "summary": "⚡ July 29 tech megastory: 1,171 employees from 12 AI companies sign \u2018Pacing the Frontier\u2019 petition urging US government to develop mechanisms for deliberately pacing frontier AI development. OpenAI CEO Sam Altman admits \u2018we may have to pace the rate of AI development\u2019 citing Hugging Face breach as turning point. Nvidia CEO Jensen Huang visits Washington same day to lobby Congress on open-weight models. The AI safety paradigm shifts from \u2018saying dangerous things\u2019 to \u2018doing dangerous things\u2019 as industry rift deepens.",
-      "tags": ["Tech News", "AI Safety", "OpenAI", "Anthropic", "Petition", "Nvidia", "Open Weights", "AI Regulation"],
+      "title": "⚡ Over 1,100 AI Employees Sign ‘Pacing the Frontier’ Petition Urging US to Slow AI; Altman Admits ‘We May Have to Pace the Rate’; Jensen Huang Lobbies Washington on Open Weights Same Day",
+      "summary": "⚡ July 29 tech megastory: 1,171 employees from 12 AI companies sign ‘Pacing the Frontier’ petition urging US government to develop mechanisms for deliberately pacing frontier AI development. OpenAI CEO Sam Altman admits ‘we may have to pace the rate of AI development’ citing Hugging Face breach as turning point. Nvidia CEO Jensen Huang visits Washington same day to lobby Congress on open-weight models. The AI safety paradigm shifts from ‘saying dangerous things’ to ‘doing dangerous things’ as industry rift deepens.",
+      "tags": [
+        "Tech News",
+        "AI Safety",
+        "OpenAI",
+        "Anthropic",
+        "Petition",
+        "Nvidia",
+        "Open Weights",
+        "AI Regulation"
+      ],
       "file": "posts/444-pacing-the-frontier-petition-altman-huang-washington-open-weights-july-29-2026.en.html"
     }
   },
@@ -117,13 +261,31 @@
     "zh": {
       "title": "⚡ 伊朗向约旦美军基地发射弹道导弹打破停火僵局，特朗普同日会晤内塔尼亚胡和泽连斯基，霍尔木兹联合管理方案推进中",
       "summary": "⚡ 7月29日国际政治要闻：伊朗革命卫队向约旦美军基地发射多枚弹道导弹，终结为期四天的停火——全部被美军拦截；特朗普白宫同日背靠背会晤内塔尼亚胡（90分钟闭门会谈称\"极佳\"）和泽连斯基（讨要爱国者导弹）；阿曼正式提出霍尔木兹海峡联合管理方案含\"自愿付费\"机制，伊朗警告不接受则水道持续关闭；美沙战机联合打击伊拉克亲伊朗武装阵地；参议院推进对俄伊制裁法案；林赛·格雷厄姆葬礼三领导人同场致哀。",
-      "tags": ["国际政治", "美伊冲突", "中东局势", "特朗普", "内塔尼亚胡", "泽连斯基", "霍尔木兹海峡", "制裁"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东局势",
+        "特朗普",
+        "内塔尼亚胡",
+        "泽连斯基",
+        "霍尔木兹海峡",
+        "制裁"
+      ],
       "file": "posts/443-iran-missile-attack-jordan-trump-netanyahu-zelenskyy-hormuz-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ Iran Fires Ballistic Missiles at US Base in Jordan, Breaking Fragile Truce; Trump Hosts Netanyahu and Zelenskyy Back-to-Back at White House; Oman Forges Hormuz Joint Management Plan",
       "summary": "⚡ July 29 world affairs: Iran's IRGC launches surprise ballistic missile attack on US base in Jordan, ending 4-day pause — all intercepted by CENTCOM; Trump holds back-to-back White House meetings with Netanyahu (90-minute 'excellent' talks) and Zelenskyy (urging Patriot air defenses); Oman proposes joint Strait of Hormuz management with voluntary fee mechanism; US-Saudi jets strike Iran-backed militia in Iraq; Senate advances Russia-Iran sanctions bill as all three leaders attend Lindsey Graham's funeral.",
-      "tags": ["World Affairs", "US-Iran War", "Middle East", "Trump", "Netanyahu", "Zelenskyy", "Strait of Hormuz", "Sanctions"],
+      "tags": [
+        "World Affairs",
+        "US-Iran War",
+        "Middle East",
+        "Trump",
+        "Netanyahu",
+        "Zelenskyy",
+        "Strait of Hormuz",
+        "Sanctions"
+      ],
       "file": "posts/443-iran-missile-attack-jordan-trump-netanyahu-zelenskyy-hormuz-july-29-2026.en.html"
     }
   },
@@ -133,13 +295,33 @@
     "zh": {
       "title": "⚡ SK海力士Q2财报出炉：营收79.3万亿韩元创历史新高，运营利润60.5万亿同比暴增557%，HBM4已大规模出货",
       "summary": "⚡ 7月29日金融重磅：SK海力士发布Q2创纪录财报——营收79.31万亿韩元(+257% YoY)、运营利润60.54万亿韩元(+557% YoY)、净利润93.92万亿韩元(+1,242.5%)，运营利润率76%再创历史新高超越台积电。HBM4已开始大规模出货，HBM4E样品已交付客户。利润略低于市场预期64.1万亿韩元，但绝对值仍为历史最佳。财报发布后KOSPI反弹2.76%，SK海力士涨3.74%，三星电子涨4.55%，亚洲芯片股全面反弹。",
-      "tags": ["金融经济", "SK海力士", "财报", "HBM", "AI内存", "KOSPI", "半导体", "韩国股市", "芯片股反弹"],
+      "tags": [
+        "金融经济",
+        "SK海力士",
+        "财报",
+        "HBM",
+        "AI内存",
+        "KOSPI",
+        "半导体",
+        "韩国股市",
+        "芯片股反弹"
+      ],
       "file": "posts/442-sk-hynix-q2-record-earnings-kospi-rebound-ai-chip-supercycle-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ SK Hynix Reports Record Q2 Earnings: Revenue Hits 79.3T Won, Operating Profit Surges 557% YoY, HBM4 Mass Shipments Begin",
       "summary": "⚡ July 29 financial重磅: SK Hynix reports record Q2 2026 earnings — revenue 79.31T won (+257% YoY), operating profit 60.54T won (+557% YoY), net profit 93.92T won (+1,242.5% YoY). Operating margin hits record 76%, surpassing TSMC again. HBM4 mass shipments begin, HBM4E samples delivered to customers. Results slightly miss 64.1T won consensus but remain historic. KOSPI rebounds 2.76%, SK Hynix +3.74%, Samsung +4.55% as Asian chip stocks recover from Black Tuesday.",
-      "tags": ["Financial Markets", "SK Hynix", "Earnings", "HBM", "AI Memory", "KOSPI", "Semiconductors", "South Korea", "Chip Stocks"],
+      "tags": [
+        "Financial Markets",
+        "SK Hynix",
+        "Earnings",
+        "HBM",
+        "AI Memory",
+        "KOSPI",
+        "Semiconductors",
+        "South Korea",
+        "Chip Stocks"
+      ],
       "file": "posts/442-sk-hynix-q2-record-earnings-kospi-rebound-ai-chip-supercycle-july-29-2026.en.html"
     }
   },
@@ -149,13 +331,31 @@
     "zh": {
       "title": "⚡ 7月29日泛科技三连击：英伟达发布Nemotron 3开源模型吞吐量4倍于前代、腾讯混元世界模型1.5开源、OpenAI推出GPT-5.6三档模型与ChatGPT Work",
       "summary": "⚡ 7月29日泛科技要闻：英伟达发布Nemotron 3开源MoE模型系列——Nano/Super/Ultra三档规格，吞吐量达前代4倍，Palantir/Cursor/Perplexity等12家巨头首批接入；腾讯混元世界模型1.5正式开源，业界首个实时世界模型框架WorldPlay支持24FPS 720P流式生成，空间记忆能力突破；OpenAI推出GPT-5.6三档模型Sol/Terra/Luna，ChatGPT Work与Codex正式合体。",
-      "tags": ["泛科技", "AI模型", "英伟达", "腾讯混元", "OpenAI", "GPT-5.6", "世界模型", "开源"],
+      "tags": [
+        "泛科技",
+        "AI模型",
+        "英伟达",
+        "腾讯混元",
+        "OpenAI",
+        "GPT-5.6",
+        "世界模型",
+        "开源"
+      ],
       "file": "posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 29 Tech Triple: Nvidia Launches Nemotron 3 Open-Source AI Models with 4x Throughput, Tencent Open-Sources Hunyuan World Model 1.5, OpenAI Debuts GPT-5.6 Trio and ChatGPT Work",
       "summary": "⚡ July 29 tech triple: Nvidia unveils Nemotron 3 MoE model family — Nano/Super/Ultra with 4x throughput, adopted by EY, Cisco, Palantir, Perplexity, Cursor and more; Tencent Hunyuan open-sources World Model 1.5 (WorldPlay) — industry's first real-time world model framework with 24 FPS 720P streaming and spatial memory; OpenAI launches GPT-5.6 in three tiers with ChatGPT Work merging ChatGPT and Codex.",
-      "tags": ["Tech News", "AI Models", "Nvidia", "Tencent", "OpenAI", "GPT-5.6", "World Model", "Open Source"],
+      "tags": [
+        "Tech News",
+        "AI Models",
+        "Nvidia",
+        "Tencent",
+        "OpenAI",
+        "GPT-5.6",
+        "World Model",
+        "Open Source"
+      ],
       "file": "posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.en.html"
     }
   },
@@ -165,13 +365,31 @@
     "zh": {
       "title": "⚡ \"黑色星期二\"全球芯片股史诗级暴跌：KOSPI熔断、三星SK海力士跌超13%、AMD签140亿美元数据中心大单、Kimi K3开源引爆市值蒸发数千亿",
       "summary": "⚡ 7月29日泛科技要闻：全球芯片股遭遇「黑色星期二」——KOSPI暴跌10.84%触发年内第八次熔断，三星电子-13.39%、SK海力士-14.65%，英伟达跌破200美元，费城半导体指数进入熊市；AMD与Core Scientific签140亿美元15年数据中心协议，锁定530兆瓦横跨五州AI算力；月之暗面正式开源Kimi K3 2.8万亿参数模型，18家美国企业火速部署，英伟达同日砸50亿美元投资SSI安全超级智能实验室。",
-      "tags": ["泛科技", "芯片", "KOSPI", "AMD", "AI基础设施", "Kimi K3", "开源AI", "英伟达"],
+      "tags": [
+        "泛科技",
+        "芯片",
+        "KOSPI",
+        "AMD",
+        "AI基础设施",
+        "Kimi K3",
+        "开源AI",
+        "英伟达"
+      ],
       "file": "posts/440-black-tuesday-chip-meltdown-kospi-amd-corsc-kimi-k3-open-source-nvidia-ssi-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ \"Black Tuesday\": Global Chip Stocks Suffer Historic Rout — KOSPI Triggers 8th Circuit Breaker, AMD Signs $14B Data Center Deal, Kimi K3 Open Source Sparks $314B Market Shock",
       "summary": "⚡ July 29 tech roundup: Global chip stocks hit by 'Black Tuesday' — KOSPI crashes 10.84% triggering 8th circuit breaker of 2026, Samsung -13.39%, SK Hynix -14.65%, Nvidia falls below $200, SOXX enters bear market; AMD signs $14B 15-year data center deal with Core Scientific for 2.5 GW AI capacity across five US states; Moonshot AI open-sources Kimi K3 — 2.8 trillion parameter model — 18 US companies deploy within hours, Nvidia invests $5B in SSI same day.",
-      "tags": ["Tech News", "Semiconductors", "KOSPI", "AMD", "AI Infrastructure", "Kimi K3", "Open Source AI", "Nvidia"],
+      "tags": [
+        "Tech News",
+        "Semiconductors",
+        "KOSPI",
+        "AMD",
+        "AI Infrastructure",
+        "Kimi K3",
+        "Open Source AI",
+        "Nvidia"
+      ],
       "file": "posts/440-black-tuesday-chip-meltdown-kospi-amd-corsc-kimi-k3-open-source-nvidia-ssi-july-29-2026.en.html"
     }
   },
@@ -181,13 +399,31 @@
     "zh": {
       "title": "⚡ 7月29日泛科技要闻：Meta与贝莱德140亿美元合建AI数据中心、三星急扩内存产线防苹果转购中国芯片、T-Mobile大宕机全面恢复",
       "summary": "⚡ 7月29日泛科技要闻：Meta与贝莱德宣布合资在德州埃尔帕索建设1吉瓦AI数据中心，总投资约140亿美元，BlackRock持股80%2028年投运；三星紧急新建内存产线防止苹果在华采购CXMT DRAM，RAMageddon持续推高存储芯片价格；T-Mobile周一以来大规模宕机已全面恢复服务。",
-      "tags": ["泛科技", "Meta", "AI基础设施", "三星", "存储芯片", "CXMT", "T-Mobile", "数据中心"],
+      "tags": [
+        "泛科技",
+        "Meta",
+        "AI基础设施",
+        "三星",
+        "存储芯片",
+        "CXMT",
+        "T-Mobile",
+        "数据中心"
+      ],
       "file": "posts/439-meta-blackrock-data-center-samsung-ram-cxmt-tmobile-outage-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 29 Tech Roundup: Meta & BlackRock Form $14B Venture for 1 GW AI Data Center, Samsung Rushes RAM Lines to Block Apple from Buying Chinese CXMT, T-Mobile Outage Fully Resolved",
       "summary": "⚡ July 29 tech roundup: Meta and BlackRock announce $14B joint venture for 1 GW AI data center in El Paso, Texas — BlackRock holds 80%, Meta retains 20%, coming online in 2028; Samsung reportedly rushing new DRAM production lines to prevent Apple from sourcing from China's CXMT amid RAMageddon; T-Mobile fully restores service after multi-day outage.",
-      "tags": ["Tech News", "Meta", "AI Infrastructure", "Samsung", "DRAM", "CXMT", "T-Mobile", "Data Center"],
+      "tags": [
+        "Tech News",
+        "Meta",
+        "AI Infrastructure",
+        "Samsung",
+        "DRAM",
+        "CXMT",
+        "T-Mobile",
+        "Data Center"
+      ],
       "file": "posts/439-meta-blackrock-data-center-samsung-ram-cxmt-tmobile-outage-july-29-2026.en.html"
     }
   },
@@ -197,13 +433,33 @@
     "zh": {
       "title": "⚡ 7月29日国际政治要闻：特朗普双峰会登场——内塔尼亚胡抵美共商伊朗、泽连斯基讨要爱国者导弹、阿曼正式提交霍尔木兹联合管理方案",
       "summary": "⚡ 7月29日国际政治要闻：特朗普在白宫同日会晤以色列总理内塔尼亚胡和乌克兰总统泽连斯基——内塔尼亚胡系美以联手对伊开战以来首次访美，会晤1.5小时白宫称「积极且富有成效」；阿曼正式提出霍尔木兹海峡联合管理方案获海湾国家背书，伊朗态度反复；伊朗副外长警告「不惧任何行动」捍卫海峡主权；特朗普再威胁打击伊朗镐山地下核设施；参议院推进对俄伊制裁法案；罗马尼亚驱逐俄外交官。",
-      "tags": ["国际政治", "特朗普", "内塔尼亚胡", "泽连斯基", "美伊冲突", "霍尔木兹海峡", "阿曼", "制裁", "罗马尼亚"],
+      "tags": [
+        "国际政治",
+        "特朗普",
+        "内塔尼亚胡",
+        "泽连斯基",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "阿曼",
+        "制裁",
+        "罗马尼亚"
+      ],
       "file": "posts/438-trump-netanyahu-zelenskyy-white-house-oman-hormuz-iran-sanctions-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 29 International Affairs: Trump Hosts Back-to-Back Summits — Netanyahu's First White House Visit Since Iran War, Zelenskyy Seeks Patriot Missiles, Oman Submits Hormuz Management Plan",
       "summary": "⚡ July 29 international affairs: Trump meets Netanyahu and Zelenskyy in back-to-back White House summits — Netanyahu's first US visit since the Iran war began, 90-min meeting described as 'positive and productive'; Oman formally presents Strait of Hormuz joint management plan with Gulf backing; Iran warns it is 'not afraid of any action' to defend sovereignty; Trump renews threat to strike Iran's Pickaxe Mountain nuclear facility; Senate advances Russia-Iran sanctions bill; Romania expels Russian diplomat.",
-      "tags": ["World Affairs", "Trump", "Netanyahu", "Zelenskyy", "US-Iran War", "Strait of Hormuz", "Oman", "Sanctions", "Romania"],
+      "tags": [
+        "World Affairs",
+        "Trump",
+        "Netanyahu",
+        "Zelenskyy",
+        "US-Iran War",
+        "Strait of Hormuz",
+        "Oman",
+        "Sanctions",
+        "Romania"
+      ],
       "file": "posts/438-trump-netanyahu-zelenskyy-white-house-oman-hormuz-iran-sanctions-july-29-2026.en.html"
     }
   },
@@ -213,13 +469,31 @@
     "zh": {
       "title": "⚡ FOMC决议日：美联储加息概率34%悬念空前、SK海力士营业利润创64万亿韩元历史新高、KOSPI暴跌10%触发熔断后能否企稳",
       "summary": "⚡ 7月29日金融重磅：美联储FOMC利率决议今日揭晓，市场加息概率34%分歧为近两年之最；SK海力士Q2营业利润预计达64万亿韩元创历史新高，HBM领先优势支撑77%毛利率；KOSPI暴跌10.84%触发年内第八次熔断后今日SK海力士财报或定生死；布伦特原油跌破84美元创三周新低；Meta与微软财报今夜登场。",
-      "tags": ["金融经济", "美联储", "SK海力士", "KOSPI", "芯片股", "油价", "FOMC", "加息"],
+      "tags": [
+        "金融经济",
+        "美联储",
+        "SK海力士",
+        "KOSPI",
+        "芯片股",
+        "油价",
+        "FOMC",
+        "加息"
+      ],
       "file": "posts/437-fomc-fed-decision-sk-hynix-record-earnings-kospi-crash-oil-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ FOMC Decision Day: Fed Faces Biggest Policy Uncertainty in 2 Years, SK Hynix Set to Report Record Q2 Profit, KOSPI Crashes 10% — Can Chip Stocks Recover?",
       "summary": "⚡ July 29 financial mega-day: Fed FOMC rate decision with 34% hike odds — biggest policy divide since 2024; SK Hynix expected to post record Q2 operating profit of 64 trillion won with 77% margin; KOSPI plunges 10.84% triggering 8th circuit breaker; Brent crude falls below $84; Meta and Microsoft earnings after the bell today.",
-      "tags": ["Financial Markets", "Federal Reserve", "SK Hynix", "KOSPI", "Semiconductors", "Oil", "FOMC", "Earnings"],
+      "tags": [
+        "Financial Markets",
+        "Federal Reserve",
+        "SK Hynix",
+        "KOSPI",
+        "Semiconductors",
+        "Oil",
+        "FOMC",
+        "Earnings"
+      ],
       "file": "posts/437-fomc-fed-decision-sk-hynix-record-earnings-kospi-crash-oil-july-29-2026.en.html"
     }
   },
@@ -229,13 +503,33 @@
     "zh": {
       "title": "⚡ 7月28日泛科技晚间要闻：中国量产浸没式DUV光刻机ASML暴跌8%、英伟达2500亿美元担保OpenAI引循环融资恐慌、微软发布MAI-Cyber-1-Flash安全AI模型",
       "summary": "⚡ 7月28日泛科技晚间要闻：中国上海埃盛纳电子科技集团开始量产浸没式DUV光刻机，2026年交付5台，ASML股价暴跌8.3%；英伟达与OpenAI洽谈2500亿美元数据中心融资担保，NVDA跌破200美元关口；微软发布Project Perception和MAI-Cyber-1-Flash安全AI模型，CyberGym基准96%性能超Anthropic Mythos/Google Gemini/OpenAI GPT，成本降50%。",
-      "tags": ["泛科技", "光刻机", "DUV", "ASML", "英伟达", "OpenAI", "微软", "网络安全", "AI模型"],
+      "tags": [
+        "泛科技",
+        "光刻机",
+        "DUV",
+        "ASML",
+        "英伟达",
+        "OpenAI",
+        "微软",
+        "网络安全",
+        "AI模型"
+      ],
       "file": "posts/436-china-duv-lithography-nvidia-openai-guarantee-microsoft-perception-july-28-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 28 Evening Tech Roundup: China Mass-Produces DUV Lithography — ASML Plunges 8%, Nvidia's $250B OpenAI Guarantee Sparks Concerns, Microsoft Launches Cyber AI",
       "summary": "⚡ July 28 evening tech roundup: China's Shanghai Aishengna begins mass production of immersion DUV lithography machines, ASML shares plummet 8.3%; Nvidia in talks to guarantee $250B for OpenAI's Ohio data center, NVDA falls below $200; Microsoft unveils Project Perception and MAI-Cyber-1-Flash, achieving 96% on CyberGym benchmark at half the cost.",
-      "tags": ["Tech", "Lithography", "DUV", "ASML", "Nvidia", "OpenAI", "Microsoft", "Cybersecurity", "AI"],
+      "tags": [
+        "Tech",
+        "Lithography",
+        "DUV",
+        "ASML",
+        "Nvidia",
+        "OpenAI",
+        "Microsoft",
+        "Cybersecurity",
+        "AI"
+      ],
       "file": "posts/436-china-duv-lithography-nvidia-openai-guarantee-microsoft-perception-july-28-2026.en.html"
     }
   },
@@ -243,8 +537,8 @@
     "id": "435",
     "date": "2026-07-28",
     "zh": {
-      "title": "⚡ 7月28日泛科技晚间要闻：Anthropic CEO首度回应开源模型争议称\u201c从未主张封禁\u201d、中国商务部批美\u201cAI霸权\u201d警告反制、Enigma 7100万美元打造公共机器人平台、苹果反超英伟达重夺市值第一",
-      "summary": "⚡ 7月28日泛科技晚间要闻：Anthropic CEO Dario Amodei打破沉默正式声明从未主张封禁开放权重模型，称不具备危险能力的开放权重模型是\u201c公共产品\u201d但不同意开源让防御方占优；中国商务部批美国\u201cAI霸权主义\u201d警告将反制；17岁微软神童创Enigma Robotics获7100万美元种子轮融资推出全球首个公共AI机器人体验平台Robots.online；苹果市值4.95万亿美元反超英伟达4.78万亿美元重夺全球市值第一。",
+      "title": "⚡ 7月28日泛科技晚间要闻：Anthropic CEO首度回应开源模型争议称“从未主张封禁”、中国商务部批美“AI霸权”警告反制、Enigma 7100万美元打造公共机器人平台、苹果反超英伟达重夺市值第一",
+      "summary": "⚡ 7月28日泛科技晚间要闻：Anthropic CEO Dario Amodei打破沉默正式声明从未主张封禁开放权重模型，称不具备危险能力的开放权重模型是“公共产品”但不同意开源让防御方占优；中国商务部批美国“AI霸权主义”警告将反制；17岁微软神童创Enigma Robotics获7100万美元种子轮融资推出全球首个公共AI机器人体验平台Robots.online；苹果市值4.95万亿美元反超英伟达4.78万亿美元重夺全球市值第一。",
       "tags": [
         "泛科技",
         "Anthropic",
@@ -259,8 +553,8 @@
       "file": "posts/435-anthropic-open-weights-china-ai-hegemonism-enigma-robotics-apple-nvidia-july-28-2026.zh.html"
     },
     "en": {
-      "title": "⚡ July 28 Evening Tech Roundup: Anthropic CEO Breaks Silence \u2014 \u201cNever Advocated for Ban on Open-Weight Models,\u201d China Accuses US of \u201cAI Hegemonism,\u201d Enigma Robotics Raises $71M, Apple Reclaims Market Cap Crown",
-      "summary": "⚡ July 28 evening tech roundup: Anthropic CEO Dario Amodei breaks silence stating he has never advocated for banning open-weight models, calls non-dangerous open models a \u201cpublic good\u201d but rejects claim that openness favors defenders; China commerce ministry accuses US of \u201cAI hegemonism\u201d threatening countermeasures; Enigma Robotics founded by 17-year-old Microsoft prodigy raises $71M seed round launching Robots.online \u2014 world\u2019s first public AI robotics experience; Apple reclaims global No. 1 at $4.95T market cap surpassing Nvidia\u2019s $4.78T.",
+      "title": "⚡ July 28 Evening Tech Roundup: Anthropic CEO Breaks Silence — “Never Advocated for Ban on Open-Weight Models,” China Accuses US of “AI Hegemonism,” Enigma Robotics Raises $71M, Apple Reclaims Market Cap Crown",
+      "summary": "⚡ July 28 evening tech roundup: Anthropic CEO Dario Amodei breaks silence stating he has never advocated for banning open-weight models, calls non-dangerous open models a “public good” but rejects claim that openness favors defenders; China commerce ministry accuses US of “AI hegemonism” threatening countermeasures; Enigma Robotics founded by 17-year-old Microsoft prodigy raises $71M seed round launching Robots.online — world’s first public AI robotics experience; Apple reclaims global No. 1 at $4.95T market cap surpassing Nvidia’s $4.78T.",
       "tags": [
         "Tech",
         "Anthropic",
