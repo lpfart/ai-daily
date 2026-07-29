@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 29 Jul 2026 03:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 04:03:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月29日泛科技双响炮：阿里达摩院开源具身大脑RynnBrain 1.1、腾讯混元世界模型1.5正式开源</title>
+      <link>https://ai-daily.cc.cd/posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.zh.html</link>
+      <description>⚡ 7月29日泛科技要闻：阿里巴巴达摩院发布RynnBrain 1.1具身智能大脑基础模型，一次性开源2B/9B/122B-A10B三档模型，首次让机器人拥有时空记忆与物理世界推理能力，16项具身榜单刷新SOTA；腾讯混元世界模型1.5（WorldPlay）同步开源业界最系统实时世界模型框架，支持24FPS 720P流式生成与3D空间记忆。中国AI开源生态全面爆发。</description>
+      <pubDate>Wed, 29 Jul 2026 04:03:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ Over 1,100 AI Employees Sign 'Pacing the Frontier' Petition Urging US to Slow AI; Altman Admits 'We May Have to Pace the Rate'; Jensen Huang Lobbies Washington on Open Weights Same Day</title>
