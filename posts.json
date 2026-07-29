@@ -1,5 +1,21 @@
 [
   {
+    "id": "460",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日科技晚报：Waymo Gemini登车、月之暗面估值350亿、Replit Design上线、BrowserStack发布Test Companion",
+      "summary": "⚡ 7月29日科技资讯：Waymo首次将Google Gemini AI助手整合进Ojai无人出租车，乘客可通过语音控制座舱并获取行程信息；月之暗面完成35亿美元融资估值达350亿美元，正规划500亿美元Pre-IPO轮；Replit推出Design设计套件，自然语言从创意到设计；BrowserStack发布Test Companion，将AI测试自动化直接嵌入IDE。",
+      "tags": ["科技新闻", "Waymo", "Gemini", "月之暗面", "Replit", "无人驾驶", "AI助手"],
+      "file": "posts/460-tech-roundup-waymo-gemini-ojai-moonshot-replit-design-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Tech Roundup: Waymo Adds Gemini to Ojai Robotaxi, Moonshot AI Hits $35B, Replit Design Launches",
+      "summary": "⚡ July 29 tech roundup: Waymo integrates Google Gemini AI into its Ojai robotaxi; Moonshot AI raises $3.5B at $35B valuation, plans $50B pre-IPO round; Replit launches Design suite; BrowserStack unveils Test Companion for agentic test automation in the IDE.",
+      "tags": ["Tech News", "Waymo", "Gemini", "Moonshot AI", "Replit", "Self-Driving", "AI Testing"],
+      "file": "posts/460-tech-roundup-waymo-gemini-ojai-moonshot-replit-design-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "459",
     "date": "2026-07-30",
     "zh": {
