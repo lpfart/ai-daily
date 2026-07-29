@@ -1,5 +1,21 @@
 [
   {
+    "id": "450",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日金融超级日：FOMC决议悬念创历史、伊朗突袭油价暴涨4%、韩指跌破6000二次熔断、欧股逆势走高",
+      "summary": "⚡ 7月29日全球金融市场史诗级一日：美联储FOMC利率决议日悬念空前，加息概率30%为近年之最；伊朗向美军发射弹道导弹油价暴涨4%布伦特重回87美元；韩国KOSPI跌破6000点连续第二日触发熔断；欧洲股市逆势走高FTSE 100涨0.6%能源股领涨。",
+      "tags": ["金融经济", "FOMC", "原油", "美股", "韩指", "全球市场"],
+      "file": "posts/450-fomc-decision-day-oil-surge-kospi-circuit-breaker-europe-markets-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Financial Super Day: FOMC Decision with Historic Uncertainty, Oil Surges 4% After Iran Strikes, KOSPI Breaks Below 6,000, European Stocks Defy Turmoil",
+      "summary": "⚡ July 29 marks the most critical trading day of 2026: Fed FOMC decision with historic uncertainty (30% hike probability), oil surges 4% after Iran launches ballistic missiles at US forces, South Korea's KOSPI breaks below 6,000 triggering second straight circuit breaker, European stocks open higher led by energy sector.",
+      "tags": ["Financial", "FOMC", "Oil", "KOSPI", "European Markets", "Gold"],
+      "file": "posts/450-fomc-decision-day-oil-surge-kospi-circuit-breaker-europe-markets-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "449",
     "date": "2026-07-29",
     "zh": {
