@@ -1,5 +1,21 @@
 [
   {
+    "id": "445",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日泛科技双响炮：阿里达摩院开源具身大脑RynnBrain 1.1、腾讯混元世界模型1.5正式开源",
+      "summary": "⚡ 7月29日泛科技要闻：阿里巴巴达摩院发布RynnBrain 1.1具身智能大脑基础模型，一次性开源2B/9B/122B-A10B三档模型，首次让机器人拥有时空记忆与物理世界推理能力，16项具身榜单刷新SOTA；腾讯混元世界模型1.5（WorldPlay）同步开源业界最系统实时世界模型框架，支持24FPS 720P流式生成与3D空间记忆。中国AI开源生态全面爆发。",
+      "tags": ["泛科技", "具身智能", "RynnBrain", "腾讯混元", "世界模型", "开源", "阿里巴巴", "AI"],
+      "file": "posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 Tech Double Feature: Alibaba DAMO Academy Open-Sources RynnBrain 1.1 — Robots Gain Spatio-Temporal Memory; Tencent Hunyuan World Model 1.5 Goes Open Source",
+      "summary": "⚡ July 29 tech roundup: Alibaba DAMO Academy releases RynnBrain 1.1 embodied AI brain foundation model, open-sourcing 2B/9B/122B-A10B variants that give robots spatio-temporal memory and physical world reasoning for the first time; Tencent Hunyuan World Model 1.5 (WorldPlay) open-sources the industry's most comprehensive real-time world model framework with 24 FPS 720P streaming. Chinese AI open-source ecosystem surges.",
+      "tags": ["Tech", "Embodied AI", "RynnBrain", "Tencent Hunyuan", "World Model", "Open Source", "Alibaba", "AI"],
+      "file": "posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "444",
     "date": "2026-07-29",
     "zh": {
