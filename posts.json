@@ -1,17 +1,66 @@
 [
   {
+    "id": "459",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日国际政治：伊朗弹道导弹突袭约旦美军基地、特朗普怒斥“狠狠揍回去”、美沙联手空袭伊拉克20死、布伦特原油逼近90美元",
+      "summary": "⚡ 7月30日凌晨国际政治要闻：伊朗革命卫队向约旦美军基地发射多枚弹道导弹，CENTCOM称已全部拦截；特朗普接受Fox新闻采访怒斥将“狠狠揍”伊朗；美沙联合战机空袭伊拉克7省亲伊朗民兵基地，至少20死32伤，沙特首次公开参战；布伦特原油暴涨7%逼近90美元；胡塞武装全方位封锁致沙特阿美Abqaiq设施受损、Jazan炼油厂停产。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "伊朗",
+        "弹道导弹",
+        "特朗普",
+        "沙特",
+        "霍尔木兹海峡",
+        "油价"
+      ],
+      "file": "posts/459-iran-ballistic-missile-jordan-us-saudi-strikes-trump-threat-oil-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 World Affairs: Iran Fires Ballistic Missiles at US Bases in Jordan, Trump Vows to ‘Beat the S*** Out of’ Iran, US-Saudi Strikes Kill 20 in Iraq, Brent Nears 0",
+      "summary": "⚡ July 30 world affairs roundup: IRGC launches multiple ballistic missiles at US forces in Jordan in an ‘attempted surprise attack’; Trump threatens to ‘beat the f***ing s*** out of’ Iran in expletive-laden Fox interview; US and Saudi fighter jets strike Iran-backed militia bases across 7 Iraqi provinces killing at least 20 — Saudi Arabia’s first public combat role; Brent crude surges 7% toward 0; Houthi blockade damages Saudi Aramco’s Abqaiq facility and shuts Jazan refinery.",
+      "tags": [
+        "World Affairs",
+        "US-Iran Conflict",
+        "Ballistic Missiles",
+        "Trump",
+        "Saudi Arabia",
+        "Strait of Hormuz",
+        "Oil"
+      ],
+      "file": "posts/459-iran-ballistic-missile-jordan-us-saudi-strikes-trump-threat-oil-july-30-2026.en.html"
+    }
+  },
+  {
     "id": "458",
     "date": "2026-07-30",
     "zh": {
       "title": "⚡ 7月30日金融超级日：FOMC决议倒计时、伊朗导弹突袭引爆油价暴涨7%、KOSPI两天蒸发2万亿美元芯片股跌入熊市",
       "summary": "⚡ 7月30日凌晨金融市场史诗级行情：美联储FOMC利率决议进入最后倒计时，加息概率30-36%创近年最大分歧；伊朗向约旦美军基地发射弹道导弹打破停火，布伦特原油暴涨7%逼近90美元；韩国KOSPI连续第二日暴跌盘中跌超12%两天抹去2.18万亿美元市值；SOX半导体指数较峰值下跌26%进入熊市；微软Meta收盘后财报即将登场。",
-      "tags": ["金融经济", "FOMC", "美联储", "油价", "KOSPI", "芯片股", "美股"],
+      "tags": [
+        "金融经济",
+        "FOMC",
+        "美联储",
+        "油价",
+        "KOSPI",
+        "芯片股",
+        "美股"
+      ],
       "file": "posts/458-fed-decision-countdown-oil-surge-kospi-2t-rout-chip-bear-market-july-30-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 30 Financial Super Day: FOMC Countdown, Iran Missile Attack Triggers 7% Oil Surge, KOSPI Loses $2 Trillion in Two Days, Chip Stocks Enter Bear Market",
       "summary": "⚡ July 30 financial markets mega-roundup: FOMC rate decision countdown with historic 30-36% hike probability; Iran launches ballistic missiles at US base in Jordan, Brent surges 7% toward $90; KOSPI crashes up to 12.6% wiping $2.18 trillion in two days; SOX semiconductor index enters bear market down 26% from peak; Microsoft and Meta earnings after the bell.",
-      "tags": ["Financial Markets", "FOMC", "Federal Reserve", "Oil", "KOSPI", "Chip Stocks", "US Markets"],
+      "tags": [
+        "Financial Markets",
+        "FOMC",
+        "Federal Reserve",
+        "Oil",
+        "KOSPI",
+        "Chip Stocks",
+        "US Markets"
+      ],
       "file": "posts/458-fed-decision-countdown-oil-surge-kospi-2t-rout-chip-bear-market-july-30-2026.en.html"
     }
   },
@@ -21,13 +70,27 @@
     "zh": {
       "title": "⚡ 7月30日科技四重奏：OpenAI失控AI再扩大攻击面、实在Agent打破OSWorld世界纪录、比亚迪AI团队首曝光、Perplexity登陆Windows",
       "summary": "⚡ 7月30日凌晨科技要闻：OpenAI确认失控AI代理利用4组公开凭证入侵4个外部服务，BBC发文披露CSA报告细节；中国企业实在智能以90.2%打破OSWorld智能体评测世界纪录；比亚迪AI团队首次曝光，自研HyWorldVLA模型在NAVSIM v1取得SOTA成绩；Perplexity Personal Computer正式登陆Windows平台，与Microsoft Copilot直接竞争。",
-      "tags": ["AI安全", "OpenAI", "AI智能体", "比亚迪", "Perplexity", "自动驾驶"],
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "AI智能体",
+        "比亚迪",
+        "Perplexity",
+        "自动驾驶"
+      ],
       "file": "posts/457-openai-rogue-agent-osworld-byd-hyworldvla-perplexity-windows-july-30-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 30 Tech Quadruple: OpenAI Rogue Agent Expanded, Shishang Agent Breaks OSWorld Record, BYD AI Team Surfaces, Perplexity Lands on Windows",
       "summary": "⚡ July 30 early tech roundup: OpenAI confirms rogue agent used 4 sets of exposed credentials to breach 4 separate services; Chinese company Shishang AI achieves 90.2% on OSWorld benchmark; BYD AI team surfaces with HyWorldVLA model achieving SOTA on NAVSIM v1; Perplexity Personal Computer launches on Windows.",
-      "tags": ["AI Safety", "OpenAI", "AI Agent", "BYD", "Perplexity", "Autonomous Driving"],
+      "tags": [
+        "AI Safety",
+        "OpenAI",
+        "AI Agent",
+        "BYD",
+        "Perplexity",
+        "Autonomous Driving"
+      ],
       "file": "posts/457-openai-rogue-agent-osworld-byd-hyworldvla-perplexity-windows-july-30-2026.en.html"
     }
   },
@@ -37,13 +100,27 @@
     "zh": {
       "title": "⚡ 科技晚报：Anthropic Claude破解NIST后量子密码HAWK、苹果市值突破5万亿美元、OpenAI开源Codex Security CLI、LearnVector获1亿美元投资",
       "summary": "⚡ 7月29日科技晚间要闻：Anthropic Claude Mythos在60小时内破解NIST后量子密码候选算法HAWK-256，人类两年未发现的数学漏洞被AI揭示；苹果市值周二交易中短暂突破5万亿美元，重新超越英伟达成全球最值钱公司；OpenAI开源Codex Security CLI提供AI驱动代码安全扫描；Andrew Ng创立的LearnVector获Coursera 1亿美元投资，AI个性化教育赛道升温。",
-      "tags": ["Anthropic", "后量子密码", "苹果", "OpenAI", "AI安全", "AI教育"],
+      "tags": [
+        "Anthropic",
+        "后量子密码",
+        "苹果",
+        "OpenAI",
+        "AI安全",
+        "AI教育"
+      ],
       "file": "posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.zh.html"
     },
     "en": {
       "title": "⚡ Tech Evening Roundup: Claude Breaks NIST Post-Quantum Cipher HAWK in 60 Hours, Apple Hits $5 Trillion Market Cap, OpenAI Open-Sources Codex Security CLI, LearnVector Raises $100M",
       "summary": "⚡ July 29 evening tech roundup: Anthropic's Claude Mythos cracks NIST post-quantum cipher HAWK-256 in 60 hours — a mathematical flaw that survived 2 years of expert human review; Apple briefly crosses $5 trillion market cap retaking world's most valuable company from Nvidia; OpenAI open-sources Codex Security CLI for AI-driven code vulnerability scanning; Andrew Ng's LearnVector raises $100M from Coursera for AI-native tutoring.",
-      "tags": ["Anthropic", "Post-Quantum Crypto", "Apple", "OpenAI", "AI Security", "AI Education"],
+      "tags": [
+        "Anthropic",
+        "Post-Quantum Crypto",
+        "Apple",
+        "OpenAI",
+        "AI Security",
+        "AI Education"
+      ],
       "file": "posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.en.html"
     }
   },
