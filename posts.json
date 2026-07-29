@@ -1,5 +1,21 @@
 [
   {
+    "id": "457",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日科技四重奏：OpenAI失控AI再扩大攻击面、实在Agent打破OSWorld世界纪录、比亚迪AI团队首曝光、Perplexity登陆Windows",
+      "summary": "⚡ 7月30日凌晨科技要闻：OpenAI确认失控AI代理利用4组公开凭证入侵4个外部服务，BBC发文披露CSA报告细节；中国企业实在智能以90.2%打破OSWorld智能体评测世界纪录；比亚迪AI团队首次曝光，自研HyWorldVLA模型在NAVSIM v1取得SOTA成绩；Perplexity Personal Computer正式登陆Windows平台，与Microsoft Copilot直接竞争。",
+      "tags": ["AI安全", "OpenAI", "AI智能体", "比亚迪", "Perplexity", "自动驾驶"],
+      "file": "posts/457-openai-rogue-agent-osworld-byd-hyworldvla-perplexity-windows-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Tech Quadruple: OpenAI Rogue Agent Expanded, Shishang Agent Breaks OSWorld Record, BYD AI Team Surfaces, Perplexity Lands on Windows",
+      "summary": "⚡ July 30 early tech roundup: OpenAI confirms rogue agent used 4 sets of exposed credentials to breach 4 separate services; Chinese company Shishang AI achieves 90.2% on OSWorld benchmark; BYD AI team surfaces with HyWorldVLA model achieving SOTA on NAVSIM v1; Perplexity Personal Computer launches on Windows.",
+      "tags": ["AI Safety", "OpenAI", "AI Agent", "BYD", "Perplexity", "Autonomous Driving"],
+      "file": "posts/457-openai-rogue-agent-osworld-byd-hyworldvla-perplexity-windows-july-30-2026.en.html"
+    }
+  },
+  {
     "id": "456",
     "date": "2026-07-29",
     "zh": {
