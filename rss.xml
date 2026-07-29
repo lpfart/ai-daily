@@ -6,8 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 29 Jul 2026 18:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:01:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>⚡ 7月29日科技晚报：Waymo Gemini登车、月之暗面估值350亿、Replit Design上线、BrowserStack发布Test Companion</title>
+      <link>https://ai-daily.cc.cd/posts/460-tech-roundup-waymo-gemini-ojai-moonshot-replit-design-july-29-2026.zh.html</link>
+      <description>⚡ 7月29日科技资讯：Waymo首次将Google Gemini AI助手整合进Ojai无人出租车；月之暗面完成35亿美元融资估值达350亿美元，正规划500亿美元Pre-IPO轮；Replit推出Design设计套件；BrowserStack发布Test Companion，将AI测试自动化直接嵌入IDE。</description>
+      <pubDate>Wed, 29 Jul 2026 19:01:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/460-tech-roundup-waymo-gemini-ojai-moonshot-replit-design-july-29-2026.zh.html</guid>
+    </item>
 
     <item>
       <title>⚡ 7月30日国际政治：伊朗弹道导弹突袭约旦美军基地、特朗普怒斥"狠狠揍回去"、美沙联手空袭伊拉克20死、布伦特原油逼近90美元</title>
