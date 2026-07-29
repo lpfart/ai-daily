@@ -1,5 +1,21 @@
 [
   {
+    "id": "448",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ xAI公布Grok 4.6/4.7发布路线图：1.5万亿参数8月7日登场，2.1万亿参数版紧随其后",
+      "summary": "⚡ 7月29日科技消息：Elon Musk在X平台公布xAI Grok 4.6与4.7完整路线图——Grok 4.6为1.5万亿参数模型，预计8月7日发布，显著优化监督微调与强化学习；Grok 4.7为2.1万亿参数更大模型，数周后接续登场。xAI以激进迭代策略应对OpenAI、Anthropic、Google等强敌环绕的AI竞赛格局。",
+      "tags": ["xAI", "Grok", "AI模型", "Elon Musk", "AI竞赛", "大模型"],
+      "file": "posts/448-grok-46-47-xai-musk-ai-model-roadmap-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ xAI Unveils Grok 4.6/4.7 Roadmap: 1.5T-Parameter Model Arrives August 7, 2.1T Version Follows",
+      "summary": "⚡ July 29 tech news: Elon Musk reveals xAI's Grok 4.6 and 4.7 roadmap on X — Grok 4.6 is a 1.5-trillion-parameter model arriving around August 7 with significantly improved SFT and RL; Grok 4.7 is a larger 2.1T-parameter model following weeks later. xAI's aggressive iteration strategy targets OpenAI, Anthropic, and Google in the intensifying AI race.",
+      "tags": ["xAI", "Grok", "AI Model", "Elon Musk", "AI Race"],
+      "file": "posts/448-grok-46-47-xai-musk-ai-model-roadmap-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "447",
     "date": "2026-07-29",
     "zh": {
