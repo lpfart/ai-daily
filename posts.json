@@ -1,5 +1,21 @@
 [
   {
+    "id": "447",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 伊朗采购400套中国肩扛防空导弹、反制阿曼霍尔木兹方案、科威特谴责沙特遇袭、华盛顿抗议者冲击内塔尼亚胡下榻酒店",
+      "summary": "⚡ 7月29日国际政治四重奏：路透社独家——伊朗数周内接收首批400套中国QW-12/FN-16肩扛式防空导弹价值6000-7000万美元经乌鲁木齐-巴基斯坦通道运抵；伊朗副外长加里巴巴迪正式拒绝阿曼50-50霍尔木兹分治方案要求全控50%+另一半部分控制否则海峡继续关闭；科威特强烈谴责亲伊朗武装袭击沙特石油设施与卡塔尔紧急协调地区安全；华盛顿数千抗议者冲击四季酒店大厅要求执行ICC逮捕令逮捕内塔尼亚胡——49%美国人支持逮捕。",
+      "tags": ["国际政治", "伊朗", "中国军事", "霍尔木兹海峡", "中东", "华盛顿抗议", "ICC"],
+      "file": "posts/447-iran-china-manpads-hormuz-rejection-gcc-protests-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Iran to Receive 400 Chinese MANPADS Within Weeks, Rejects Oman Hormuz Proposal, Kuwait Condemns Saudi Oil Attacks, DC Protesters Storm Netanyahu Hotel",
+      "summary": "⚡ July 29 world affairs quadruple: Reuters exclusive — Iran to receive 400 Chinese QW-12/FN-16 shoulder-fired air defense systems worth $60-70M via Urumqi-Pakistan corridor within weeks; Deputy FM Gharibabadi formally rejects Oman's 50-50 Hormuz split, demands full control of 50% plus partial control of opposite lane or strait stays closed; Kuwait condemns Iran-aligned militia attacks on Saudi oil infrastructure, holds urgent Qatar talks; Thousands storm Four Seasons Hotel lobby in DC demanding ICC arrest warrant for Netanyahu — 49% of Americans favor arrest.",
+      "tags": ["World Affairs", "Iran", "China", "Strait of Hormuz", "Middle East", "Washington Protest", "ICC"],
+      "file": "posts/447-iran-china-manpads-hormuz-rejection-gcc-protests-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "446",
     "date": "2026-07-29",
     "zh": {
