@@ -1,5 +1,37 @@
 [
   {
+    "id": "455",
+    "date": "2026-07-29",
+    "zh": {
+      "title": "⚡ 7月29日国际政治四重奏：以色列首认美军借基地空袭伊朗、参院86-12推进俄罗斯制裁法案、伊朗拒绝霍尔木兹平等分治方案并威胁欧洲军舰、革命卫队拦截3艘油轮",
+      "summary": "⚡ 7月29日国际政治要闻：以色列防长卡茨首次公开承认美军战机从以色列基地起飞空袭伊朗；美参院86-12压倒性票数推进俄罗斯制裁法案，泽连斯基在场见证；伊朗正式拒绝阿曼50-50霍尔木兹分治方案，警告欧洲军舰接近海峡即视为合法打击目标；革命卫队拦截并扣押3艘霍尔木兹油轮。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "以色列",
+        "俄罗斯制裁",
+        "霍尔木兹海峡",
+        "泽连斯基",
+        "参议院"
+      ],
+      "file": "posts/455-israel-us-bases-iran-senate-russia-sanctions-hormuz-july-29-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 29 World Affairs Quadruple: Israel Confirms US Warplanes Used Its Bases to Strike Iran; Senate 86-12 Advances Russia Sanctions Bill; Iran Rejects Hormuz 50-50 Split, Threatens European Warships; IRGC Intercepts 3 Tankers",
+      "summary": "⚡ July 29 world affairs roundup: Israeli Defense Minister Katz publicly confirms US fighter jets launched Iran strikes from Israeli bases; US Senate advances Russia-Iran sanctions bill 86-12 with Zelenskyy watching; Iran formally rejects Oman's 50-50 Hormuz proposal, warns European warships are 'legitimate targets'; IRGC intercepts 3 oil tankers in Strait of Hormuz.",
+      "tags": [
+        "World Affairs",
+        "US-Iran Conflict",
+        "Israel",
+        "Russia Sanctions",
+        "Strait of Hormuz",
+        "Zelenskyy",
+        "Senate"
+      ],
+      "file": "posts/455-israel-us-bases-iran-senate-russia-sanctions-hormuz-july-29-2026.en.html"
+    }
+  },
+  {
     "id": "454",
     "date": "2026-07-29",
     "zh": {
